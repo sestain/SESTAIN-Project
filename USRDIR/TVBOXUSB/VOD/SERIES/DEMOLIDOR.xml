@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<XMBML version="1.0">
+	
+	<!-- Main  > zeTVmod > Submenu -->
+	<View id="seg_tv_items">
+		<Attributes>
+<Table key=" 1T - EP 1"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/DEMOLIDOR.jpg</String></Pair><Pair key="title"><String> 1T - EP 1</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>https://www.blogger.com/video-play.mp4?contentId=259a987e36b9a654&</String></Pair></Table>
+<Table key=" 1T - EP 2"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/DEMOLIDOR.jpg</String></Pair><Pair key="title"><String> 1T - EP 2</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>https://www.blogger.com/video-play.mp4?contentId=b3ab163b1e3a98f8&</String></Pair></Table>
+<Table key=" 1T - EP 3"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/DEMOLIDOR.jpg</String></Pair><Pair key="title"><String> 1T - EP 3</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>https://www.blogger.com/video-play.mp4?contentId=ced96aeb0265bd51&</String></Pair></Table>
+<Table key=" 1T - EP 4"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/DEMOLIDOR.jpg</String></Pair><Pair key="title"><String> 1T - EP 4</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>https://www.blogger.com/video-play.mp4?contentId=7d59bb1333c43da4&</String></Pair></Table>
+<Table key=" 1T - EP 5"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/DEMOLIDOR.jpg</String></Pair><Pair key="title"><String> 1T - EP 5</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>https://www.blogger.com/video-play.mp4?contentId=5a7d1808aeb77b77&</String></Pair></Table>
+<Table key=" 1T - EP 6"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/DEMOLIDOR.jpg</String></Pair><Pair key="title"><String> 1T - EP 6</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>https://www.blogger.com/video-play.mp4?contentId=b90fe0a9f5ed9619&</String></Pair></Table>
+<Table key=" 1T - EP 7"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/DEMOLIDOR.jpg</String></Pair><Pair key="title"><String> 1T - EP 7</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>https://www.blogger.com/video-play.mp4?contentId=902e3b7da0c737ec&</String></Pair></Table>
+<Table key=" 1T - EP 8"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/DEMOLIDOR.jpg</String></Pair><Pair key="title"><String> 1T - EP 8</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>https://www.blogger.com/video-play.mp4?contentId=ad689902fb5641fa&</String></Pair></Table>
+<Table key=" 1T - EP 9"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/DEMOLIDOR.jpg</String></Pair><Pair key="title"><String> 1T - EP 9</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>https://www.blogger.com/video-play.mp4?contentId=10ee4900698ad67e&</String></Pair></Table>
+<Table key=" 1T - EP 10"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/DEMOLIDOR.jpg</String></Pair><Pair key="title"><String> 1T - EP 10</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>https://www.blogger.com/video-play.mp4?contentId=2e6f2de56842b51d&</String></Pair></Table>
+<Table key=" 1T - EP 11"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/DEMOLIDOR.jpg</String></Pair><Pair key="title"><String> 1T - EP 11</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>https://www.blogger.com/video-play.mp4?contentId=5562229dccd5d989&</String></Pair></Table>
+<Table key=" 1T - EP 12"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/DEMOLIDOR.jpg</String></Pair><Pair key="title"><String> 1T - EP 12</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>https://www.blogger.com/video-play.mp4?contentId=1509b84803e47103&</String></Pair></Table>
+<Table key=" 1T - EP 13"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/DEMOLIDOR.jpg</String></Pair><Pair key="title"><String> 1T - EP 13</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>https://www.blogger.com/video-play.mp4?contentId=b3b42bbeef13c042&</String></Pair></Table>
+<Table key=" 2T - EP 1"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/DEMOLIDOR.jpg</String></Pair><Pair key="title"><String> 2T - EP 1</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>https://www.blogger.com/video-play.mp4?contentId=a2d8465b173eb6b9&</String></Pair></Table>
+<Table key=" 2T - EP 2"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/DEMOLIDOR.jpg</String></Pair><Pair key="title"><String> 2T - EP 2</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>https://www.blogger.com/video-play.mp4?contentId=4207c79a53997a8b&</String></Pair></Table>
+<Table key=" 2T - EP 3"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/DEMOLIDOR.jpg</String></Pair><Pair key="title"><String> 2T - EP 3</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>https://www.blogger.com/video-play.mp4?contentId=eeb9ddda4270645c&</String></Pair></Table>
+<Table key=" 2T - EP 4"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/DEMOLIDOR.jpg</String></Pair><Pair key="title"><String> 2T - EP 4</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>https://www.blogger.com/video-play.mp4?contentId=ad7291ab576dc2d3&</String></Pair></Table>
+<Table key=" 2T - EP 5"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/DEMOLIDOR.jpg</String></Pair><Pair key="title"><String> 2T - EP 5</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>https://www.blogger.com/video-play.mp4?contentId=1ba6efd13f2f448b&</String></Pair></Table>
+<Table key=" 2T - EP 6"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/DEMOLIDOR.jpg</String></Pair><Pair key="title"><String> 2T - EP 6</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>https://www.blogger.com/video-play.mp4?contentId=56aec0f05632acd6&</String></Pair></Table>
+<Table key=" 2T - EP 7"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/DEMOLIDOR.jpg</String></Pair><Pair key="title"><String> 2T - EP 7</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>https://www.blogger.com/video-play.mp4?contentId=50ca200202e820ef&</String></Pair></Table>
+<Table key=" 2T - EP 8"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/DEMOLIDOR.jpg</String></Pair><Pair key="title"><String> 2T - EP 8</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>https://www.blogger.com/video-play.mp4?contentId=9e6e1135d715621a&</String></Pair></Table>
+<Table key=" 2T - EP 9"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/DEMOLIDOR.jpg</String></Pair><Pair key="title"><String> 2T - EP 9</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>https://www.blogger.com/video-play.mp4?contentId=8118634512dd2fb7&</String></Pair></Table>
+<Table key=" 2T - EP 10"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/DEMOLIDOR.jpg</String></Pair><Pair key="title"><String> 2T - EP 10</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>https://www.blogger.com/video-play.mp4?contentId=ef11c8b87f1cf09a&</String></Pair></Table>
+<Table key=" 2T - EP 11"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/DEMOLIDOR.jpg</String></Pair><Pair key="title"><String> 2T - EP 11</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>https://www.blogger.com/video-play.mp4?contentId=4bc26d33557a25e5&</String></Pair></Table>
+<Table key=" 2T - EP 12"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/DEMOLIDOR.jpg</String></Pair><Pair key="title"><String> 2T - EP 12</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>https://www.blogger.com/video-play.mp4?contentId=4aaf0ef3df0ede48&</String></Pair></Table>
+<Table key=" 2T - EP 13"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/DEMOLIDOR.jpg</String></Pair><Pair key="title"><String> 2T - EP 13</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>https://www.blogger.com/video-play.mp4?contentId=f7c554e776c1ed4b&</String></Pair></Table>
+</Attributes>
+		<Items>
+<Item class="type:x-xmb/module-action" key=" 1T - EP 1" attr=" 1T - EP 1"/>
+<Item class="type:x-xmb/module-action" key=" 1T - EP 2" attr=" 1T - EP 2"/>
+<Item class="type:x-xmb/module-action" key=" 1T - EP 3" attr=" 1T - EP 3"/>
+<Item class="type:x-xmb/module-action" key=" 1T - EP 4" attr=" 1T - EP 4"/>
+<Item class="type:x-xmb/module-action" key=" 1T - EP 5" attr=" 1T - EP 5"/>
+<Item class="type:x-xmb/module-action" key=" 1T - EP 6" attr=" 1T - EP 6"/>
+<Item class="type:x-xmb/module-action" key=" 1T - EP 7" attr=" 1T - EP 7"/>
+<Item class="type:x-xmb/module-action" key=" 1T - EP 8" attr=" 1T - EP 8"/>
+<Item class="type:x-xmb/module-action" key=" 1T - EP 9" attr=" 1T - EP 9"/>
+<Item class="type:x-xmb/module-action" key=" 1T - EP 10" attr=" 1T - EP 10"/>
+<Item class="type:x-xmb/module-action" key=" 1T - EP 11" attr=" 1T - EP 11"/>
+<Item class="type:x-xmb/module-action" key=" 1T - EP 12" attr=" 1T - EP 12"/>
+<Item class="type:x-xmb/module-action" key=" 1T - EP 13" attr=" 1T - EP 13"/>
+<Item class="type:x-xmb/module-action" key=" 2T - EP 1" attr=" 2T - EP 1"/>
+<Item class="type:x-xmb/module-action" key=" 2T - EP 2" attr=" 2T - EP 2"/>
+<Item class="type:x-xmb/module-action" key=" 2T - EP 3" attr=" 2T - EP 3"/>
+<Item class="type:x-xmb/module-action" key=" 2T - EP 4" attr=" 2T - EP 4"/>
+<Item class="type:x-xmb/module-action" key=" 2T - EP 5" attr=" 2T - EP 5"/>
+<Item class="type:x-xmb/module-action" key=" 2T - EP 6" attr=" 2T - EP 6"/>
+<Item class="type:x-xmb/module-action" key=" 2T - EP 7" attr=" 2T - EP 7"/>
+<Item class="type:x-xmb/module-action" key=" 2T - EP 8" attr=" 2T - EP 8"/>
+<Item class="type:x-xmb/module-action" key=" 2T - EP 9" attr=" 2T - EP 9"/>
+<Item class="type:x-xmb/module-action" key=" 2T - EP 10" attr=" 2T - EP 10"/>
+<Item class="type:x-xmb/module-action" key=" 2T - EP 11" attr=" 2T - EP 11"/>
+<Item class="type:x-xmb/module-action" key=" 2T - EP 12" attr=" 2T - EP 12"/>
+<Item class="type:x-xmb/module-action" key=" 2T - EP 13" attr=" 2T - EP 13"/>
+</Items>
+	</View>
+
+</XMBML>		

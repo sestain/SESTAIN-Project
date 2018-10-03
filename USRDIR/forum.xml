@@ -1,0 +1,219 @@
+﻿<XMBML version="1.0">
+    <View id="han_toolbox_forum_items">
+        <Attributes>
+
+
+           
+           
+                    <Table key="han_toolbox_site">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/forum.png</String></Pair>
+				<Pair key="title"><String>NO FORUMS!</String></Pair>
+				<Pair key="info"><String>NO FORUMS STILL!</String></Pair>
+                                 <Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>http://mrkal.fi/rick</String></Pair>
+			
+			</Table>
+
+
+<Table key="han_toolbox_sitea">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/regras.png</String></Pair>
+				<Pair key="title"><String>No Rules</String></Pair>
+				<Pair key="info"><String>No Rules Still.</String></Pair>
+                                 <Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>http://mrkal.fi/rick/</String></Pair>
+			
+			</Table>
+<Table key="han_toolbox_siteb">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/tutorial.png</String></Pair>
+				<Pair key="title"><String>If you really need tutorial just google it.</String></Pair>
+				<Pair key="info"><String>No rules.</String></Pair>
+                                 <Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>http://mrkal.fi/rick/</String></Pair>
+			
+			</Table>
+
+
+<Table key="han_toolbox_sitec">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/tutorial.png</String></Pair>
+				<Pair key="title"><String>If you really need tutorial just google it.</String></Pair>
+				<Pair key="info"><String>No rules.</String></Pair>
+                                 <Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>http://mrkal.fi/rick/</String></Pair>
+			
+			</Table>
+
+<Table key="han_toolbox_sited">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/tutorial.png</String></Pair>
+				<Pair key="title"><String>If you really need tutorial just google it.</String></Pair>
+				<Pair key="info"><String>No rules.</String></Pair>
+                                 <Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>http://mrkal.fi/rick/</String></Pair>
+			
+			</Table>
+
+<Table key="han_toolbox_sitee">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/tutorial.png</String></Pair>
+				<Pair key="title"><String>If you really need tutorial just google it.</String></Pair>
+				<Pair key="info"><String>No rules.</String></Pair>
+                                 <Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>http://mrkal.fi/rick/</String></Pair>
+			
+			</Table>
+
+
+<Table key="han_toolbox_sitef">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/tutorial.png</String></Pair>
+				<Pair key="title"><String>If you really need tutorial just google it.</String></Pair>
+				<Pair key="info"><String>No rules.</String></Pair>
+                                 <Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>http://mrkal.fi/rick/</String></Pair>
+			
+			</Table>
+
+
+
+
+
+        </Attributes>
+        <Items>
+
+        
+
+
+
+
+ <Query 
+				class="type:x-xmb/module-action"
+				key="han_toolbox_site"
+				attr="han_toolbox_site"
+                         src="http://mrkal.fi/rick/"
+                          />
+
+
+
+ <Query 
+				class="type:x-xmb/module-action"
+				key="han_toolbox_sitea"
+				attr="han_toolbox_sitea"
+                         src="http://mrkal.fi/rick/"
+                          />
+
+ <Query 
+				class="type:x-xmb/module-action"
+				key="han_toolbox_siteb"
+				attr="han_toolbox_siteb"
+                         src="http://mrkal.fi/rick/"
+                          />
+
+ <Query 
+				class="type:x-xmb/module-action"
+				key="han_toolbox_sitec"
+				attr="han_toolbox_sitec"
+                         src="http://mrkal.fi/rick/"
+                          />
+
+ <Query 
+				class="type:x-xmb/module-action"
+				key="han_toolbox_sited"
+				attr="han_toolbox_sited"
+                         src="http://mrkal.fi/rick/"
+                          />
+
+ <Query 
+				class="type:x-xmb/module-action"
+				key="han_toolbox_sitee"
+				attr="han_toolbox_sitee"
+                         src="http://mrkal.fi/rick/"
+                          />
+
+<Query 
+				class="type:x-xmb/module-action"
+				key="han_toolbox_sitef"
+				attr="han_toolbox_sitef"
+                         src="http://mrkal.fi/rick/"
+                          />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        </Items>
+    </View>
+</XMBML>

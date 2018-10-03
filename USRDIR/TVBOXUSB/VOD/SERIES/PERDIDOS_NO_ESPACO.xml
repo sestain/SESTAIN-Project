@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<XMBML version="1.0">
+	
+	<!-- Main  > zeTVmod > Submenu -->
+	<View id="seg_tv_items">
+		<Attributes>
+<Table key="PERDIDOS NO ESPACO T01E01"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/PERDIDOS_NO_ESPACO.jpg</String></Pair><Pair key="title"><String>PERDIDOS NO ESPACO T01E01</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=1f9671ee30349d5d</String></Pair></Table>
+<Table key="PERDIDOS NO ESPACO T01E02 Leg"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/PERDIDOS_NO_ESPACO.jpg</String></Pair><Pair key="title"><String>PERDIDOS NO ESPACO T01E02 Leg</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=3e5aa0f376915722</String></Pair></Table>
+<Table key="PERDIDOS NO ESPACO T01E03 Leg"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/PERDIDOS_NO_ESPACO.jpg</String></Pair><Pair key="title"><String>PERDIDOS NO ESPACO T01E03 Leg</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=3222c3582d83179f</String></Pair></Table>
+<Table key="PERDIDOS NO ESPACO T01E04 Leg"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/PERDIDOS_NO_ESPACO.jpg</String></Pair><Pair key="title"><String>PERDIDOS NO ESPACO T01E04 Leg</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=e5519a8ba37c9066</String></Pair></Table>
+<Table key="PERDIDOS NO ESPACO T01E05 Leg"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/PERDIDOS_NO_ESPACO.jpg</String></Pair><Pair key="title"><String>PERDIDOS NO ESPACO T01E05 Leg</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=4f9c5da23e34776c</String></Pair></Table>
+<Table key="PERDIDOS NO ESPACO T01E06 Leg"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/PERDIDOS_NO_ESPACO.jpg</String></Pair><Pair key="title"><String>PERDIDOS NO ESPACO T01E06 Leg</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=e0d4718832675b0f</String></Pair></Table>
+<Table key="PERDIDOS NO ESPACO T01E07 Leg"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/PERDIDOS_NO_ESPACO.jpg</String></Pair><Pair key="title"><String>PERDIDOS NO ESPACO T01E07 Leg</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=8f02999135cb5f74</String></Pair></Table>
+<Table key="PERDIDOS NO ESPACO T01E08 Leg"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/PERDIDOS_NO_ESPACO.jpg</String></Pair><Pair key="title"><String>PERDIDOS NO ESPACO T01E08 Leg</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=a983832dbe1624d8</String></Pair></Table>
+<Table key="PERDIDOS NO ESPACO T01E09 Leg"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/PERDIDOS_NO_ESPACO.jpg</String></Pair><Pair key="title"><String>PERDIDOS NO ESPACO T01E09 Leg</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=99e5df48a42c9285</String></Pair></Table>
+<Table key="PERDIDOS NO ESPACO T01E10 Leg"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/PERDIDOS_NO_ESPACO.jpg</String></Pair><Pair key="title"><String>PERDIDOS NO ESPACO T01E10 Leg</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=dce179e2bc023eb</String></Pair></Table>
+</Attributes>
+		<Items>
+<Item class="type:x-xmb/module-action" key="PERDIDOS NO ESPACO T01E01" attr="PERDIDOS NO ESPACO T01E01"/>
+<Item class="type:x-xmb/module-action" key="PERDIDOS NO ESPACO T01E02 Leg" attr="PERDIDOS NO ESPACO T01E02 Leg"/>
+<Item class="type:x-xmb/module-action" key="PERDIDOS NO ESPACO T01E03 Leg" attr="PERDIDOS NO ESPACO T01E03 Leg"/>
+<Item class="type:x-xmb/module-action" key="PERDIDOS NO ESPACO T01E04 Leg" attr="PERDIDOS NO ESPACO T01E04 Leg"/>
+<Item class="type:x-xmb/module-action" key="PERDIDOS NO ESPACO T01E05 Leg" attr="PERDIDOS NO ESPACO T01E05 Leg"/>
+<Item class="type:x-xmb/module-action" key="PERDIDOS NO ESPACO T01E06 Leg" attr="PERDIDOS NO ESPACO T01E06 Leg"/>
+<Item class="type:x-xmb/module-action" key="PERDIDOS NO ESPACO T01E07 Leg" attr="PERDIDOS NO ESPACO T01E07 Leg"/>
+<Item class="type:x-xmb/module-action" key="PERDIDOS NO ESPACO T01E08 Leg" attr="PERDIDOS NO ESPACO T01E08 Leg"/>
+<Item class="type:x-xmb/module-action" key="PERDIDOS NO ESPACO T01E09 Leg" attr="PERDIDOS NO ESPACO T01E09 Leg"/>
+<Item class="type:x-xmb/module-action" key="PERDIDOS NO ESPACO T01E10 Leg" attr="PERDIDOS NO ESPACO T01E10 Leg"/>
+</Items>
+	</View>
+
+</XMBML>		

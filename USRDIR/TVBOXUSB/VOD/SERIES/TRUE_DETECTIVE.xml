@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<XMBML version="1.0">
+	
+	<!-- Main  > zeTVmod > Submenu -->
+	<View id="seg_tv_items">
+		<Attributes>
+<Table key="TRUE DETECTIVE 1X01"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/TRUE_DETECTIVE.jpg</String></Pair><Pair key="title"><String>TRUE DETECTIVE 1X01</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=b209844f6498b7b9</String></Pair></Table>
+<Table key="TRUE DETECTIVE 1X02"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/TRUE_DETECTIVE.jpg</String></Pair><Pair key="title"><String>TRUE DETECTIVE 1X02</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=f32fbc3777971ffd</String></Pair></Table>
+<Table key="TRUE DETECTIVE 1X03"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/TRUE_DETECTIVE.jpg</String></Pair><Pair key="title"><String>TRUE DETECTIVE 1X03</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=7921b800ef572cd0</String></Pair></Table>
+<Table key="TRUE DETECTIVE 1X04"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/TRUE_DETECTIVE.jpg</String></Pair><Pair key="title"><String>TRUE DETECTIVE 1X04</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=5e458401c029746a</String></Pair></Table>
+<Table key="TRUE DETECTIVE 1X05"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/TRUE_DETECTIVE.jpg</String></Pair><Pair key="title"><String>TRUE DETECTIVE 1X05</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=3281a3d3d3847825</String></Pair></Table>
+<Table key="TRUE DETECTIVE 1X06"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/TRUE_DETECTIVE.jpg</String></Pair><Pair key="title"><String>TRUE DETECTIVE 1X06</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=e25b4956a8808767</String></Pair></Table>
+<Table key="TRUE DETECTIVE 1X07"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/TRUE_DETECTIVE.jpg</String></Pair><Pair key="title"><String>TRUE DETECTIVE 1X07</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=a8a3bc7115931c43</String></Pair></Table>
+<Table key="TRUE DETECTIVE 1X08"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/TRUE_DETECTIVE.jpg</String></Pair><Pair key="title"><String>TRUE DETECTIVE 1X08</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=fee1d103750d6f68</String></Pair></Table>
+<Table key="TRUE DETECTIVE 2X01"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/TRUE_DETECTIVE.jpg</String></Pair><Pair key="title"><String>TRUE DETECTIVE 2X01</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=6415afd3f0dcf5fb</String></Pair></Table>
+<Table key="TRUE DETECTIVE 2X02"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/TRUE_DETECTIVE.jpg</String></Pair><Pair key="title"><String>TRUE DETECTIVE 2X02</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=b16a214c632917f1</String></Pair></Table>
+<Table key="TRUE DETECTIVE 2X03"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/TRUE_DETECTIVE.jpg</String></Pair><Pair key="title"><String>TRUE DETECTIVE 2X03</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=f2dc88539b396632</String></Pair></Table>
+<Table key="TRUE DETECTIVE 2X04"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/TRUE_DETECTIVE.jpg</String></Pair><Pair key="title"><String>TRUE DETECTIVE 2X04</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=22b21b6c2c8bb9d2</String></Pair></Table>
+<Table key="TRUE DETECTIVE 2X05"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/TRUE_DETECTIVE.jpg</String></Pair><Pair key="title"><String>TRUE DETECTIVE 2X05</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=234ab35393b8fa70</String></Pair></Table>
+<Table key="TRUE DETECTIVE 2X06"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/TRUE_DETECTIVE.jpg</String></Pair><Pair key="title"><String>TRUE DETECTIVE 2X06</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=37de5f62491df37d</String></Pair></Table>
+<Table key="TRUE DETECTIVE 2X07"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/TRUE_DETECTIVE.jpg</String></Pair><Pair key="title"><String>TRUE DETECTIVE 2X07</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=543ae0badbd7bb9d</String></Pair></Table>
+<Table key="TRUE DETECTIVE 2X08 Leg"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/TRUE_DETECTIVE.jpg</String></Pair><Pair key="title"><String>TRUE DETECTIVE 2X08 Leg</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=46ac0b602a29fab2</String></Pair></Table>
+</Attributes>
+		<Items>
+<Item class="type:x-xmb/module-action" key="TRUE DETECTIVE 1X01" attr="TRUE DETECTIVE 1X01"/>
+<Item class="type:x-xmb/module-action" key="TRUE DETECTIVE 1X02" attr="TRUE DETECTIVE 1X02"/>
+<Item class="type:x-xmb/module-action" key="TRUE DETECTIVE 1X03" attr="TRUE DETECTIVE 1X03"/>
+<Item class="type:x-xmb/module-action" key="TRUE DETECTIVE 1X04" attr="TRUE DETECTIVE 1X04"/>
+<Item class="type:x-xmb/module-action" key="TRUE DETECTIVE 1X05" attr="TRUE DETECTIVE 1X05"/>
+<Item class="type:x-xmb/module-action" key="TRUE DETECTIVE 1X06" attr="TRUE DETECTIVE 1X06"/>
+<Item class="type:x-xmb/module-action" key="TRUE DETECTIVE 1X07" attr="TRUE DETECTIVE 1X07"/>
+<Item class="type:x-xmb/module-action" key="TRUE DETECTIVE 1X08" attr="TRUE DETECTIVE 1X08"/>
+<Item class="type:x-xmb/module-action" key="TRUE DETECTIVE 2X01" attr="TRUE DETECTIVE 2X01"/>
+<Item class="type:x-xmb/module-action" key="TRUE DETECTIVE 2X02" attr="TRUE DETECTIVE 2X02"/>
+<Item class="type:x-xmb/module-action" key="TRUE DETECTIVE 2X03" attr="TRUE DETECTIVE 2X03"/>
+<Item class="type:x-xmb/module-action" key="TRUE DETECTIVE 2X04" attr="TRUE DETECTIVE 2X04"/>
+<Item class="type:x-xmb/module-action" key="TRUE DETECTIVE 2X05" attr="TRUE DETECTIVE 2X05"/>
+<Item class="type:x-xmb/module-action" key="TRUE DETECTIVE 2X06" attr="TRUE DETECTIVE 2X06"/>
+<Item class="type:x-xmb/module-action" key="TRUE DETECTIVE 2X07" attr="TRUE DETECTIVE 2X07"/>
+<Item class="type:x-xmb/module-action" key="TRUE DETECTIVE 2X08 Leg" attr="TRUE DETECTIVE 2X08 Leg"/>
+</Items>
+	</View>
+
+</XMBML>		

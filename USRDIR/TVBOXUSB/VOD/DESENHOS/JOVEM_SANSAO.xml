@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<XMBML version="1.0">
+	
+	<!-- Main  > zeTVmod > Submenu -->
+	<View id="seg_tv_items">
+		<Attributes>
+<Table key="O Jovem Sansão Episodio 1 "><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/DESENHOS/JOVEM_SANSAO.jpg</String></Pair><Pair key="title"><String>O Jovem Sansão Episodio 1 </String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=ef358267db82e6c0</String></Pair></Table>
+<Table key="O Jovem Sansão Episodio 2 "><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/DESENHOS/JOVEM_SANSAO.jpg</String></Pair><Pair key="title"><String>O Jovem Sansão Episodio 2 </String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=b8f427a6a84ad924</String></Pair></Table>
+<Table key="O Jovem Sansão Episodio 3 "><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/DESENHOS/JOVEM_SANSAO.jpg</String></Pair><Pair key="title"><String>O Jovem Sansão Episodio 3 </String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=f86e598f50f82711</String></Pair></Table>
+<Table key="O Jovem Sansão Episodio 4 "><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/DESENHOS/JOVEM_SANSAO.jpg</String></Pair><Pair key="title"><String>O Jovem Sansão Episodio 4 </String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=8d8ae6d42ab35a1e</String></Pair></Table>
+<Table key="O Jovem Sansão Episodio 5 "><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/DESENHOS/JOVEM_SANSAO.jpg</String></Pair><Pair key="title"><String>O Jovem Sansão Episodio 5 </String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=ca987dfd7ad084eb</String></Pair></Table>
+<Table key="O Jovem Sansão Episodio 6 "><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/DESENHOS/JOVEM_SANSAO.jpg</String></Pair><Pair key="title"><String>O Jovem Sansão Episodio 6 </String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=c48f074abf4ad51a</String></Pair></Table>
+<Table key="O Jovem Sansão Episodio 7 "><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/DESENHOS/JOVEM_SANSAO.jpg</String></Pair><Pair key="title"><String>O Jovem Sansão Episodio 7 </String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=dbebb39aae306cc4</String></Pair></Table>
+<Table key="O Jovem Sansão Episodio 8"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/DESENHOS/JOVEM_SANSAO.jpg</String></Pair><Pair key="title"><String>O Jovem Sansão Episodio 8</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=79d120f48f3c7783</String></Pair></Table>
+<Table key="O Jovem Sansão Episodio 9 "><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/DESENHOS/JOVEM_SANSAO.jpg</String></Pair><Pair key="title"><String>O Jovem Sansão Episodio 9 </String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=560b758c457b82a6</String></Pair></Table>
+<Table key="O Jovem Sansão Episodio 11 "><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/DESENHOS/JOVEM_SANSAO.jpg</String></Pair><Pair key="title"><String>O Jovem Sansão Episodio 11 </String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=b799a091e87cc05d</String></Pair></Table>
+<Table key="O Jovem Sansão Episodio 12"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/DESENHOS/JOVEM_SANSAO.jpg</String></Pair><Pair key="title"><String>O Jovem Sansão Episodio 12</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=3c8082c7a0786c95</String></Pair></Table>
+<Table key="O Jovem Sansão Episodio 13 "><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/DESENHOS/JOVEM_SANSAO.jpg</String></Pair><Pair key="title"><String>O Jovem Sansão Episodio 13 </String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=7ffbd5792d15828f</String></Pair></Table>
+<Table key="O Jovem Sansão Episodio 14 "><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/DESENHOS/JOVEM_SANSAO.jpg</String></Pair><Pair key="title"><String>O Jovem Sansão Episodio 14 </String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=71a7c02ab0b4f112</String></Pair></Table>
+<Table key="O Jovem Sansão Episodio 16 "><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/DESENHOS/JOVEM_SANSAO.jpg</String></Pair><Pair key="title"><String>O Jovem Sansão Episodio 16 </String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=649f28d0884ba87d</String></Pair></Table>
+<Table key="O Jovem Sansão Episodio 17 "><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/DESENHOS/JOVEM_SANSAO.jpg</String></Pair><Pair key="title"><String>O Jovem Sansão Episodio 17 </String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=c17b10ea93d3092e</String></Pair></Table>
+<Table key="O Jovem Sansão Episodio 18 "><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/DESENHOS/JOVEM_SANSAO.jpg</String></Pair><Pair key="title"><String>O Jovem Sansão Episodio 18 </String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=fdc39cb4876c326</String></Pair></Table>
+<Table key="O Jovem Sansão Episodio 19 "><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/DESENHOS/JOVEM_SANSAO.jpg</String></Pair><Pair key="title"><String>O Jovem Sansão Episodio 19 </String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=1e116a30b1ed27e9</String></Pair></Table>
+<Table key="O Jovem Sansão Episodio 20 "><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/DESENHOS/JOVEM_SANSAO.jpg</String></Pair><Pair key="title"><String>O Jovem Sansão Episodio 20 </String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=68baadfc9c3055d1</String></Pair></Table>
+</Attributes>
+		<Items>
+<Item class="type:x-xmb/module-action" key="O Jovem Sansão Episodio 1 " attr="O Jovem Sansão Episodio 1 "/>
+<Item class="type:x-xmb/module-action" key="O Jovem Sansão Episodio 2 " attr="O Jovem Sansão Episodio 2 "/>
+<Item class="type:x-xmb/module-action" key="O Jovem Sansão Episodio 3 " attr="O Jovem Sansão Episodio 3 "/>
+<Item class="type:x-xmb/module-action" key="O Jovem Sansão Episodio 4 " attr="O Jovem Sansão Episodio 4 "/>
+<Item class="type:x-xmb/module-action" key="O Jovem Sansão Episodio 5 " attr="O Jovem Sansão Episodio 5 "/>
+<Item class="type:x-xmb/module-action" key="O Jovem Sansão Episodio 6 " attr="O Jovem Sansão Episodio 6 "/>
+<Item class="type:x-xmb/module-action" key="O Jovem Sansão Episodio 7 " attr="O Jovem Sansão Episodio 7 "/>
+<Item class="type:x-xmb/module-action" key="O Jovem Sansão Episodio 8" attr="O Jovem Sansão Episodio 8"/>
+<Item class="type:x-xmb/module-action" key="O Jovem Sansão Episodio 9 " attr="O Jovem Sansão Episodio 9 "/>
+<Item class="type:x-xmb/module-action" key="O Jovem Sansão Episodio 11 " attr="O Jovem Sansão Episodio 11 "/>
+<Item class="type:x-xmb/module-action" key="O Jovem Sansão Episodio 12" attr="O Jovem Sansão Episodio 12"/>
+<Item class="type:x-xmb/module-action" key="O Jovem Sansão Episodio 13 " attr="O Jovem Sansão Episodio 13 "/>
+<Item class="type:x-xmb/module-action" key="O Jovem Sansão Episodio 14 " attr="O Jovem Sansão Episodio 14 "/>
+<Item class="type:x-xmb/module-action" key="O Jovem Sansão Episodio 16 " attr="O Jovem Sansão Episodio 16 "/>
+<Item class="type:x-xmb/module-action" key="O Jovem Sansão Episodio 17 " attr="O Jovem Sansão Episodio 17 "/>
+<Item class="type:x-xmb/module-action" key="O Jovem Sansão Episodio 18 " attr="O Jovem Sansão Episodio 18 "/>
+<Item class="type:x-xmb/module-action" key="O Jovem Sansão Episodio 19 " attr="O Jovem Sansão Episodio 19 "/>
+<Item class="type:x-xmb/module-action" key="O Jovem Sansão Episodio 20 " attr="O Jovem Sansão Episodio 20 "/>
+</Items>
+	</View>
+
+</XMBML>

@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<XMBML version="1.0">
+	
+	<!-- Main  > zeTVmod > Submenu -->
+	<View id="seg_tv_items">
+		<Attributes>
+<Table key="1-DUB Hellsing"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/VOD/ANIMES/Hellsing/Hellsing.jpg</String></Pair><Pair key="title"><String>1-DUB Hellsing</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=5c52561ade9d19f5</String></Pair></Table>
+<Table key="2-DUB Hellsing"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/VOD/ANIMES/Hellsing/Hellsing.jpg</String></Pair><Pair key="title"><String>2-DUB Hellsing</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=f64b9ba3d743d475</String></Pair></Table>
+<Table key="3-DUB Hellsing"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/VOD/ANIMES/Hellsing/Hellsing.jpg</String></Pair><Pair key="title"><String>3-DUB Hellsing</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=de936ec9a80f78ad</String></Pair></Table>
+<Table key="4-DUB Hellsing"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/VOD/ANIMES/Hellsing/Hellsing.jpg</String></Pair><Pair key="title"><String>4-DUB Hellsing</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=e7fb4ac65bc31e88</String></Pair></Table>
+<Table key="5-DUB Hellsing"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/VOD/ANIMES/Hellsing/Hellsing.jpg</String></Pair><Pair key="title"><String>5-DUB Hellsing</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=ee9fa09c11a06df2</String></Pair></Table>
+<Table key="6-DUB Hellsing"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/VOD/ANIMES/Hellsing/Hellsing.jpg</String></Pair><Pair key="title"><String>6-DUB Hellsing</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=ced68ab267182868</String></Pair></Table>
+<Table key="7-DUB Hellsing"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/VOD/ANIMES/Hellsing/Hellsing.jpg</String></Pair><Pair key="title"><String>7-DUB Hellsing</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=a6a781cdb02580a8</String></Pair></Table>
+<Table key="8-DUB Hellsing"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/VOD/ANIMES/Hellsing/Hellsing.jpg</String></Pair><Pair key="title"><String>8-DUB Hellsing</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=e16b643d31fab6e4</String></Pair></Table>
+<Table key="9-DUB Hellsing"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/VOD/ANIMES/Hellsing/Hellsing.jpg</String></Pair><Pair key="title"><String>9-DUB Hellsing</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=ce1a54a4ba6a8f52</String></Pair></Table>
+<Table key="10-DUB Hellsing"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/VOD/ANIMES/Hellsing/Hellsing.jpg</String></Pair><Pair key="title"><String>10-DUB Hellsing</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=6d994e0a8a26193d</String></Pair></Table>
+<Table key="11-DUB Hellsing"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/VOD/ANIMES/Hellsing/Hellsing.jpg</String></Pair><Pair key="title"><String>11-DUB Hellsing</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=b573fd84414ebf8f</String></Pair></Table>
+<Table key="12-DUB Hellsing"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/VOD/ANIMES/Hellsing/Hellsing.jpg</String></Pair><Pair key="title"><String>12-DUB Hellsing</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=45a28fb5d3f429e6</String></Pair></Table>
+<Table key="13-DUB Hellsing"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/VOD/ANIMES/Hellsing/Hellsing.jpg</String></Pair><Pair key="title"><String>13-DUB Hellsing</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=811a5af33bdee35f</String></Pair></Table>
+</Attributes>
+		<Items>
+<Item class="type:x-xmb/module-action" key="1-DUB Hellsing" attr="1-DUB Hellsing"/>
+<Item class="type:x-xmb/module-action" key="2-DUB Hellsing" attr="2-DUB Hellsing"/>
+<Item class="type:x-xmb/module-action" key="3-DUB Hellsing" attr="3-DUB Hellsing"/>
+<Item class="type:x-xmb/module-action" key="4-DUB Hellsing" attr="4-DUB Hellsing"/>
+<Item class="type:x-xmb/module-action" key="5-DUB Hellsing" attr="5-DUB Hellsing"/>
+<Item class="type:x-xmb/module-action" key="6-DUB Hellsing" attr="6-DUB Hellsing"/>
+<Item class="type:x-xmb/module-action" key="7-DUB Hellsing" attr="7-DUB Hellsing"/>
+<Item class="type:x-xmb/module-action" key="8-DUB Hellsing" attr="8-DUB Hellsing"/>
+<Item class="type:x-xmb/module-action" key="9-DUB Hellsing" attr="9-DUB Hellsing"/>
+<Item class="type:x-xmb/module-action" key="10-DUB Hellsing" attr="10-DUB Hellsing"/>
+<Item class="type:x-xmb/module-action" key="11-DUB Hellsing" attr="11-DUB Hellsing"/>
+<Item class="type:x-xmb/module-action" key="12-DUB Hellsing" attr="12-DUB Hellsing"/>
+<Item class="type:x-xmb/module-action" key="13-DUB Hellsing" attr="13-DUB Hellsing"/>
+</Items>
+	</View>
+
+</XMBML>

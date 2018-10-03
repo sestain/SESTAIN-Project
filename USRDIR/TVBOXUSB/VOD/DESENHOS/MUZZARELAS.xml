@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<XMBML version="1.0">
+	
+	<!-- Main  > zeTVmod > Submenu -->
+	<View id="seg_tv_items">
+		<Attributes>
+<Table key="Os Muzzarelas  Episodio 1   "><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/DESENHOS/MUZZARELAS.jpg</String></Pair><Pair key="title"><String>Os Muzzarelas  Episodio 1   </String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=f754e82bdffdc935</String></Pair></Table>
+<Table key="Os Muzzarelas  Episodio 2   "><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/DESENHOS/MUZZARELAS.jpg</String></Pair><Pair key="title"><String>Os Muzzarelas  Episodio 2   </String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=ef843d5d37b12b10</String></Pair></Table>
+<Table key="Os Muzzarelas  Episodio 3   "><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/DESENHOS/MUZZARELAS.jpg</String></Pair><Pair key="title"><String>Os Muzzarelas  Episodio 3   </String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=aca6cc0c07d66d26</String></Pair></Table>
+<Table key="Os Muzzarelas  Episodio 4   "><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/DESENHOS/MUZZARELAS.jpg</String></Pair><Pair key="title"><String>Os Muzzarelas  Episodio 4   </String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=abd912db6ef8c5c9</String></Pair></Table>
+<Table key="Os Muzzarelas  Episodio 5   "><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/DESENHOS/MUZZARELAS.jpg</String></Pair><Pair key="title"><String>Os Muzzarelas  Episodio 5   </String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=832dc2d68b5d0727</String></Pair></Table>
+<Table key="Os Muzzarelas  Episodio 6   "><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/DESENHOS/MUZZARELAS.jpg</String></Pair><Pair key="title"><String>Os Muzzarelas  Episodio 6   </String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=879e319b2fc822c2</String></Pair></Table>
+<Table key="Os Muzzarelas  Episodio 7   "><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/DESENHOS/MUZZARELAS.jpg</String></Pair><Pair key="title"><String>Os Muzzarelas  Episodio 7   </String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=c6dd687a72bef905</String></Pair></Table>
+<Table key="Os Muzzarelas  Episodio 8   "><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/DESENHOS/MUZZARELAS.jpg</String></Pair><Pair key="title"><String>Os Muzzarelas  Episodio 8   </String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=d12d287ac206a4f2</String></Pair></Table>
+<Table key="Os Muzzarelas  Episodio 9   "><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/DESENHOS/MUZZARELAS.jpg</String></Pair><Pair key="title"><String>Os Muzzarelas  Episodio 9   </String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=7053369c6c70954e</String></Pair></Table>
+<Table key="Os Muzzarelas  Episodio 10   "><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/DESENHOS/MUZZARELAS.jpg</String></Pair><Pair key="title"><String>Os Muzzarelas  Episodio 10   </String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=ed3b4464954cba27</String></Pair></Table>
+<Table key="Os Muzzarelas  Episodio 11   "><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/DESENHOS/MUZZARELAS.jpg</String></Pair><Pair key="title"><String>Os Muzzarelas  Episodio 11   </String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=280fa99a31b5ec8f</String></Pair></Table>
+<Table key="Os Muzzarelas  Episodio 12   "><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/DESENHOS/MUZZARELAS.jpg</String></Pair><Pair key="title"><String>Os Muzzarelas  Episodio 12   </String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=bc71f6e24ffe8c70</String></Pair></Table>
+<Table key="Os Muzzarelas  Episodio 13   "><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/DESENHOS/MUZZARELAS.jpg</String></Pair><Pair key="title"><String>Os Muzzarelas  Episodio 13   </String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=2bf66a7eba8bdb96</String></Pair></Table>
+</Attributes>
+		<Items>
+<Item class="type:x-xmb/module-action" key="Os Muzzarelas  Episodio 1   " attr="Os Muzzarelas  Episodio 1   "/>
+<Item class="type:x-xmb/module-action" key="Os Muzzarelas  Episodio 2   " attr="Os Muzzarelas  Episodio 2   "/>
+<Item class="type:x-xmb/module-action" key="Os Muzzarelas  Episodio 3   " attr="Os Muzzarelas  Episodio 3   "/>
+<Item class="type:x-xmb/module-action" key="Os Muzzarelas  Episodio 4   " attr="Os Muzzarelas  Episodio 4   "/>
+<Item class="type:x-xmb/module-action" key="Os Muzzarelas  Episodio 5   " attr="Os Muzzarelas  Episodio 5   "/>
+<Item class="type:x-xmb/module-action" key="Os Muzzarelas  Episodio 6   " attr="Os Muzzarelas  Episodio 6   "/>
+<Item class="type:x-xmb/module-action" key="Os Muzzarelas  Episodio 7   " attr="Os Muzzarelas  Episodio 7   "/>
+<Item class="type:x-xmb/module-action" key="Os Muzzarelas  Episodio 8   " attr="Os Muzzarelas  Episodio 8   "/>
+<Item class="type:x-xmb/module-action" key="Os Muzzarelas  Episodio 9   " attr="Os Muzzarelas  Episodio 9   "/>
+<Item class="type:x-xmb/module-action" key="Os Muzzarelas  Episodio 10   " attr="Os Muzzarelas  Episodio 10   "/>
+<Item class="type:x-xmb/module-action" key="Os Muzzarelas  Episodio 11   " attr="Os Muzzarelas  Episodio 11   "/>
+<Item class="type:x-xmb/module-action" key="Os Muzzarelas  Episodio 12   " attr="Os Muzzarelas  Episodio 12   "/>
+<Item class="type:x-xmb/module-action" key="Os Muzzarelas  Episodio 13   " attr="Os Muzzarelas  Episodio 13   "/>
+</Items>
+	</View>
+
+</XMBML>

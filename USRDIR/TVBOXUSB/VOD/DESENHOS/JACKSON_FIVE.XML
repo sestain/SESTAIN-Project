@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<XMBML version="1.0">
+	
+	<!-- Main  > zeTVmod > Submenu -->
+	<View id="seg_tv_items">
+		<Attributes>
+<Table key="Jackson Five"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/DESENHOS/JACKSON_FIVE.jpg</String></Pair><Pair key="title"><String>Jackson Five</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://0.0.0.0</String></Pair></Table>
+<Table key="Jackson Five EP01 "><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/DESENHOS/JACKSON_FIVE.jpg</String></Pair><Pair key="title"><String>Jackson Five EP01 </String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=89d37062ee96c39c</String></Pair></Table>
+<Table key="Jackson Five EP02 "><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/DESENHOS/JACKSON_FIVE.jpg</String></Pair><Pair key="title"><String>Jackson Five EP02 </String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=e5318a6842e7b91d</String></Pair></Table>
+<Table key="Jackson Five EP03 "><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/DESENHOS/JACKSON_FIVE.jpg</String></Pair><Pair key="title"><String>Jackson Five EP03 </String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=ac84d2c579bc532d</String></Pair></Table>
+<Table key="Jackson Five EP04 "><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/DESENHOS/JACKSON_FIVE.jpg</String></Pair><Pair key="title"><String>Jackson Five EP04 </String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=29a423725b847c74</String></Pair></Table>
+<Table key="Jackson Five EP05 "><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/DESENHOS/JACKSON_FIVE.jpg</String></Pair><Pair key="title"><String>Jackson Five EP05 </String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=675878a65c37a50f</String></Pair></Table>
+<Table key="Jackson Five EP06 "><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/DESENHOS/JACKSON_FIVE.jpg</String></Pair><Pair key="title"><String>Jackson Five EP06 </String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=305b033d4a0cd8cb</String></Pair></Table>
+<Table key="Jackson Five EP07 "><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/DESENHOS/JACKSON_FIVE.jpg</String></Pair><Pair key="title"><String>Jackson Five EP07 </String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=edeef8711f87e0f4</String></Pair></Table>
+<Table key="Jackson Five EP08 "><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/DESENHOS/JACKSON_FIVE.jpg</String></Pair><Pair key="title"><String>Jackson Five EP08 </String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=b30af8d580bf50c3</String></Pair></Table>
+<Table key="Jackson Five EP09 "><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/DESENHOS/JACKSON_FIVE.jpg</String></Pair><Pair key="title"><String>Jackson Five EP09 </String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=ead3ce3b1ca1317b</String></Pair></Table>
+<Table key="Jackson Five EP10 "><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/DESENHOS/JACKSON_FIVE.jpg</String></Pair><Pair key="title"><String>Jackson Five EP10 </String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=58e2bd35be235203</String></Pair></Table>
+<Table key="Jackson Five EP11 "><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/DESENHOS/JACKSON_FIVE.jpg</String></Pair><Pair key="title"><String>Jackson Five EP11 </String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=d01ae4caa10db8c7</String></Pair></Table>
+<Table key="Jackson Five EP12 "><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/DESENHOS/JACKSON_FIVE.jpg</String></Pair><Pair key="title"><String>Jackson Five EP12 </String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=4b77b6176255eb71</String></Pair></Table>
+</Attributes>
+		<Items>
+<Item class="type:x-xmb/module-action" key="Jackson Five" attr="Jackson Five"/>
+<Item class="type:x-xmb/module-action" key="Jackson Five EP01 " attr="Jackson Five EP01 "/>
+<Item class="type:x-xmb/module-action" key="Jackson Five EP02 " attr="Jackson Five EP02 "/>
+<Item class="type:x-xmb/module-action" key="Jackson Five EP03 " attr="Jackson Five EP03 "/>
+<Item class="type:x-xmb/module-action" key="Jackson Five EP04 " attr="Jackson Five EP04 "/>
+<Item class="type:x-xmb/module-action" key="Jackson Five EP05 " attr="Jackson Five EP05 "/>
+<Item class="type:x-xmb/module-action" key="Jackson Five EP06 " attr="Jackson Five EP06 "/>
+<Item class="type:x-xmb/module-action" key="Jackson Five EP07 " attr="Jackson Five EP07 "/>
+<Item class="type:x-xmb/module-action" key="Jackson Five EP08 " attr="Jackson Five EP08 "/>
+<Item class="type:x-xmb/module-action" key="Jackson Five EP09 " attr="Jackson Five EP09 "/>
+<Item class="type:x-xmb/module-action" key="Jackson Five EP10 " attr="Jackson Five EP10 "/>
+<Item class="type:x-xmb/module-action" key="Jackson Five EP11 " attr="Jackson Five EP11 "/>
+<Item class="type:x-xmb/module-action" key="Jackson Five EP12 " attr="Jackson Five EP12 "/>
+</Items>
+	</View>
+
+</XMBML>

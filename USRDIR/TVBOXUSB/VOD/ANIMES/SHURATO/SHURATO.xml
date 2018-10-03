@@ -1,0 +1,86 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<XMBML version="1.0">
+	
+	<!-- Main  > zeTVmod > Submenu -->
+	<View id="seg_tv_items">
+		<Attributes>
+<Table key="SHURATO 1"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/VOD/ANIMES/SHURATO/SHURATO.jpg</String></Pair><Pair key="title"><String>SHURATO 1</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=b1fedd09b666e6da</String></Pair></Table>
+<Table key=" SHURATO 2"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/VOD/ANIMES/SHURATO/SHURATO.jpg</String></Pair><Pair key="title"><String> SHURATO 2</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=683f5524e4d4211a</String></Pair></Table>
+<Table key=" SHURATO 3"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/VOD/ANIMES/SHURATO/SHURATO.jpg</String></Pair><Pair key="title"><String> SHURATO 3</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=916e8b615b9b8490</String></Pair></Table>
+<Table key=" SHURATO 4"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/VOD/ANIMES/SHURATO/SHURATO.jpg</String></Pair><Pair key="title"><String> SHURATO 4</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=c85f675690cb9c07</String></Pair></Table>
+<Table key=" SHURATO 5"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/VOD/ANIMES/SHURATO/SHURATO.jpg</String></Pair><Pair key="title"><String> SHURATO 5</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=7b5c5016e0cfe1e</String></Pair></Table>
+<Table key=" SHURATO 6"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/VOD/ANIMES/SHURATO/SHURATO.jpg</String></Pair><Pair key="title"><String> SHURATO 6</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=55aa54fba4940572</String></Pair></Table>
+<Table key=" SHURATO 7"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/VOD/ANIMES/SHURATO/SHURATO.jpg</String></Pair><Pair key="title"><String> SHURATO 7</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=2f38f4ef0de0ecc1</String></Pair></Table>
+<Table key=" SHURATO 8"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/VOD/ANIMES/SHURATO/SHURATO.jpg</String></Pair><Pair key="title"><String> SHURATO 8</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=2c4d4f56af98c28a</String></Pair></Table>
+<Table key=" SHURATO 9"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/VOD/ANIMES/SHURATO/SHURATO.jpg</String></Pair><Pair key="title"><String> SHURATO 9</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=60b6bf6d3f9ec686</String></Pair></Table>
+<Table key=" SHURATO 10"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/VOD/ANIMES/SHURATO/SHURATO.jpg</String></Pair><Pair key="title"><String> SHURATO 10</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=5a01dfa85bc11141</String></Pair></Table>
+<Table key=" SHURATO 11"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/VOD/ANIMES/SHURATO/SHURATO.jpg</String></Pair><Pair key="title"><String> SHURATO 11</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=71bfd89501397c09</String></Pair></Table>
+<Table key=" SHURATO 12"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/VOD/ANIMES/SHURATO/SHURATO.jpg</String></Pair><Pair key="title"><String> SHURATO 12</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=a881d51be6326670</String></Pair></Table>
+<Table key=" SHURATO 13"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/VOD/ANIMES/SHURATO/SHURATO.jpg</String></Pair><Pair key="title"><String> SHURATO 13</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=47899e551d877a81</String></Pair></Table>
+<Table key=" SHURATO 14"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/VOD/ANIMES/SHURATO/SHURATO.jpg</String></Pair><Pair key="title"><String> SHURATO 14</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=5768a1887f22da66</String></Pair></Table>
+<Table key=" SHURATO 15"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/VOD/ANIMES/SHURATO/SHURATO.jpg</String></Pair><Pair key="title"><String> SHURATO 15</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=ee64752917012e1e</String></Pair></Table>
+<Table key=" SHURATO 16"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/VOD/ANIMES/SHURATO/SHURATO.jpg</String></Pair><Pair key="title"><String> SHURATO 16</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=5e90a809281adf0b</String></Pair></Table>
+<Table key="SHURATO 17"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/VOD/ANIMES/SHURATO/SHURATO.jpg</String></Pair><Pair key="title"><String>SHURATO 17</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=ecccd8f084e89bc1</String></Pair></Table>
+<Table key=" SHURATO 18"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/VOD/ANIMES/SHURATO/SHURATO.jpg</String></Pair><Pair key="title"><String> SHURATO 18</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=a1d31e0ddda4f150</String></Pair></Table>
+<Table key=" SHURATO 19"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/VOD/ANIMES/SHURATO/SHURATO.jpg</String></Pair><Pair key="title"><String> SHURATO 19</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=bc9f20690dff8baf</String></Pair></Table>
+<Table key=" SHURATO 20"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/VOD/ANIMES/SHURATO/SHURATO.jpg</String></Pair><Pair key="title"><String> SHURATO 20</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=3fa90ec315eb36a1</String></Pair></Table>
+<Table key=" SHURATO 21"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/VOD/ANIMES/SHURATO/SHURATO.jpg</String></Pair><Pair key="title"><String> SHURATO 21</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=9a873f9c716621df</String></Pair></Table>
+<Table key=" SHURATO 22"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/VOD/ANIMES/SHURATO/SHURATO.jpg</String></Pair><Pair key="title"><String> SHURATO 22</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=58c71b33513ca298</String></Pair></Table>
+<Table key=" SHURATO 23"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/VOD/ANIMES/SHURATO/SHURATO.jpg</String></Pair><Pair key="title"><String> SHURATO 23</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=3820d5c3e74d4ef8</String></Pair></Table>
+<Table key=" SHURATO 24"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/VOD/ANIMES/SHURATO/SHURATO.jpg</String></Pair><Pair key="title"><String> SHURATO 24</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=3d2dfd96c52b38ca</String></Pair></Table>
+<Table key=" SHURATO 25"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/VOD/ANIMES/SHURATO/SHURATO.jpg</String></Pair><Pair key="title"><String> SHURATO 25</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=cbc94b9383ddec8b</String></Pair></Table>
+<Table key=" SHURATO 26"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/VOD/ANIMES/SHURATO/SHURATO.jpg</String></Pair><Pair key="title"><String> SHURATO 26</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=fb704909dc6ad41e</String></Pair></Table>
+<Table key=" SHURATO 27"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/VOD/ANIMES/SHURATO/SHURATO.jpg</String></Pair><Pair key="title"><String> SHURATO 27</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=2d17276ca38dbd8f</String></Pair></Table>
+<Table key=" SHURATO 29"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/VOD/ANIMES/SHURATO/SHURATO.jpg</String></Pair><Pair key="title"><String> SHURATO 29</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=fe05a61007862d68</String></Pair></Table>
+<Table key=" SHURATO 30"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/VOD/ANIMES/SHURATO/SHURATO.jpg</String></Pair><Pair key="title"><String> SHURATO 30</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=3b9115a865a3537a</String></Pair></Table>
+<Table key=" SHURATO 31"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/VOD/ANIMES/SHURATO/SHURATO.jpg</String></Pair><Pair key="title"><String> SHURATO 31</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=505bea224f8131d0</String></Pair></Table>
+<Table key=" SHURATO 32"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/VOD/ANIMES/SHURATO/SHURATO.jpg</String></Pair><Pair key="title"><String> SHURATO 32</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=9099868b175b045f</String></Pair></Table>
+<Table key=" SHURATO 33"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/VOD/ANIMES/SHURATO/SHURATO.jpg</String></Pair><Pair key="title"><String> SHURATO 33</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=6e58b61f7c7f0f6b</String></Pair></Table>
+<Table key=" SHURATO 34"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/VOD/ANIMES/SHURATO/SHURATO.jpg</String></Pair><Pair key="title"><String> SHURATO 34</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=343b970a1d631d31</String></Pair></Table>
+<Table key=" SHURATO 35"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/VOD/ANIMES/SHURATO/SHURATO.jpg</String></Pair><Pair key="title"><String> SHURATO 35</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=d50ed937bab787d9</String></Pair></Table>
+<Table key=" SHURATO 36"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/VOD/ANIMES/SHURATO/SHURATO.jpg</String></Pair><Pair key="title"><String> SHURATO 36</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=b07b249c38e407f3</String></Pair></Table>
+<Table key=" SHURATO 37"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/VOD/ANIMES/SHURATO/SHURATO.jpg</String></Pair><Pair key="title"><String> SHURATO 37</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=60a6e22876a0204f</String></Pair></Table>
+<Table key=" SHURATO 38"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/VOD/ANIMES/SHURATO/SHURATO.jpg</String></Pair><Pair key="title"><String> SHURATO 38</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=52e006c71dfae399</String></Pair></Table>
+</Attributes>
+		<Items>
+<Item class="type:x-xmb/module-action" key="SHURATO 1" attr="SHURATO 1"/>
+<Item class="type:x-xmb/module-action" key=" SHURATO 2" attr=" SHURATO 2"/>
+<Item class="type:x-xmb/module-action" key=" SHURATO 3" attr=" SHURATO 3"/>
+<Item class="type:x-xmb/module-action" key=" SHURATO 4" attr=" SHURATO 4"/>
+<Item class="type:x-xmb/module-action" key=" SHURATO 5" attr=" SHURATO 5"/>
+<Item class="type:x-xmb/module-action" key=" SHURATO 6" attr=" SHURATO 6"/>
+<Item class="type:x-xmb/module-action" key=" SHURATO 7" attr=" SHURATO 7"/>
+<Item class="type:x-xmb/module-action" key=" SHURATO 8" attr=" SHURATO 8"/>
+<Item class="type:x-xmb/module-action" key=" SHURATO 9" attr=" SHURATO 9"/>
+<Item class="type:x-xmb/module-action" key=" SHURATO 10" attr=" SHURATO 10"/>
+<Item class="type:x-xmb/module-action" key=" SHURATO 11" attr=" SHURATO 11"/>
+<Item class="type:x-xmb/module-action" key=" SHURATO 12" attr=" SHURATO 12"/>
+<Item class="type:x-xmb/module-action" key=" SHURATO 13" attr=" SHURATO 13"/>
+<Item class="type:x-xmb/module-action" key=" SHURATO 14" attr=" SHURATO 14"/>
+<Item class="type:x-xmb/module-action" key=" SHURATO 15" attr=" SHURATO 15"/>
+<Item class="type:x-xmb/module-action" key=" SHURATO 16" attr=" SHURATO 16"/>
+<Item class="type:x-xmb/module-action" key="SHURATO 17" attr="SHURATO 17"/>
+<Item class="type:x-xmb/module-action" key=" SHURATO 18" attr=" SHURATO 18"/>
+<Item class="type:x-xmb/module-action" key=" SHURATO 19" attr=" SHURATO 19"/>
+<Item class="type:x-xmb/module-action" key=" SHURATO 20" attr=" SHURATO 20"/>
+<Item class="type:x-xmb/module-action" key=" SHURATO 21" attr=" SHURATO 21"/>
+<Item class="type:x-xmb/module-action" key=" SHURATO 22" attr=" SHURATO 22"/>
+<Item class="type:x-xmb/module-action" key=" SHURATO 23" attr=" SHURATO 23"/>
+<Item class="type:x-xmb/module-action" key=" SHURATO 24" attr=" SHURATO 24"/>
+<Item class="type:x-xmb/module-action" key=" SHURATO 25" attr=" SHURATO 25"/>
+<Item class="type:x-xmb/module-action" key=" SHURATO 26" attr=" SHURATO 26"/>
+<Item class="type:x-xmb/module-action" key=" SHURATO 27" attr=" SHURATO 27"/>
+<Item class="type:x-xmb/module-action" key=" SHURATO 29" attr=" SHURATO 29"/>
+<Item class="type:x-xmb/module-action" key=" SHURATO 30" attr=" SHURATO 30"/>
+<Item class="type:x-xmb/module-action" key=" SHURATO 31" attr=" SHURATO 31"/>
+<Item class="type:x-xmb/module-action" key=" SHURATO 32" attr=" SHURATO 32"/>
+<Item class="type:x-xmb/module-action" key=" SHURATO 33" attr=" SHURATO 33"/>
+<Item class="type:x-xmb/module-action" key=" SHURATO 34" attr=" SHURATO 34"/>
+<Item class="type:x-xmb/module-action" key=" SHURATO 35" attr=" SHURATO 35"/>
+<Item class="type:x-xmb/module-action" key=" SHURATO 36" attr=" SHURATO 36"/>
+<Item class="type:x-xmb/module-action" key=" SHURATO 37" attr=" SHURATO 37"/>
+<Item class="type:x-xmb/module-action" key=" SHURATO 38" attr=" SHURATO 38"/>
+</Items>
+	</View>
+
+</XMBML>

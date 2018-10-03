@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<XMBML version="1.0">
+	
+	<!-- Main  > zeTVmod > Submenu -->
+	<View id="seg_tv_items">
+		<Attributes>
+<Table key="STATION 19 1X01 Leg"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/STATION19.jpg</String></Pair><Pair key="title"><String>STATION 19 1X01 Leg</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=27e3f1bb2cca020b</String></Pair></Table>
+<Table key="STATION 19 1X02 Leg"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/STATION19.jpg</String></Pair><Pair key="title"><String>STATION 19 1X02 Leg</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=fde70d83eae9ef2e</String></Pair></Table>
+<Table key="STATION 19 1X03 Leg"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/STATION19.jpg</String></Pair><Pair key="title"><String>STATION 19 1X03 Leg</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=4d33dc4f2ca3f73f</String></Pair></Table>
+<Table key="STATION 19 1X04 Leg"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/STATION19.jpg</String></Pair><Pair key="title"><String>STATION 19 1X04 Leg</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=fb351f82109fa60f</String></Pair></Table>
+<Table key="STATION 19 1X05 Leg"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/STATION19.jpg</String></Pair><Pair key="title"><String>STATION 19 1X05 Leg</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=802345530ab0d45</String></Pair></Table>
+<Table key="STATION 19 1X06 Leg"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/STATION19.jpg</String></Pair><Pair key="title"><String>STATION 19 1X06 Leg</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=2737fcb063fdb094</String></Pair></Table>
+<Table key="STATION 19 1X07 Leg"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/STATION19.jpg</String></Pair><Pair key="title"><String>STATION 19 1X07 Leg</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=c7d95189acd00e16</String></Pair></Table>
+<Table key="STATION 19 1X08 Leg"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/STATION19.jpg</String></Pair><Pair key="title"><String>STATION 19 1X08 Leg</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=a2bbf179b0b1877b</String></Pair></Table>
+<Table key="STATION 19 1X09 Leg"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/STATION19.jpg</String></Pair><Pair key="title"><String>STATION 19 1X09 Leg</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=ec3d52558ffc131e</String></Pair></Table>
+<Table key="STATION 19 1X10 Leg"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/STATION19.jpg</String></Pair><Pair key="title"><String>STATION 19 1X10 Leg</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=17450344f6449a56</String></Pair></Table>
+</Attributes>
+		<Items>
+<Item class="type:x-xmb/module-action" key="STATION 19 1X01 Leg" attr="STATION 19 1X01 Leg"/>
+<Item class="type:x-xmb/module-action" key="STATION 19 1X02 Leg" attr="STATION 19 1X02 Leg"/>
+<Item class="type:x-xmb/module-action" key="STATION 19 1X03 Leg" attr="STATION 19 1X03 Leg"/>
+<Item class="type:x-xmb/module-action" key="STATION 19 1X04 Leg" attr="STATION 19 1X04 Leg"/>
+<Item class="type:x-xmb/module-action" key="STATION 19 1X05 Leg" attr="STATION 19 1X05 Leg"/>
+<Item class="type:x-xmb/module-action" key="STATION 19 1X06 Leg" attr="STATION 19 1X06 Leg"/>
+<Item class="type:x-xmb/module-action" key="STATION 19 1X07 Leg" attr="STATION 19 1X07 Leg"/>
+<Item class="type:x-xmb/module-action" key="STATION 19 1X08 Leg" attr="STATION 19 1X08 Leg"/>
+<Item class="type:x-xmb/module-action" key="STATION 19 1X09 Leg" attr="STATION 19 1X09 Leg"/>
+<Item class="type:x-xmb/module-action" key="STATION 19 1X10 Leg" attr="STATION 19 1X10 Leg"/>
+</Items>
+	</View>
+
+</XMBML>		

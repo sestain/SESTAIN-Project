@@ -1,0 +1,538 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<XMBML version="1.0">
+
+	<!-- Main  > TV > Submenu -->
+	<View id="seg_tv_items">
+		<Attributes>
+			<Table key="ARQUIVO_X">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/ARQUIVO_X.jpg</String></Pair>
+				<Pair key="title"><String>Arquivo X</String></Pair>
+				<Pair key="str_noitem"><String>msg_error_no_title</String></Pair>
+			</Table>
+			<Table key="EAST_END">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/EAST_END.jpg</String></Pair>
+				<Pair key="title"><String>As Bruxas de East End</String></Pair>
+				<Pair key="str_noitem"><String>msg_error_no_title</String></Pair>
+			</Table>
+			<Table key="DEMOLIDOR">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/DEMOLIDOR.jpg</String></Pair>
+				<Pair key="title"><String>Demolidor</String></Pair>
+				<Pair key="str_noitem"><String>msg_error_no_title</String></Pair>
+			</Table>
+			<Table key="ESCANDALOS_OS_BASTIDORES_DO_PODER">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/ESCANDALOS_OS_BASTIDORES_DO_PODER.jpg</String></Pair>
+				<Pair key="title"><String>Escândalos - Os Bastidores do Poder</String></Pair>
+				<Pair key="str_noitem"><String>msg_error_no_title</String></Pair>
+			</Table>
+			<Table key="GAME_OF_THRONES">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/GAME_OF_THRONES.jpg</String></Pair>
+				<Pair key="title"><String>Game of Thrones</String></Pair>
+				<Pair key="str_noitem"><String>msg_error_no_title</String></Pair>
+			</Table>
+			<Table key="GREYSA">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/GAME_OF_THRONES.jpg</String></Pair>
+				<Pair key="title"><String>Grey's Anatomy</String></Pair>
+				<Pair key="str_noitem"><String>msg_error_no_title</String></Pair>
+			</Table>
+			<Table key="LA_CASA_DE_PAPEL">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/LA_CASA_DE_PAPEL.jpg</String></Pair>
+				<Pair key="title"><String>La Casa de Papel</String></Pair>
+				<Pair key="str_noitem"><String>msg_error_no_title</String></Pair>
+			</Table>
+			<Table key="LOST">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/LOST.jpg</String></Pair>
+				<Pair key="title"><String>Lost</String></Pair>
+				<Pair key="str_noitem"><String>msg_error_no_title</String></Pair>
+			</Table>
+			<Table key="LUKE_CAGE">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/LUKE_CAGE.jpg</String></Pair>
+				<Pair key="title"><String>Luke Cage</String></Pair>
+				<Pair key="str_noitem"><String>msg_error_no_title</String></Pair>
+			</Table>
+			<Table key="MARCO_POLO">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/MARCO_POLO.jpg</String></Pair>
+				<Pair key="title"><String>Marco Polo</String></Pair>
+				<Pair key="str_noitem"><String>msg_error_no_title</String></Pair>
+			</Table>
+			<Table key="O_MENTALISTA">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/O_MENTALISTA.jpg</String></Pair>
+				<Pair key="title"><String>O Mentalista</String></Pair>
+				<Pair key="str_noitem"><String>msg_error_no_title</String></Pair>
+			</Table>
+			<Table key="OUTCAST">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/OUTCAST.jpg</String></Pair>
+				<Pair key="title"><String>Outcast</String></Pair>
+				<Pair key="str_noitem"><String>msg_error_no_title</String></Pair>
+			</Table>
+			<Table key="PERDIDOS_NO_ESPACO">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/PERDIDOS_NO_ESPACO.jpg</String></Pair>
+				<Pair key="title"><String>Perdidos no Espaço</String></Pair>
+				<Pair key="str_noitem"><String>msg_error_no_title</String></Pair>
+			</Table>
+			<Table key="PREACHER">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/PREACHER.jpg</String></Pair>
+				<Pair key="title"><String>Preacher</String></Pair>
+				<Pair key="str_noitem"><String>msg_error_no_title</String></Pair>
+			</Table>
+			<Table key="PRISON_BREAK">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/PRISON_BREAK.jpg</String></Pair>
+				<Pair key="title"><String>Prison Break</String></Pair>
+				<Pair key="str_noitem"><String>msg_error_no_title</String></Pair>
+			</Table>
+			<Table key="PSYCH">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/PSYCH.jpg</String></Pair>
+				<Pair key="title"><String>Psych</String></Pair>
+				<Pair key="str_noitem"><String>msg_error_no_title</String></Pair>
+			</Table>
+			<Table key="RAVEN_IS_HOME">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/RAVEN_IS_HOME.jpg</String></Pair>
+				<Pair key="title"><String>Raven is Home</String></Pair>
+				<Pair key="str_noitem"><String>msg_error_no_title</String></Pair>
+			</Table>
+			<Table key="REVENGE">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/REVENGE.jpg</String></Pair>
+				<Pair key="title"><String>Revenge</String></Pair>
+				<Pair key="str_noitem"><String>msg_error_no_title</String></Pair>
+			</Table>
+			<Table key="SANTA_CLARITA_DIET">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/SANTA_CLARITA_DIET.jpg</String></Pair>
+				<Pair key="title"><String>Santa Clarita Diet</String></Pair>
+				<Pair key="str_noitem"><String>msg_error_no_title</String></Pair>
+			</Table>
+			<Table key="SCREAM">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/SCREAM.jpg</String></Pair>
+				<Pair key="title"><String>Scream</String></Pair>
+				<Pair key="str_noitem"><String>msg_error_no_title</String></Pair>
+			</Table>
+			<Table key="SHADOWHUNTERS">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/SHADOWHUNTERS.jpg</String></Pair>
+				<Pair key="title"><String>Shadowhunters</String></Pair>
+				<Pair key="str_noitem"><String>msg_error_no_title</String></Pair>
+			</Table>
+			<Table key="SHARP_OBJECTS">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/SHARP_OBJECTS.jpg</String></Pair>
+				<Pair key="title"><String>Sharp Objects</String></Pair>
+				<Pair key="str_noitem"><String>msg_error_no_title</String></Pair>
+			</Table>
+			<Table key="SIREN">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/SIREN.jpg</String></Pair>
+				<Pair key="title"><String>Siren</String></Pair>
+				<Pair key="str_noitem"><String>msg_error_no_title</String></Pair>
+			</Table>
+			<Table key="SMALLVILLE">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/SMALLVILLE.jpg</String></Pair>
+				<Pair key="title"><String>SmallVille</String></Pair>
+				<Pair key="str_noitem"><String>msg_error_no_title</String></Pair>
+			</Table>
+			<Table key="SPARTACUS">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/SPARTACUS.jpg</String></Pair>
+				<Pair key="title"><String>Spartacus</String></Pair>
+				<Pair key="str_noitem"><String>msg_error_no_title</String></Pair>
+			</Table>
+			<Table key="SPARTACUS_GOTHA">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/SPARTACUS_GOTHA.jpg</String></Pair>
+				<Pair key="title"><String>Spartacus Gods of The Arena</String></Pair>
+				<Pair key="str_noitem"><String>msg_error_no_title</String></Pair>
+			</Table>
+			<Table key="SPARTACUS_VENGEANCE">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/SPARTACUS_VENGEANCE.jpg</String></Pair>
+				<Pair key="title"><String>Spartacus  Vengeance </String></Pair>
+				<Pair key="str_noitem"><String>msg_error_no_title</String></Pair>
+			</Table>
+			<Table key="SPARTACUS_WAR">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/SPARTACUS_WAR.jpg</String></Pair>
+				<Pair key="title"><String>Spartacus War of The Damned</String></Pair>
+				<Pair key="str_noitem"><String>msg_error_no_title</String></Pair>
+			</Table>
+			<Table key="STAR_TREK">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/STAR_TREK.jpg</String></Pair>
+				<Pair key="title"><String>Star Trek - Discovery</String></Pair>
+				<Pair key="str_noitem"><String>msg_error_no_title</String></Pair>
+			</Table>
+			<Table key="STATION19">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/STATION19.jpg</String></Pair>
+				<Pair key="title"><String>Station 19</String></Pair>
+				<Pair key="str_noitem"><String>msg_error_no_title</String></Pair>
+			</Table>
+			<Table key="STRANGER_THINGS">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/STRANGER_THINGS.jpg</String></Pair>
+				<Pair key="title"><String>Stranger Things</String></Pair>
+				<Pair key="str_noitem"><String>msg_error_no_title</String></Pair>
+			</Table>
+			<Table key="SUPER_GIRL">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/SUPER_GIRL.jpg</String></Pair>
+				<Pair key="title"><String>Super Girl</String></Pair>
+				<Pair key="str_noitem"><String>msg_error_no_title</String></Pair>
+			</Table>
+			<Table key="SUPERNATURAL">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/SUPERNATURAL.jpg</String></Pair>
+				<Pair key="title"><String>Supernatural</String></Pair>
+				<Pair key="str_noitem"><String>msg_error_no_title</String></Pair>
+			</Table>
+			<Table key="SWAT">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/SWAT.jpg</String></Pair>
+				<Pair key="title"><String>Swat</String></Pair>
+				<Pair key="str_noitem"><String>msg_error_no_title</String></Pair>
+			</Table>
+			<Table key="THE_100">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/THE_100.jpg</String></Pair>
+				<Pair key="title"><String>The 100</String></Pair>
+				<Pair key="str_noitem"><String>msg_error_no_title</String></Pair>
+			</Table>
+			<Table key="BLACKLIST">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/BLACKLIST.jpg</String></Pair>
+				<Pair key="title"><String>The Blacklist Redemption</String></Pair>
+				<Pair key="str_noitem"><String>msg_error_no_title</String></Pair>
+			</Table>
+			<Table key="CLIENT_LIST">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/CLIENT_LIST.jpg</String></Pair>
+				<Pair key="title"><String>The Client List</String></Pair>
+				<Pair key="str_noitem"><String>msg_error_no_title</String></Pair>
+			</Table>
+			<Table key="THE_CROSSING">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/THE_CROSSING.jpg</String></Pair>
+				<Pair key="title"><String>The Crossing</String></Pair>
+				<Pair key="str_noitem"><String>msg_error_no_title</String></Pair>
+			</Table>
+			<Table key="THE_FLASH">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/THE_FLASH.jpg</String></Pair>
+				<Pair key="title"><String>The Flash</String></Pair>
+				<Pair key="str_noitem"><String>msg_error_no_title</String></Pair>
+			</Table>
+			<Table key="THE_LAST_KINGDOM">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/THE_LAST_KINGDOM.jpg</String></Pair>
+				<Pair key="title"><String>The Last Kingdom</String></Pair>
+				<Pair key="str_noitem"><String>msg_error_no_title</String></Pair>
+			</Table>
+			<Table key="THE_MICK">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/THE_MICK.jpg</String></Pair>
+				<Pair key="title"><String>The Mick</String></Pair>
+				<Pair key="str_noitem"><String>msg_error_no_title</String></Pair>
+			</Table>
+			<Table key="NIGHT_OF">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/NIGHT_OF.jpg</String></Pair>
+				<Pair key="title"><String>The Night Of</String></Pair>
+				<Pair key="str_noitem"><String>msg_error_no_title</String></Pair>
+			</Table>
+			<Table key="THE_OA">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/THE_OA.jpg</String></Pair>
+				<Pair key="title"><String>The Oa</String></Pair>
+				<Pair key="str_noitem"><String>msg_error_no_title</String></Pair>
+			</Table>
+			<Table key="THE_RAIN">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/THE_RAIN.jpg</String></Pair>
+				<Pair key="title"><String>The Rain</String></Pair>
+				<Pair key="str_noitem"><String>msg_error_no_title</String></Pair>
+			</Table>
+			<Table key="THE_RETURNED">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/THE_RAIN.jpg</String></Pair>
+				<Pair key="title"><String>The Returned</String></Pair>
+				<Pair key="str_noitem"><String>msg_error_no_title</String></Pair>
+			</Table>
+			<Table key="THE_TERROR">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/THE_TERROR.jpg</String></Pair>
+				<Pair key="title"><String>The Terror</String></Pair>
+				<Pair key="str_noitem"><String>msg_error_no_title</String></Pair>
+			</Table>
+			<Table key="THE_WALKING_DEAD">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/THE_WALKING_DEAD.jpg</String></Pair>
+				<Pair key="title"><String>The Walking Dead</String></Pair>
+				<Pair key="str_noitem"><String>msg_error_no_title</String></Pair>
+			</Table>
+			<Table key="Todo_Mundo_Odeia_o_Chris">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/Todo_Mundo_Odeia_o_Chris.jpg</String></Pair>
+				<Pair key="title"><String>Todo Mundo Odeia o Chris</String></Pair>
+				<Pair key="str_noitem"><String>msg_error_no_title</String></Pair>
+			</Table>
+			<Table key="TRUE_BLOOD">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/TRUE_BLOOD.jpg</String></Pair>
+				<Pair key="title"><String>True Blood</String></Pair>
+				<Pair key="str_noitem"><String>msg_error_no_title</String></Pair>
+			</Table>
+			<Table key="TRUE_DETECTIVE">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/TRUE_DETECTIVE.jpg</String></Pair>
+				<Pair key="title"><String>True Detective</String></Pair>
+				<Pair key="str_noitem"><String>msg_error_no_title</String></Pair>
+			</Table>
+			<Table key="VINYL">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/VINYL.jpg</String></Pair>
+				<Pair key="title"><String>Vinyl</String></Pair>
+				<Pair key="str_noitem"><String>msg_error_no_title</String></Pair>
+			</Table>
+			<Table key="VISOES_DA_RAVEN">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/VISOES_DA_RAVEN.jpg</String></Pair>
+				<Pair key="title"><String>Visões Da Raven</String></Pair>
+				<Pair key="str_noitem"><String>msg_error_no_title</String></Pair>
+			</Table>
+			<Table key="YOUNGER">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/YOUNGER.jpg</String></Pair>
+				<Pair key="title"><String>Younger</String></Pair>
+				<Pair key="str_noitem"><String>msg_error_no_title</String></Pair>
+			</Table>
+			</Attributes>
+		<Items>
+		    <Query 
+			class="type:x-xmb/folder-pixmap" 
+			key="ARQUIVO_X" 
+			attr="ARQUIVO_X" 
+			src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/VOD/SERIES/ARQUIVO_X.xml#seg_tv_items"/>
+			<Query 
+			class="type:x-xmb/folder-pixmap" 
+			key="EAST_END" 
+			attr="EAST_END" 
+			src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/VOD/SERIES/EAST_END.xml#seg_tv_items"/>
+			<Query 
+			class="type:x-xmb/folder-pixmap" 
+			key="DEMOLIDOR" 
+			attr="DEMOLIDOR" 
+			src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/VOD/SERIES/DEMOLIDOR.xml#seg_tv_items"/>
+			<Query 
+			class="type:x-xmb/folder-pixmap" 
+			key="ESCANDALOS_OS_BASTIDORES_DO_PODER" 
+			attr="ESCANDALOS_OS_BASTIDORES_DO_PODER" 
+			src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/VOD/SERIES/ESCANDALOS_OS_BASTIDORES_DO_PODER.xml#seg_tv_items"/>
+			<Query 
+			class="type:x-xmb/folder-pixmap" 
+			key="GAME_OF_THRONES" 
+			attr="GAME_OF_THRONES" 
+			src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/VOD/SERIES/GAME_OF_THRONES.xml#seg_tv_items"/>
+			<Query 
+			class="type:x-xmb/folder-pixmap" 
+			key="GREYSA" 
+			attr="GREYSA" 
+			src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/VOD/SERIES/GREYSA.xml#seg_tv_items"/>
+			<Query 
+			class="type:x-xmb/folder-pixmap" 
+			key="LA_CASA_DE_PAPEL" 
+			attr="LA_CASA_DE_PAPEL" 
+			src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/VOD/SERIES/LA_CASA_DE_PAPEL.xml#seg_tv_items"/>
+			<Query 
+			class="type:x-xmb/folder-pixmap" 
+			key="LOST" 
+			attr="LOST" 
+			src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/VOD/SERIES/LOST.xml#seg_tv_items"/>
+			<Query 
+			class="type:x-xmb/folder-pixmap" 
+			key="LUKE_CAGE" 
+			attr="LUKE_CAGE" 
+			src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/VOD/SERIES/LUKE_CAGE.xml#seg_tv_items"/>
+			<Query 
+			class="type:x-xmb/folder-pixmap" 
+			key="MARCO_POLO" 
+			attr="MARCO_POLO" 
+			src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/VOD/SERIES/MARCO_POLO.xml#seg_tv_items"/>
+			<Query 
+			class="type:x-xmb/folder-pixmap" 
+			key="O_MENTALISTA" 
+			attr="O_MENTALISTA" 
+			src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/VOD/SERIES/O_MENTALISTA.xml#seg_tv_items"/>
+			<Query 
+			class="type:x-xmb/folder-pixmap" 
+			key="OUTCAST" 
+			attr="OUTCAST" 
+			src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/VOD/SERIES/OUTCAST.xml#seg_tv_items"/>
+			<Query 
+			class="type:x-xmb/folder-pixmap" 
+			key="PERDIDOS_NO_ESPACO" 
+			attr="PERDIDOS_NO_ESPACO" 
+			src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/VOD/SERIES/PERDIDOS_NO_ESPACO.xml#seg_tv_items"/>
+			<Query 
+			class="type:x-xmb/folder-pixmap" 
+			key="PREACHER" 
+			attr="PREACHER" 
+			src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/VOD/SERIES/PREACHER.xml#seg_tv_items"/>
+			<Query 
+			class="type:x-xmb/folder-pixmap" 
+			key="PRISON_BREAK" 
+			attr="PRISON_BREAK" 
+			src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/VOD/SERIES/PRISON_BREAK.xml#seg_tv_items"/>
+			<Query 
+			class="type:x-xmb/folder-pixmap" 
+			key="PSYCH" 
+			attr="PSYCH" 
+			src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/VOD/SERIES/PSYCH.xml#seg_tv_items"/>
+			<Query 
+			class="type:x-xmb/folder-pixmap" 
+			key="RAVEN_IS_HOME" 
+			attr="RAVEN_IS_HOME" 
+			src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/VOD/SERIES/RAVEN_IS_HOME.xml#seg_tv_items"/>
+			<Query 
+			class="type:x-xmb/folder-pixmap" 
+			key="REVENGE" 
+			attr="REVENGE" 
+			src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/VOD/SERIES/REVENGE.xml#seg_tv_items"/>
+			<Query 
+			class="type:x-xmb/folder-pixmap" 
+			key="SANTA_CLARITA_DIET" 
+			attr="SANTA_CLARITA_DIET" 
+			src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/VOD/SERIES/SANTA_CLARITA_DIET.xml#seg_tv_items"/>
+			<Query 
+			class="type:x-xmb/folder-pixmap" 
+			key="SCREAM" 
+			attr="SCREAM" 
+			src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/VOD/SERIES/SCREAM.xml#seg_tv_items"/>
+			<Query 
+			class="type:x-xmb/folder-pixmap" 
+			key="SHADOWHUNTERS" 
+			attr="SHADOWHUNTERS" 
+			src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/VOD/SERIES/SHADOWHUNTERS.xml#seg_tv_items"/>
+			<Query 
+			class="type:x-xmb/folder-pixmap" 
+			key="SHARP_OBJECTS" 
+			attr="SHARP_OBJECTS" 
+			src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/VOD/SERIES/SHARP_OBJECTS.xml#seg_tv_items"/>
+			<Query 
+			class="type:x-xmb/folder-pixmap" 
+			key="SIREN" 
+			attr="SIREN" 
+			src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/VOD/SERIES/SIREN.xml#seg_tv_items"/>
+			<Query 
+			class="type:x-xmb/folder-pixmap" 
+			key="SMALLVILLE" 
+			attr="SMALLVILLE" 
+			src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/VOD/SERIES/SMALLVILLE.xml#seg_tv_items"/>
+			<Query 
+			class="type:x-xmb/folder-pixmap" 
+			key="SPARTACUS" 
+			attr="SPARTACUS" 
+			src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/VOD/SERIES/SPARTACUS.xml#seg_tv_items"/>
+			<Query 
+			class="type:x-xmb/folder-pixmap" 
+			key="SPARTACUS_GOTHA" 
+			attr="SPARTACUS_GOTHA" 
+			src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/VOD/SERIES/SPARTACUS_GOTHA.xml#seg_tv_items"/>
+			<Query 
+			class="type:x-xmb/folder-pixmap" 
+			key="SPARTACUS_VENGEANCE" 
+			attr="SPARTACUS_VENGEANCE" 
+			src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/VOD/SERIES/SPARTACUS_VENGEANCE.xml#seg_tv_items"/>
+			<Query 
+			class="type:x-xmb/folder-pixmap" 
+			key="SPARTACUS_WAR" 
+			attr="SPARTACUS_WAR" 
+			src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/VOD/SERIES/SPARTACUS_WAR.xml#seg_tv_items"/>
+			<Query 
+			class="type:x-xmb/folder-pixmap" 
+			key="STAR_TREK" 
+			attr="STAR_TREK" 
+			src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/VOD/SERIES/STAR_TREK.xml#seg_tv_items"/>
+			<Query 
+			class="type:x-xmb/folder-pixmap" 
+			key="STATION19" 
+			attr="STATION19" 
+			src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/VOD/SERIES/STATION19.xml#seg_tv_items"/>
+			<Query 
+			class="type:x-xmb/folder-pixmap" 
+			key="STRANGER_THINGS" 
+			attr="STRANGER_THINGS" 
+			src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/VOD/SERIES/STRANGER_THINGS.xml#seg_tv_items"/>
+			<Query 
+			class="type:x-xmb/folder-pixmap" 
+			key="SUPER_GIRL" 
+			attr="SUPER_GIRL" 
+			src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/VOD/SERIES/SUPER_GIRL.xml#seg_tv_items"/>
+			<Query 
+			class="type:x-xmb/folder-pixmap" 
+			key="SUPERNATURAL" 
+			attr="SUPERNATURAL" 
+			src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/VOD/SERIES/SUPERNATURAL.xml#seg_tv_items"/>
+			<Query 
+			class="type:x-xmb/folder-pixmap" 
+			key="SWAT" 
+			attr="SWAT" 
+			src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/VOD/SERIES/SWAT.xml#seg_tv_items"/>
+			<Query 
+			class="type:x-xmb/folder-pixmap" 
+			key="THE_100" 
+			attr="THE_100" 
+			src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/VOD/SERIES/THE_100.xml#seg_tv_items"/>
+			<Query 
+			class="type:x-xmb/folder-pixmap" 
+			key="BLACKLIST" 
+			attr="BLACKLIST" 
+			src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/VOD/SERIES/BLACKLIST.xml#seg_tv_items"/>
+			<Query 
+			class="type:x-xmb/folder-pixmap" 
+			key="CLIENT_LIST" 
+			attr="CLIENT_LIST" 
+			src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/VOD/SERIES/CLIENT_LIST.xml#seg_tv_items"/>
+			<Query 
+			class="type:x-xmb/folder-pixmap" 
+			key="THE_CROSSING" 
+			attr="THE_CROSSING" 
+			src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/VOD/SERIES/THE_CROSSING.xml#seg_tv_items"/>
+			<Query 
+			class="type:x-xmb/folder-pixmap" 
+			key="THE_FLASH" 
+			attr="THE_FLASH" 
+			src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/VOD/SERIES/THE_FLASH.xml#seg_tv_items"/>
+			<Query 
+			class="type:x-xmb/folder-pixmap" 
+			key="THE_LAST_KINGDOM" 
+			attr="THE_LAST_KINGDOM" 
+			src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/VOD/SERIES/THE_LAST_KINGDOM.xml#seg_tv_items"/>
+			<Query 
+			class="type:x-xmb/folder-pixmap" 
+			key="THE_MICK" 
+			attr="THE_MICK" 
+			src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/VOD/SERIES/THE_MICK.xml#seg_tv_items"/>
+			<Query 
+			class="type:x-xmb/folder-pixmap" 
+			key="NIGHT_OF" 
+			attr="NIGHT_OF" 
+			src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/VOD/SERIES/NIGHT_OF.xml#seg_tv_items"/>
+			<Query 
+			class="type:x-xmb/folder-pixmap" 
+			key="THE_OA" 
+			attr="THE_OA" 
+			src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/VOD/SERIES/THE_OA.xml#seg_tv_items"/>
+			<Query 
+			class="type:x-xmb/folder-pixmap" 
+			key="THE_RAIN" 
+			attr="THE_RAIN" 
+			src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/VOD/SERIES/THE_RAIN.xml#seg_tv_items"/>
+			<Query 
+			class="type:x-xmb/folder-pixmap" 
+			key="THE_RETURNED" 
+			attr="THE_RETURNED" 
+			src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/VOD/SERIES/THE_RETURNED.xml#seg_tv_items"/>
+			<Query 
+			class="type:x-xmb/folder-pixmap" 
+			key="THE_TERROR" 
+			attr="THE_TERROR" 
+			src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/VOD/SERIES/THE_TERROR.xml#seg_tv_items"/>
+			<Query 
+			class="type:x-xmb/folder-pixmap" 
+			key="THE_WALKING_DEAD" 
+			attr="THE_WALKING_DEAD" 
+			src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/VOD/SERIES/THE_WALKING_DEAD.xml#seg_tv_items"/>
+			<Query 
+			class="type:x-xmb/folder-pixmap" 
+			key="Todo_Mundo_Odeia_o_Chris" 
+			attr="Todo_Mundo_Odeia_o_Chris" 
+			src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/VOD/SERIES/Todo_Mundo_Odeia_o_Chris.xml#seg_tv_items"/>
+			<Query 
+			class="type:x-xmb/folder-pixmap" 
+			key="TRUE_BLOOD" 
+			attr="TRUE_BLOOD" 
+			src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/VOD/SERIES/TRUE_BLOOD.xml#seg_tv_items"/>
+			<Query 
+			class="type:x-xmb/folder-pixmap" 
+			key="TRUE_DETECTIVE" 
+			attr="TRUE_DETECTIVE" 
+			src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/VOD/SERIES/TRUE_DETECTIVE.xml#seg_tv_items"/>
+			<Query 
+			class="type:x-xmb/folder-pixmap" 
+			key="VINYL" 
+			attr="VINYL" 
+			src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/VOD/SERIES/VINYL.xml#seg_tv_items"/>
+			<Query 
+			class="type:x-xmb/folder-pixmap" 
+			key="YOUNGER" 
+			attr="YOUNGER" 
+			src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/VOD/SERIES/YOUNGER.xml#seg_tv_items"/>
+			
+			
+		</Items>
+    </View>
+</XMBML>

@@ -1,0 +1,533 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<XMBML version="1.0">
+
+	<!-- Main  > TV > Submenu -->
+	<View id="seg_tv_items">
+		<Attributes>
+			<Table key="A_Bruxinha_Sabrina">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/DESENHOS/A_Bruxinha_Sabrina.jpg</String></Pair>
+				<Pair key="title"><String>A Bruxinha Sabrina</String></Pair>
+				<Pair key="str_noitem"><String>msg_error_no_title</String></Pair>
+			</Table>
+			<Table key="A_Familia_Addams_1972">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/DESENHOS/A_Familia_Addams_1972.jpg</String></Pair>
+				<Pair key="title"><String>A Familia Addams 1972</String></Pair>
+				<Pair key="str_noitem"><String>msg_error_no_title</String></Pair>
+			</Table>
+			<Table key="A_Formiga_Atomica">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/DESENHOS/A_Formiga_Atomica.jpg</String></Pair>
+				<Pair key="title"><String>A Formiga Atomica</String></Pair>
+				<Pair key="str_noitem"><String>msg_error_no_title</String></Pair>
+			</Table>
+			<Table key="As_Aventuras_do_Superboy">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/DESENHOS/As_Aventuras_do_Superboy.jpg</String></Pair>
+				<Pair key="title"><String>As Aventuras do Superboy</String></Pair>
+				<Pair key="str_noitem"><String>msg_error_no_title</String></Pair>
+			</Table>
+			<Table key="Astro_Boy">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/DESENHOS/Astro_Boy.jpg</String></Pair>
+				<Pair key="title"><String>Astro Boy</String></Pair>
+				<Pair key="str_noitem"><String>msg_error_no_title</String></Pair>
+			</Table>
+			<Table key="Avatar">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/DESENHOS/Avatar.jpg</String></Pair>
+				<Pair key="title"><String>Avatar</String></Pair>
+				<Pair key="str_noitem"><String>msg_error_no_title</String></Pair>
+			</Table>
+			<Table key="As_Meninas_Superpoderosas">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/DESENHOS/As_Meninas_Superpoderosas.jpg</String></Pair>
+				<Pair key="title"><String>As Meninas Super poderosas</String></Pair>
+				<Pair key="str_noitem"><String>msg_error_no_title</String></Pair>
+			</Table>
+			<Table key="Bacamarte_e_Chumbinho">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/DESENHOS/Bacamarte_e_Chumbinho.jpg</String></Pair>
+				<Pair key="title"><String>Bacamarte e Chumbinho</String></Pair>
+				<Pair key="str_noitem"><String>msg_error_no_title</String></Pair>
+			</Table>
+			<Table key="batman_colecao">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/DESENHOS/batman_colecao.jpg</String></Pair>
+				<Pair key="title"><String>Batman Coleção</String></Pair>
+				<Pair key="str_noitem"><String>msg_error_no_title</String></Pair>
+			</Table>
+			<Table key="Bob_s_Burgers">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/DESENHOS/Bob_s_Burgers.jpg</String></Pair>
+				<Pair key="title"><String>Bob's Burgers</String></Pair>
+				<Pair key="str_noitem"><String>msg_error_no_title</String></Pair>
+			</Table>
+			<Table key="BOB_ESPONJA">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/DESENHOS/BOB_ESPONJA.jpg</String></Pair>
+				<Pair key="title"><String>Bob Esponja</String></Pair>
+				<Pair key="str_noitem"><String>msg_error_no_title</String></Pair>
+			</Table>
+			<Table key="CAVALEIROS_DA_ARABIA">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/DESENHOS/CAVALEIROS_DA_ARABIA.jpg</String></Pair>
+				<Pair key="title"><String>Cavaleiros da Arabia</String></Pair>
+				<Pair key="str_noitem"><String>msg_error_no_title</String></Pair>
+			</Table>
+			<Table key="chaves">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/DESENHOS/chaves.jpg</String></Pair>
+				<Pair key="title"><String>Chaves</String></Pair>
+				<Pair key="str_noitem"><String>msg_error_no_title</String></Pair>
+			</Table>
+			<Table key="Coragem_o_cao_Covarde">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/DESENHOS/Coragem_o_cao_Covarde.jpg</String></Pair>
+				<Pair key="title"><String>Coragem, o Cão Covarde</String></Pair>
+				<Pair key="str_noitem"><String>msg_error_no_title</String></Pair>
+			</Table>
+			<Table key="DESENCANTO">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/DESENHOS/DESENCANTO.jpg</String></Pair>
+				<Pair key="title"><String>(Des)encanto</String></Pair>
+				<Pair key="str_noitem"><String>msg_error_no_title</String></Pair>
+			</Table>
+			<Table key="DICK_VIGARISTA">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/DESENHOS/DICK_VIGARISTA.jpg</String></Pair>
+				<Pair key="title"><String>Dick Vigarista</String></Pair>
+				<Pair key="str_noitem"><String>msg_error_no_title</String></Pair>
+			</Table>
+			<Table key="DUCK_TALES">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/DESENHOS/DUCK_TALES.jpg</String></Pair>
+				<Pair key="title"><String>Duck Tales</String></Pair>
+				<Pair key="str_noitem"><String>msg_error_no_title</String></Pair>
+			</Table>
+			<Table key="FUTURAMA">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/DESENHOS/FUTURAMA.jpg</String></Pair>
+				<Pair key="title"><String>Futurama</String></Pair>
+				<Pair key="str_noitem"><String>msg_error_no_title</String></Pair>
+			</Table>
+			<Table key="GATO_FELIX">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/DESENHOS/GATO_FELIX.jpg</String></Pair>
+				<Pair key="title"><String>Gato Felix</String></Pair>
+				<Pair key="str_noitem"><String>msg_error_no_title</String></Pair>
+			</Table>
+			<Table key="HE_MAN">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/DESENHOS/HE_MAN.jpg</String></Pair>
+				<Pair key="title"><String>He Man</String></Pair>
+				<Pair key="str_noitem"><String>msg_error_no_title</String></Pair>
+			</Table>
+			<Table key="JACKIE_CHAN">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/DESENHOS/JACKIE_CHAN.jpg</String></Pair>
+				<Pair key="title"><String>Jackie Chan</String></Pair>
+				<Pair key="str_noitem"><String>msg_error_no_title</String></Pair>
+			</Table>
+			<Table key="JACKSON_FIVE">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/DESENHOS/JACKSON_FIVE.jpg</String></Pair>
+				<Pair key="title"><String>Jackson Five</String></Pair>
+				<Pair key="str_noitem"><String>msg_error_no_title</String></Pair>
+			</Table>
+			<Table key="JOVEM_SANSAO">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/DESENHOS/JOVEM_SANSAO.jpg</String></Pair>
+				<Pair key="title"><String>Jovem Sansão</String></Pair>
+				<Pair key="str_noitem"><String>msg_error_no_title</String></Pair>
+			</Table>
+			<Table key="OS_JOVENS_TITAS_EM_ACAO">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/DESENHOS/OS_JOVENS_TITAS_EM_ACAO.jpg</String></Pair>
+				<Pair key="title"><String>Jovens Titãs em Ação</String></Pair>
+				<Pair key="str_noitem"><String>msg_error_no_title</String></Pair>
+			</Table>
+			<Table key="JOVENS_TITAS_CLASSICO">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/DESENHOS/JOVENS_TITAS_CLASSICO.jpg</String></Pair>
+				<Pair key="title"><String>Jovens Titãs (CLASSICO)</String></Pair>
+				<Pair key="str_noitem"><String>msg_error_no_title</String></Pair>
+			</Table>
+			<Table key="liga_da_justica">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/DESENHOS/liga_da_justica.jpg</String></Pair>
+				<Pair key="title"><String>Liga da Justiça - 1973</String></Pair>
+				<Pair key="str_noitem"><String>msg_error_no_title</String></Pair>
+			</Table>
+			<Table key="MAGUILA">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/DESENHOS/MAGUILA.jpg</String></Pair>
+				<Pair key="title"><String>Maguila</String></Pair>
+				<Pair key="str_noitem"><String>msg_error_no_title</String></Pair>
+			</Table>
+			<Table key="Manda_Chuva">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/DESENHOS/Manda_Chuva.jpg</String></Pair>
+				<Pair key="title"><String>Manda Chuva</String></Pair>
+				<Pair key="str_noitem"><String>msg_error_no_title</String></Pair>
+			</Table>
+			<Table key="MORTAL_KOMBAT">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/DESENHOS/MORTAL_KOMBAT.jpg</String></Pair>
+				<Pair key="title"><String>Mortal Kombat</String></Pair>
+				<Pair key="str_noitem"><String>msg_error_no_title</String></Pair>
+			</Table>
+			<Table key="MUZZARELAS">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/DESENHOS/MUZZARELAS.jpg</String></Pair>
+				<Pair key="title"><String>Muzzarelas</String></Pair>
+				<Pair key="str_noitem"><String>msg_error_no_title</String></Pair>
+			</Table>
+			<Table key="OH_HO_LIMPICOS">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/DESENHOS/OH_HO_LIMPICOS.jpg</String></Pair>
+				<Pair key="title"><String>HO HO Limpicos</String></Pair>
+				<Pair key="str_noitem"><String>msg_error_no_title</String></Pair>
+			</Table>
+			<Table key="OS_FLINTSTONES">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/DESENHOS/OS_FLINTSTONES.jpg</String></Pair>
+				<Pair key="title"><String>Os Flintstones</String></Pair>
+				<Pair key="str_noitem"><String>msg_error_no_title</String></Pair>
+			</Table>
+			<Table key="OS_IMPOSSIVEIS">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/DESENHOS/OS_IMPOSSIVEIS.jpg</String></Pair>
+				<Pair key="title"><String>Os Impossíveis</String></Pair>
+				<Pair key="str_noitem"><String>msg_error_no_title</String></Pair>
+			</Table>
+			<Table key="OS_JETSONS">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/DESENHOS/OS_JETSONS.jpg</String></Pair>
+				<Pair key="title"><String>Os Jetsons</String></Pair>
+				<Pair key="str_noitem"><String>msg_error_no_title</String></Pair>
+			</Table>
+			<Table key="OS_SIMPSONS">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/DESENHOS/OS_SIMPSONS.jpg</String></Pair>
+				<Pair key="title"><String>Os Simpsons</String></Pair>
+				<Pair key="str_noitem"><String>msg_error_no_title</String></Pair>
+			</Table>
+			<Table key="PANTERA_COR_DE_ROSA">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/DESENHOS/PANTERA_COR_DE_ROSA.jpg</String></Pair>
+				<Pair key="title"><String>Pantera Cor-de-Rosa</String></Pair>
+				<Pair key="str_noitem"><String>msg_error_no_title</String></Pair>
+			</Table>
+			<Table key="PAPA_LEGUAS_E_COYOTE">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/DESENHOS/PAPA_LEGUAS_E_COYOTE.jpg</String></Pair>
+				<Pair key="title"><String>Papa Leguas & Coyote</String></Pair>
+				<Pair key="str_noitem"><String>msg_error_no_title</String></Pair>
+			</Table>
+			<Table key="PATOLINO">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/DESENHOS/PATOLINO.jpg</String></Pair>
+				<Pair key="title"><String>Patolino</String></Pair>
+				<Pair key="str_noitem"><String>msg_error_no_title</String></Pair>
+			</Table>
+			<Table key="PENELOPE_CHARMOSA">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/DESENHOS/PENELOPE_CHARMOSA.jpg</String></Pair>
+				<Pair key="title"><String>Penelope Charmosa</String></Pair>
+				<Pair key="str_noitem"><String>msg_error_no_title</String></Pair>
+			</Table>
+			<Table key="PERNALONGA">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/DESENHOS/PERNALONGA.jpg</String></Pair>
+				<Pair key="title"><String>Pernalonga</String></Pair>
+				<Pair key="str_noitem"><String>msg_error_no_title</String></Pair>
+			</Table>
+			<Table key="PICA_PAU">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/DESENHOS/PICA_PAU.jpg</String></Pair>
+				<Pair key="title"><String>Pica Pau</String></Pair>
+				<Pair key="str_noitem"><String>msg_error_no_title</String></Pair>
+			</Table>
+			<Table key="PODEROSO_MIGHTOR">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/DESENHOS/PODEROSO_MIGHTOR.jpg</String></Pair>
+				<Pair key="title"><String>Poderoso Mightor</String></Pair>
+				<Pair key="str_noitem"><String>msg_error_no_title</String></Pair>
+			</Table>
+			<Table key="REI_ARTHUR">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/DESENHOS/REI_ARTHUR.jpg</String></Pair>
+				<Pair key="title"><String>Rei Arthur</String></Pair>
+				<Pair key="str_noitem"><String>msg_error_no_title</String></Pair>
+			</Table>
+			<Table key="SCOOBY_DOO">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/DESENHOS/SCOOBY_DOO.jpg</String></Pair>
+				<Pair key="title"><String>Scooby-Doo!</String></Pair>
+				<Pair key="str_noitem"><String>msg_error_no_title</String></Pair>
+			</Table>
+			<Table key="SHAZZAN">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/DESENHOS/SHAZZAN.jpg</String></Pair>
+				<Pair key="title"><String>Shazzan</String></Pair>
+				<Pair key="str_noitem"><String>msg_error_no_title</String></Pair>
+			</Table>
+			<Table key="SOUTH_PARK">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/DESENHOS/SOUTH_PARK.jpg</String></Pair>
+				<Pair key="title"><String>South Park</String></Pair>
+				<Pair key="str_noitem"><String>msg_error_no_title</String></Pair>
+			</Table>
+			<Table key="SPACE_GHOST">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/DESENHOS/SPACE_GHOST.jpg</String></Pair>
+				<Pair key="title"><String>Space Ghost</String></Pair>
+				<Pair key="str_noitem"><String>msg_error_no_title</String></Pair>
+			</Table>
+			<Table key="SPEED_RACER">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/DESENHOS/SPEED_RACER.jpg</String></Pair>
+				<Pair key="title"><String>Speed Racer</String></Pair>
+				<Pair key="str_noitem"><String>msg_error_no_title</String></Pair>
+			</Table>
+			<Table key="SUPER_AMIGOS_EP_PERDIDOS">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/DESENHOS/SUPER_AMIGOS_EP_PERDIDOS.jpg</String></Pair>
+				<Pair key="title"><String>Super Amigos (Ep Perdidos)</String></Pair>
+				<Pair key="str_noitem"><String>msg_error_no_title</String></Pair>
+			</Table>
+			<Table key="SUPERMAN_SERIE_ANIMADA">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/DESENHOS/SUPERMAN_SERIE_ANIMADA.jpg</String></Pair>
+				<Pair key="title"><String>Superman</String></Pair>
+				<Pair key="str_noitem"><String>msg_error_no_title</String></Pair>
+			</Table>
+			<Table key="TARTARUGA_TOUCHE">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/DESENHOS/TARTARUGA_TOUCHE.jpg</String></Pair>
+				<Pair key="title"><String>Tartaruga Touché e Dum Dum</String></Pair>
+				<Pair key="str_noitem"><String>msg_error_no_title</String></Pair>
+			</Table>
+			<Table key="YU_GI_OH_ARC_V">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/DESENHOS/YU_GI_OH_ARC_V.jpg</String></Pair>
+				<Pair key="title"><String>Yu-Gi-Oh! Arc-V</String></Pair>
+				<Pair key="str_noitem"><String>msg_error_no_title</String></Pair>
+			</Table>
+			</Attributes>
+		<Items>
+		    <Query 
+			class="type:x-xmb/folder-pixmap" 
+			key="A_Bruxinha_Sabrina" 
+			attr="A_Bruxinha_Sabrina" 
+			src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/VOD/DESENHOS/A_Bruxinha_Sabrina.xml#seg_tv_items"/>
+			<Query 
+			class="type:x-xmb/folder-pixmap" 
+			key="A_Familia_Addams_1972" 
+			attr="A_Familia_Addams_1972" 
+			src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/VOD/DESENHOS/A_Familia_Addams_1972.xml#seg_tv_items"/>
+			<Query 
+			class="type:x-xmb/folder-pixmap" 
+			key="A_Formiga_Atomica" 
+			attr="A_Formiga_Atomica" 
+			src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/VOD/DESENHOS/A_Formiga_Atomica.xml#seg_tv_items"/>
+			<Query 
+			class="type:x-xmb/folder-pixmap" 
+			key="As_Aventuras_do_Superboy" 
+			attr="As_Aventuras_do_Superboy" 
+			src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/VOD/DESENHOS/As_Aventuras_do_Superboy.xml#seg_tv_items"/>
+			<Query 
+			class="type:x-xmb/folder-pixmap" 
+			key="Astro_Boy" 
+			attr="Astro_Boy" 
+			src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/VOD/DESENHOS/Astro_Boy.xml#seg_tv_items"/>
+			<Query 
+			class="type:x-xmb/folder-pixmap" 
+			key="Avatar" 
+			attr="Avatar" 
+			src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/VOD/DESENHOS/Avatar.xml#seg_tv_items"/>
+			<Query 
+			class="type:x-xmb/folder-pixmap" 
+			key="As_Meninas_Superpoderosas" 
+			attr="As_Meninas_Superpoderosas" 
+			src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/VOD/DESENHOS/As_Meninas_Superpoderosas.xml#seg_tv_items"/>
+			<Query 
+			class="type:x-xmb/folder-pixmap" 
+			key="Bacamarte_e_Chumbinho" 
+			attr="Bacamarte_e_Chumbinho" 
+			src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/VOD/DESENHOS/Bacamarte_e_Chumbinho.xml#seg_tv_items"/>
+			<Query 
+			class="type:x-xmb/folder-pixmap" 
+			key="batman_colecao" 
+			attr="batman_colecao" 
+			src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/VOD/DESENHOS/batman_colecao.xml#seg_tv_items"/>
+			<Query 
+			class="type:x-xmb/folder-pixmap" 
+			key="Bob_s_Burgers" 
+			attr="Bob_s_Burgers" 
+			src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/VOD/DESENHOS/Bob_s_Burgers.xml#seg_tv_items"/>
+			<Query 
+			class="type:x-xmb/folder-pixmap" 
+			key="BOB_ESPONJA" 
+			attr="BOB_ESPONJA" 
+			src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/VOD/DESENHOS/BOB_ESPONJA.xml#seg_tv_items"/>
+			<Query 
+			class="type:x-xmb/folder-pixmap" 
+			key="CAVALEIROS_DA_ARABIA" 
+			attr="CAVALEIROS_DA_ARABIA" 
+			src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/VOD/DESENHOS/CAVALEIROS_DA_ARABIA.xml#seg_tv_items"/>
+			<Query 
+			class="type:x-xmb/folder-pixmap" 
+			key="chaves" 
+			attr="chaves" 
+			src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/VOD/DESENHOS/chaves.xml#seg_tv_items"/>
+			<Query 
+			class="type:x-xmb/folder-pixmap" 
+			key="Coragem_o_cao_Covarde" 
+			attr="Coragem_o_cao_Covarde" 
+			src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/VOD/DESENHOS/Coragem_o_cao_Covarde.xml#seg_tv_items"/>
+			<Query 
+			class="type:x-xmb/folder-pixmap" 
+			key="DESENCANTO" 
+			attr="DESENCANTO" 
+			src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/VOD/DESENHOS/DESENCANTOxml#seg_tv_items"/>
+			<Query 
+			class="type:x-xmb/folder-pixmap" 
+			key="DICK_VIGARISTA" 
+			attr="DICK_VIGARISTA" 
+			src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/VOD/DESENHOS/DICK_VIGARISTA.xml#seg_tv_items"/>
+			<Query 
+			class="type:x-xmb/folder-pixmap" 
+			key="DUCK_TALES" 
+			attr="DUCK_TALES" 
+			src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/VOD/DESENHOS/DUCK_TALES.xml#seg_tv_items"/>
+			<Query 
+			class="type:x-xmb/folder-pixmap" 
+			key="FUTURAMA" 
+			attr="FUTURAMA" 
+			src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/VOD/DESENHOS/FUTURAMA.xml#seg_tv_items"/>
+			<Query 
+			class="type:x-xmb/folder-pixmap" 
+			key="GATO_FELIX" 
+			attr="GATO_FELIX" 
+			src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/VOD/DESENHOS/GATO_FELIX.xml#seg_tv_items"/>
+			<Query 
+			class="type:x-xmb/folder-pixmap" 
+			key="HE_MAN" 
+			attr="HE_MAN" 
+			src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/VOD/DESENHOS/HE_MAN.xml#seg_tv_items"/>
+			<Query 
+			class="type:x-xmb/folder-pixmap" 
+			key="JACKIE_CHAN" 
+			attr="JACKIE_CHAN" 
+			src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/VOD/DESENHOS/JACKIE_CHAN.xml#seg_tv_items"/>
+			<Query 
+			class="type:x-xmb/folder-pixmap" 
+			key="JACKSON_FIVE" 
+			attr="JACKSON_FIVE" 
+			src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/VOD/DESENHOS/JACKSON_FIVE.xml#seg_tv_items"/>
+			<Query 
+			class="type:x-xmb/folder-pixmap" 
+			key="JOVEM_SANSAO" 
+			attr="JOVEM_SANSAO" 
+			src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/VOD/DESENHOS/JOVEM_SANSAO.xml#seg_tv_items"/>
+			<Query 
+			class="type:x-xmb/folder-pixmap" 
+			key="OS_JOVENS_TITAS_EM_ACAO" 
+			attr="OS_JOVENS_TITAS_EM_ACAO" 
+			src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/VOD/DESENHOS/OS_JOVENS_TITAS_EM_ACAO.xml#seg_tv_items"/>
+			<Query 
+			class="type:x-xmb/folder-pixmap" 
+			key="JOVENS_TITAS_CLASSICO" 
+			attr="JOVENS_TITAS_CLASSICO" 
+			src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/VOD/DESENHOS/JOVENS_TITAS_CLASSICO.xml#seg_tv_items"/>
+			<Query 
+			class="type:x-xmb/folder-pixmap" 
+			key="liga_da_justica" 
+			attr="liga_da_justica" 
+			src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/VOD/DESENHOS/liga_da_justica.xml#seg_tv_items"/>
+			<Query 
+			class="type:x-xmb/folder-pixmap" 
+			key="MAGUILA" 
+			attr="MAGUILA" 
+			src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/VOD/DESENHOS/MAGUILA.xml#seg_tv_items"/>
+			<Query 
+			class="type:x-xmb/folder-pixmap" 
+			key="Manda_Chuva" 
+			attr="Manda_Chuva" 
+			src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/VOD/DESENHOS/Manda_Chuva.xml#seg_tv_items"/>
+			<Query 
+			class="type:x-xmb/folder-pixmap" 
+			key="MORTAL_KOMBAT" 
+			attr="MORTAL_KOMBAT" 
+			src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/VOD/DESENHOS/MORTAL_KOMBAT.xml#seg_tv_items"/>
+			<Query 
+			class="type:x-xmb/folder-pixmap" 
+			key="MUZZARELAS" 
+			attr="MUZZARELAS" 
+			src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/VOD/DESENHOS/MUZZARELAS.xml#seg_tv_items"/>
+			<Query 
+			class="type:x-xmb/folder-pixmap" 
+			key="OH_HO_LIMPICOS" 
+			attr="OH_HO_LIMPICOS" 
+			src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/VOD/DESENHOS/OH_HO_LIMPICOS.xml#seg_tv_items"/>
+			<Query 
+			class="type:x-xmb/folder-pixmap" 
+			key="OS_FLINTSTONES" 
+			attr="OS_FLINTSTONES" 
+			src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/VOD/DESENHOS/OS_FLINTSTONES.xml#seg_tv_items"/>
+			<Query 
+			class="type:x-xmb/folder-pixmap" 
+			key="OS_IMPOSSIVEIS" 
+			attr="OS_IMPOSSIVEIS" 
+			src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/VOD/DESENHOS/OS_IMPOSSIVEIS.xml#seg_tv_items"/>
+			<Query 
+			class="type:x-xmb/folder-pixmap" 
+			key="OS_JETSONS" 
+			attr="OS_JETSONS" 
+			src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/VOD/DESENHOS/OS_JETSONS.xml#seg_tv_items"/>
+			<Query 
+			class="type:x-xmb/folder-pixmap" 
+			key="OS_SIMPSONS" 
+			attr="OS_SIMPSONS" 
+			src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/VOD/DESENHOS/OS_SIMPSONS.xml#seg_tv_items"/>
+			<Query 
+			class="type:x-xmb/folder-pixmap" 
+			key="PANTERA_COR_DE_ROSA" 
+			attr="PANTERA_COR_DE_ROSA" 
+			src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/VOD/DESENHOS/PANTERA_COR_DE_ROSA.xml#seg_tv_items"/>
+			<Query 
+			class="type:x-xmb/folder-pixmap" 
+			key="PAPA_LEGUAS_E_COYOTE" 
+			attr="PAPA_LEGUAS_E_COYOTE" 
+			src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/VOD/DESENHOS/PAPA_LEGUAS_E_COYOTE.xml#seg_tv_items"/>
+			<Query 
+			class="type:x-xmb/folder-pixmap" 
+			key="PATOLINO" 
+			attr="PATOLINO" 
+			src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/VOD/DESENHOS/PATOLINO.xml#seg_tv_items"/>
+			<Query 
+			class="type:x-xmb/folder-pixmap" 
+			key="PENELOPE_CHARMOSA" 
+			attr="PENELOPE_CHARMOSA" 
+			src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/VOD/DESENHOS/PENELOPE_CHARMOSA.xml#seg_tv_items"/>
+			<Query 
+			class="type:x-xmb/folder-pixmap" 
+			key="PERNALONGA" 
+			attr="PERNALONGA" 
+			src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/VOD/DESENHOS/PERNALONGA.xml#seg_tv_items"/>
+			<Query 
+			class="type:x-xmb/folder-pixmap" 
+			key="PICA_PAU" 
+			attr="PICA_PAU" 
+			src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/VOD/DESENHOS/PICA_PAU.xml#seg_tv_items"/>
+			<Query 
+			class="type:x-xmb/folder-pixmap" 
+			key="PODEROSO_MIGHTOR" 
+			attr="PODEROSO_MIGHTOR" 
+			src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/VOD/DESENHOS/PODEROSO_MIGHTOR.xml#seg_tv_items"/>
+			<Query 
+			class="type:x-xmb/folder-pixmap" 
+			key="REI_ARTHUR" 
+			attr="REI_ARTHUR" 
+			src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/VOD/DESENHOS/REI_ARTHUR.xml#seg_tv_items"/>
+			<Query 
+			class="type:x-xmb/folder-pixmap" 
+			key="SCOOBY_DOO" 
+			attr="SCOOBY_DOO" 
+			src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/VOD/DESENHOS/SCOOBY_DOO.xml#seg_tv_items"/>
+			<Query 
+			class="type:x-xmb/folder-pixmap" 
+			key="SHAZZAN" 
+			attr="SHAZZAN" 
+			src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/VOD/DESENHOS/SHAZZAN.xml#seg_tv_items"/>
+			<Query 
+			class="type:x-xmb/folder-pixmap" 
+			key="SOUTH_PARK" 
+			attr="SOUTH_PARK" 
+			src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/VOD/DESENHOS/SOUTH_PARK.xml#seg_tv_items"/>
+			<Query 
+			class="type:x-xmb/folder-pixmap" 
+			key="SPACE_GHOST" 
+			attr="SPACE_GHOST" 
+			src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/VOD/DESENHOS/SPACE_GHOST.xml#seg_tv_items"/>
+			<Query 
+			class="type:x-xmb/folder-pixmap" 
+			key="SPEED_RACER" 
+			attr="SPEED_RACER" 
+			src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/VOD/DESENHOS/SPEED_RACER.xml#seg_tv_items"/>
+			<Query 
+			class="type:x-xmb/folder-pixmap" 
+			key="SUPER_AMIGOS_EP_PERDIDOS" 
+			attr="SUPER_AMIGOS_EP_PERDIDOS" 
+			src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/VOD/DESENHOS/SUPER_AMIGOS_EP_PERDIDOS.xml#seg_tv_items"/>
+			<Query 
+			class="type:x-xmb/folder-pixmap" 
+			key="SUPERMAN_SERIE_ANIMADA" 
+			attr="SUPERMAN_SERIE_ANIMADA" 
+			src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/VOD/DESENHOS/SUPERMAN_SERIE_ANIMADA.xml#seg_tv_items"/>
+			<Query 
+			class="type:x-xmb/folder-pixmap" 
+			key="TARTARUGA_TOUCHE" 
+			attr="TARTARUGA_TOUCHE" 
+			src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/VOD/DESENHOS/TARTARUGA_TOUCHE.xml#seg_tv_items"/>
+			<Query 
+			class="type:x-xmb/folder-pixmap" 
+			key="YU_GI_OH_ARC_V" 
+			attr="YU_GI_OH_ARC_V" 
+			src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/VOD/DESENHOS/YU_GI_OH_ARC_V.xml#seg_tv_items"/>
+			
+			
+		</Items>
+    </View>
+</XMBML>

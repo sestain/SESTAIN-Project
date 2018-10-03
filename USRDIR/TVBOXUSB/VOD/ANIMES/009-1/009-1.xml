@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<XMBML version="1.0">
+	
+	<!-- Main  > zeTVmod > Submenu -->
+	<View id="seg_tv_items">
+		<Attributes>
+<Table key="009-1 1x1DUB "><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/VOD/ANIMES/009-1/009-1.jpg</String></Pair><Pair key="title"><String>009-1 1x1DUB </String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=81e30a4f1cda5a7a</String></Pair></Table>
+<Table key="009-1 1x2DUB"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/VOD/ANIMES/009-1/009-1.jpg</String></Pair><Pair key="title"><String>009-1 1x2DUB</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=36af94296dddf63f</String></Pair></Table>
+<Table key="009-1 1x3DUB"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/VOD/ANIMES/009-1/009-1.jpg</String></Pair><Pair key="title"><String>009-1 1x3DUB</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=aa69fb07fb2d9bdf</String></Pair></Table>
+<Table key="009-1 1x4DUB"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/VOD/ANIMES/009-1/009-1.jpg</String></Pair><Pair key="title"><String>009-1 1x4DUB</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=46c568b342829210</String></Pair></Table>
+<Table key="009-1 1x5DUB"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/VOD/ANIMES/009-1/009-1.jpg</String></Pair><Pair key="title"><String>009-1 1x5DUB</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=b416e0b394d1fe67</String></Pair></Table>
+<Table key="009-1 1x6DUB"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/VOD/ANIMES/009-1/009-1.jpg</String></Pair><Pair key="title"><String>009-1 1x6DUB</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=6d2ab2c8aca1aee8</String></Pair></Table>
+<Table key="009-1 1x7DUB"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/VOD/ANIMES/009-1/009-1.jpg</String></Pair><Pair key="title"><String>009-1 1x7DUB</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=977f0a48a699535c</String></Pair></Table>
+<Table key="009-1 1x8DUB"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/VOD/ANIMES/009-1/009-1.jpg</String></Pair><Pair key="title"><String>009-1 1x8DUB</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=11f6298b3a288fa6</String></Pair></Table>
+<Table key="009-1 1x9DUB"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/VOD/ANIMES/009-1/009-1.jpg</String></Pair><Pair key="title"><String>009-1 1x9DUB</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=a10904aa035bc1ef</String></Pair></Table>
+<Table key="009-1 1x10DUB"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/VOD/ANIMES/009-1/009-1.jpg</String></Pair><Pair key="title"><String>009-1 1x10DUB</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=86f9947d982055eb</String></Pair></Table>
+<Table key="009-1 1x11DUB"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/VOD/ANIMES/009-1/009-1.jpg</String></Pair><Pair key="title"><String>009-1 1x11DUB</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=36faeb408851e06f</String></Pair></Table>
+<Table key="009-1 1x12DUB"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/VOD/ANIMES/009-1/009-1.jpg</String></Pair><Pair key="title"><String>009-1 1x12DUB</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=ce5147a531483c91</String></Pair></Table>
+<Table key="009-1 1x13DUB"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/VOD/ANIMES/009-1/009-1.jpg</String></Pair><Pair key="title"><String>009-1 1x13DUB</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=17b447a8be0df9c8</String></Pair></Table>
+</Attributes>
+		<Items>
+<Item class="type:x-xmb/module-action" key="009-1 1x1DUB " attr="009-1 1x1DUB "/>
+<Item class="type:x-xmb/module-action" key="009-1 1x2DUB" attr="009-1 1x2DUB"/>
+<Item class="type:x-xmb/module-action" key="009-1 1x3DUB" attr="009-1 1x3DUB"/>
+<Item class="type:x-xmb/module-action" key="009-1 1x4DUB" attr="009-1 1x4DUB"/>
+<Item class="type:x-xmb/module-action" key="009-1 1x5DUB" attr="009-1 1x5DUB"/>
+<Item class="type:x-xmb/module-action" key="009-1 1x6DUB" attr="009-1 1x6DUB"/>
+<Item class="type:x-xmb/module-action" key="009-1 1x7DUB" attr="009-1 1x7DUB"/>
+<Item class="type:x-xmb/module-action" key="009-1 1x8DUB" attr="009-1 1x8DUB"/>
+<Item class="type:x-xmb/module-action" key="009-1 1x9DUB" attr="009-1 1x9DUB"/>
+<Item class="type:x-xmb/module-action" key="009-1 1x10DUB" attr="009-1 1x10DUB"/>
+<Item class="type:x-xmb/module-action" key="009-1 1x11DUB" attr="009-1 1x11DUB"/>
+<Item class="type:x-xmb/module-action" key="009-1 1x12DUB" attr="009-1 1x12DUB"/>
+<Item class="type:x-xmb/module-action" key="009-1 1x13DUB" attr="009-1 1x13DUB"/>
+</Items>
+	</View>
+
+</XMBML>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<XMBML version="1.0">
+	
+	<!-- Main  > zeTVmod > Submenu -->
+	<View id="seg_tv_items">
+		<Attributes>
+<Table key=" T1 T1|EP01 (DUB)"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/LA_CASA_DE_PAPEL.jpg</String></Pair><Pair key="title"><String> T1 T1|EP01 (DUB)</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>https://www.blogger.com/video-play.mp4?contentId=493119be16ec0c3</String></Pair></Table>
+<Table key="  T1|EP02 (DUB)"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/LA_CASA_DE_PAPEL.jpg</String></Pair><Pair key="title"><String>  T1|EP02 (DUB)</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>https://www.blogger.com/video-play.mp4?contentId=af637567073d026f</String></Pair></Table>
+<Table key=" T1|EP03 (DUB)"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/LA_CASA_DE_PAPEL.jpg</String></Pair><Pair key="title"><String> T1|EP03 (DUB)</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>https://www.blogger.com/video-play.mp4?contentId=db60e824145b73ba</String></Pair></Table>
+<Table key=" T1|EP04 (DUB)"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/LA_CASA_DE_PAPEL.jpg</String></Pair><Pair key="title"><String> T1|EP04 (DUB)</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>https://www.blogger.com/video-play.mp4?contentId=91bb3402a67a3527</String></Pair></Table>
+<Table key=" T1|EP05 (DUB)"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/LA_CASA_DE_PAPEL.jpg</String></Pair><Pair key="title"><String> T1|EP05 (DUB)</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>https://www.blogger.com/video-play.mp4?contentId=62f71f3b893a865b</String></Pair></Table>
+<Table key=" T1|EP06 (DUB)"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/LA_CASA_DE_PAPEL.jpg</String></Pair><Pair key="title"><String> T1|EP06 (DUB)</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>https://www.blogger.com/video-play.mp4?contentId=a42fe33476d90969</String></Pair></Table>
+<Table key=" T1|EP07 (DUB)"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/LA_CASA_DE_PAPEL.jpg</String></Pair><Pair key="title"><String> T1|EP07 (DUB)</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>https://www.blogger.com/video-play.mp4?contentId=e217d5ac1d337bac</String></Pair></Table>
+<Table key=" T1|EP08 (DUB)"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/LA_CASA_DE_PAPEL.jpg</String></Pair><Pair key="title"><String> T1|EP08 (DUB)</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>https://www.blogger.com/video-play.mp4?contentId=410dd9c548901fc2</String></Pair></Table>
+<Table key=" T1|EP09 (DUB)"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/LA_CASA_DE_PAPEL.jpg</String></Pair><Pair key="title"><String> T1|EP09 (DUB)</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>https://www.blogger.com/video-play.mp4?contentId=2af103b0f5e2e9b4</String></Pair></Table>
+<Table key=" T1|EP10 (DUB)"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/LA_CASA_DE_PAPEL.jpg</String></Pair><Pair key="title"><String> T1|EP10 (DUB)</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>https://www.blogger.com/video-play.mp4?contentId=1f98cbac839c523e</String></Pair></Table>
+<Table key=" T1|EP11 (DUB)"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/LA_CASA_DE_PAPEL.jpg</String></Pair><Pair key="title"><String> T1|EP11 (DUB)</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>https://www.blogger.com/video-play.mp4?contentId=268b4ed568d799a2</String></Pair></Table>
+<Table key=" T1|EP12 (DUB)"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/LA_CASA_DE_PAPEL.jpg</String></Pair><Pair key="title"><String> T1|EP12 (DUB)</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>https://www.blogger.com/video-play.mp4?contentId=e0293667701129f1</String></Pair></Table>
+<Table key=" T1|EP13 (DUB)"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/LA_CASA_DE_PAPEL.jpg</String></Pair><Pair key="title"><String> T1|EP13 (DUB)</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>https://www.blogger.com/video-play.mp4?contentId=a1963c2a4f60812b</String></Pair></Table>
+<Table key=" T2|EP01 (DUB)"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/LA_CASA_DE_PAPEL.jpg</String></Pair><Pair key="title"><String> T2|EP01 (DUB)</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=01e618776ce02dd9</String></Pair></Table>
+<Table key=" T2|EP02 (DUB)"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/LA_CASA_DE_PAPEL.jpg</String></Pair><Pair key="title"><String> T2|EP02 (DUB)</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=07fe6e6be15f8f69</String></Pair></Table>
+<Table key=" T2|EP03 (DUB)"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/LA_CASA_DE_PAPEL.jpg</String></Pair><Pair key="title"><String> T2|EP03 (DUB)</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=ac3dd7747a997a4f</String></Pair></Table>
+<Table key=" T2|EP04 (DUB)"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/LA_CASA_DE_PAPEL.jpg</String></Pair><Pair key="title"><String> T2|EP04 (DUB)</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=2e95b9ab4034703a</String></Pair></Table>
+<Table key=" T2|EP05 (DUB)"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/LA_CASA_DE_PAPEL.jpg</String></Pair><Pair key="title"><String> T2|EP05 (DUB)</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=910ff69288bc1afc</String></Pair></Table>
+<Table key=" T2|EP06 (DUB)"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/LA_CASA_DE_PAPEL.jpg</String></Pair><Pair key="title"><String> T2|EP06 (DUB)</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=d25726d7177fe0ed</String></Pair></Table>
+<Table key=" T2|EP07 (DUB)"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/LA_CASA_DE_PAPEL.jpg</String></Pair><Pair key="title"><String> T2|EP07 (DUB)</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=380023162c00c514</String></Pair></Table>
+<Table key=" T2|EP08 (DUB)"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/LA_CASA_DE_PAPEL.jpg</String></Pair><Pair key="title"><String> T2|EP08 (DUB)</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=bc2b1efd33e580a5</String></Pair></Table>
+<Table key=" T2|EP09 - FINAL (DUB)"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/LA_CASA_DE_PAPEL.jpg</String></Pair><Pair key="title"><String> T2|EP09 - FINAL (DUB)</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=d253bfd2f23d6cd5</String></Pair></Table>
+</Attributes>
+		<Items>
+<Item class="type:x-xmb/module-action" key=" T1 T1|EP01 (DUB)" attr=" T1 T1|EP01 (DUB)"/>
+<Item class="type:x-xmb/module-action" key="  T1|EP02 (DUB)" attr="  T1|EP02 (DUB)"/>
+<Item class="type:x-xmb/module-action" key=" T1|EP03 (DUB)" attr=" T1|EP03 (DUB)"/>
+<Item class="type:x-xmb/module-action" key=" T1|EP04 (DUB)" attr=" T1|EP04 (DUB)"/>
+<Item class="type:x-xmb/module-action" key=" T1|EP05 (DUB)" attr=" T1|EP05 (DUB)"/>
+<Item class="type:x-xmb/module-action" key=" T1|EP06 (DUB)" attr=" T1|EP06 (DUB)"/>
+<Item class="type:x-xmb/module-action" key=" T1|EP07 (DUB)" attr=" T1|EP07 (DUB)"/>
+<Item class="type:x-xmb/module-action" key=" T1|EP08 (DUB)" attr=" T1|EP08 (DUB)"/>
+<Item class="type:x-xmb/module-action" key=" T1|EP09 (DUB)" attr=" T1|EP09 (DUB)"/>
+<Item class="type:x-xmb/module-action" key=" T1|EP10 (DUB)" attr=" T1|EP10 (DUB)"/>
+<Item class="type:x-xmb/module-action" key=" T1|EP11 (DUB)" attr=" T1|EP11 (DUB)"/>
+<Item class="type:x-xmb/module-action" key=" T1|EP12 (DUB)" attr=" T1|EP12 (DUB)"/>
+<Item class="type:x-xmb/module-action" key=" T1|EP13 (DUB)" attr=" T1|EP13 (DUB)"/>
+<Item class="type:x-xmb/module-action" key=" T2|EP01 (DUB)" attr=" T2|EP01 (DUB)"/>
+<Item class="type:x-xmb/module-action" key=" T2|EP02 (DUB)" attr=" T2|EP02 (DUB)"/>
+<Item class="type:x-xmb/module-action" key=" T2|EP03 (DUB)" attr=" T2|EP03 (DUB)"/>
+<Item class="type:x-xmb/module-action" key=" T2|EP04 (DUB)" attr=" T2|EP04 (DUB)"/>
+<Item class="type:x-xmb/module-action" key=" T2|EP05 (DUB)" attr=" T2|EP05 (DUB)"/>
+<Item class="type:x-xmb/module-action" key=" T2|EP06 (DUB)" attr=" T2|EP06 (DUB)"/>
+<Item class="type:x-xmb/module-action" key=" T2|EP07 (DUB)" attr=" T2|EP07 (DUB)"/>
+<Item class="type:x-xmb/module-action" key=" T2|EP08 (DUB)" attr=" T2|EP08 (DUB)"/>
+<Item class="type:x-xmb/module-action" key=" T2|EP09 - FINAL (DUB)" attr=" T2|EP09 - FINAL (DUB)"/>
+</Items>
+	</View>
+
+</XMBML>

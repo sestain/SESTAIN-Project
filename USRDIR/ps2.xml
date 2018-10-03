@@ -1,0 +1,994 @@
+﻿<XMBML version="1.0">
+    <View id="ps2_items">
+        <Attributes>
+
+
+
+
+
+            <Table key="ps2_1">
+                <Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/PS2/kingdown.jpg</String></Pair>
+                <Pair key="title"><String>Kingdom Hearts: Final Mix</String></Pair>
+                <Pair key="info"><String>Jogos de PS2</String></Pair>
+            </Table>
+			
+			
+			
+			<Table key="ps2_2">
+                <Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/PS2/black.jpg</String></Pair>
+                <Pair key="title"><String>Black (PAL)</String></Pair>
+                <Pair key="info"><String>Jogos de PS2</String></Pair>
+            </Table>
+			
+			
+			
+			<Table key="ps2_3">
+                <Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/PS2/bully.jpg</String></Pair>
+                <Pair key="title"><String>Bully</String></Pair>
+                <Pair key="info"><String>Jogos de PS2</String></Pair>
+            </Table>
+			
+			
+			
+			<Table key="ps2_4">
+                <Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/PS2/burnout3.jpg</String></Pair>
+                <Pair key="title"><String>Burnout: Takedown</String></Pair>
+                <Pair key="info"><String>Jogos de PS2</String></Pair>
+            </Table>
+			
+			
+			
+			<Table key="ps2_5">
+                <Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/PS2/gow1.jpg</String></Pair>
+                <Pair key="title"><String>God of War 1 (PAL)</String></Pair>
+                <Pair key="info"><String>Jogos de PS2</String></Pair>
+            </Table>
+			
+			
+			
+			<Table key="ps2_6">
+                <Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/PS2/ffxii.jpg</String></Pair>
+                <Pair key="title"><String>Final Fantasy XII </String></Pair>
+                <Pair key="info"><String>Jogos de PS2</String></Pair>
+            </Table>
+			
+			
+			
+			<Table key="ps2_7">
+                <Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/PS2/metalslugcomplete.jpg</String></Pair>
+                <Pair key="title"><String>Metal Slug Complete</String></Pair>
+                <Pair key="info"><String>Jogos de PS2</String></Pair>
+            </Table>
+			
+			
+			
+			<Table key="ps2_8">
+                <Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/PS2/nfsunderground.jpg</String></Pair>
+                <Pair key="title"><String>Need for Speed: Underground 1</String></Pair>
+                <Pair key="info"><String>Jogos de PS2</String></Pair>
+            </Table>
+			
+			
+			
+			<Table key="ps2_9">
+                <Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/PS2/resident4.jpg</String></Pair>
+                <Pair key="title"><String>Resident Evil 4 (PAL)</String></Pair>
+                <Pair key="info"><String>Jogos de PS2</String></Pair>
+            </Table>
+			
+			
+			
+			<Table key="ps2_10">
+                <Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/PS2/residentdeadaim.jpg</String></Pair>
+                <Pair key="title"><String>Resident Evil: Dead Aim</String></Pair>
+                <Pair key="info"><String>Jogos de PS2</String></Pair>
+            </Table>
+			
+			
+			
+			<Table key="ps2_11">
+                <Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/PS2/silenthill2.jpg</String></Pair>
+                <Pair key="title"><String>Silent Hill 2 (PAL)</String></Pair>
+                <Pair key="info"><String>Jogos de PS2</String></Pair>
+            </Table>
+
+
+			
+			<Table key="ps2_12">
+                <Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/PS2/gtasonic.jpg</String></Pair>
+                <Pair key="title"><String>GTA San Andreas MOD: Sonic Rings (PAL)</String></Pair>
+                <Pair key="info"><String>Jogos de PS2</String></Pair>
+            </Table>
+
+
+
+            <Table key="ps2_13">
+                <Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/PS2/onimusha2.jpg</String></Pair>
+                <Pair key="title"><String>Onimusha 2: Samurai's Destiny</String></Pair>
+                <Pair key="info"><String>Jogos de PS2</String></Pair>
+            </Table>
+            
+            
+            
+            <Table key="ps2_14">
+                <Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/PS2/cvss2jpg.jpg</String></Pair>
+                <Pair key="title"><String>Capcom Vs. SNK 2: Mark of the Millennium</String></Pair>
+                <Pair key="info"><String>Jogos de PS2</String></Pair>
+            </Table>
+            
+            
+            
+            <Table key="ps2_15">
+                <Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/PS2/nfsmostwanted.jpg</String></Pair>
+                <Pair key="title"><String>Need for Speed: Mostwanted Black Edition (PAL)</String></Pair>
+                <Pair key="info"><String>Jogos de PS2</String></Pair>
+            </Table>
+
+
+            
+            <Table key="ps2_16">
+                <Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/PS2/tkof94.jpg</String></Pair>
+                <Pair key="title"><String>The King of Fighters 94: Re-Bout</String></Pair>
+                <Pair key="info"><String>Jogos de PS2</String></Pair>
+            </Table>
+
+
+
+            <Table key="ps2_17">
+                <Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/PS2/yugiohmonster.jpg</String></Pair>
+                <Pair key="title"><String>Yu-Gi-Oh!: Capsule Monster Coliseum</String></Pair>
+                <Pair key="info"><String>Jogos de PS2</String></Pair>
+            </Table>
+            
+            
+            
+            <Table key="ps2_18">
+                <Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/PS2/pgen.jpg</String></Pair>
+                <Pair key="title"><String>Emulador de Sega Genesis Mega Drive: PGEN (PAL)</String></Pair>
+                <Pair key="info"><String>Jogos de PS2</String></Pair>
+            </Table>
+
+            
+            
+            <Table key="ps2_19">
+                <Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/PS2/snes.jpg</String></Pair>
+                <Pair key="title"><String>Emulador de Super Nintendo Entertainment System: SNES STATION (PAL)</String></Pair>
+                <Pair key="info"><String>Jogos de PS2</String></Pair>
+            </Table>
+
+
+
+            <Table key="ps2_20">
+                <Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/PS2/castlevaniacurse.jpg</String></Pair>
+                <Pair key="title"><String>Castlevania: Curse of Darkness (PAL)</String></Pair>
+                <Pair key="info"><String>Jogos de PS2</String></Pair>
+            </Table>
+
+
+            
+            <Table key="ps2_21">
+                <Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/PS2/dbzbt3.jpg</String></Pair>
+                <Pair key="title"><String>Dragon Ball Z: Budokai Tenkaichi 3</String></Pair>
+                <Pair key="info"><String>Jogos de PS2</String></Pair>
+            </Table>
+
+
+
+            <Table key="ps2_22">
+                <Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/PS2/godhand.jpg</String></Pair>
+                <Pair key="title"><String>God Hand</String></Pair>
+                <Pair key="info"><String>Jogos de PS2</String></Pair>
+            </Table>
+            
+            
+            
+            <Table key="ps2_23">
+                <Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/PS2/mkshaolin.jpg</String></Pair>
+                <Pair key="title"><String>Mortal Kombat: Shaolin Monks</String></Pair>
+                <Pair key="info"><String>Jogos de PS2</String></Pair>
+            </Table>
+
+            
+            
+            <Table key="ps2_24">
+                <Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/PS2/onimusha1.jpg</String></Pair>
+                <Pair key="title"><String>Onimusha 1: Warlords</String></Pair>
+                <Pair key="info"><String>Jogos de PS2</String></Pair>
+            </Table>
+
+
+
+            <Table key="ps2_25">
+                <Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/PS2/onimusha3.jpg</String></Pair>
+                <Pair key="title"><String>Onimusha 3: Demon Siege</String></Pair>
+                <Pair key="info"><String>Jogos de PS2</String></Pair>
+            </Table>
+
+            
+            
+            <Table key="ps2_26">
+                <Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/PS2/sotc.jpg</String></Pair>
+                <Pair key="title"><String>Shadow of the Colossus (Dublado PT-BR)</String></Pair>
+                <Pair key="info"><String>Jogos de PS2</String></Pair>
+            </Table>
+
+
+
+            <Table key="ps2_27">
+                <Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/PS2/alteredbeast.jpg</String></Pair>
+                <Pair key="title"><String>Altered Beast</String></Pair>
+                <Pair key="info"><String>Jogos de PS2</String></Pair>
+            </Table>
+            
+            
+            
+            <Table key="ps2_28">
+                <Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/PS2/bikermice.jpg</String></Pair>
+                <Pair key="title"><String>Biker Mice From Mars</String></Pair>
+                <Pair key="info"><String>Jogos de PS2</String></Pair>
+            </Table>
+
+            
+            
+            <Table key="ps2_29">
+                <Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/PS2/ffviidirge.jpg</String></Pair>
+                <Pair key="title"><String>Final Fantasy VII: Dirge of Cerberus</String></Pair>
+                <Pair key="info"><String>Jogos de PS2</String></Pair>
+            </Table>
+
+
+
+            <Table key="ps2_30">
+                <Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/PS2/magnacarta.jpg</String></Pair>
+                <Pair key="title"><String>Magna Carta</String></Pair>
+                <Pair key="info"><String>Jogos de PS2</String></Pair>
+            </Table>
+
+            
+            
+            <Table key="ps2_31">
+                <Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/PS2/namcoxcapcom.jpg</String></Pair>
+                <Pair key="title"><String>Namco Vs. Capcom</String></Pair>
+                <Pair key="info"><String>Jogos de PS2</String></Pair>
+            </Table>
+
+
+
+            <Table key="ps2_32">
+                <Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/PS2/roguegalaxy.jpg</String></Pair>
+                <Pair key="title"><String>Rogue Galaxy</String></Pair>
+                <Pair key="info"><String>Jogos de PS2</String></Pair>
+            </Table>
+			
+			
+			
+			<Table key="ps2_33">
+                <Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/PS2/spiderman2.jpg</String></Pair>
+                <Pair key="title"><String>Spider Man 2</String></Pair>
+                <Pair key="info"><String>Jogos de PS2</String></Pair>
+            </Table>
+			
+			
+			
+			<Table key="ps2_34">
+                <Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/PS2/tkof98.jpg</String></Pair>
+                <Pair key="title"><String>The King of Figthers 98: Ultimate Match</String></Pair>
+                <Pair key="info"><String>Jogos de PS2</String></Pair>
+            </Table>
+			
+			
+			
+			<Table key="ps2_35">
+                <Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/PS2/tkof2002.jpg</String></Pair>
+                <Pair key="title"><String>The King of Figthers 2002: Unlimited Match</String></Pair>
+                <Pair key="info"><String>Jogos de PS2</String></Pair>
+            </Table>
+
+
+
+            <Table key="ps2_36">
+                <Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/PS2/animefighters.jpg</String></Pair>
+                <Pair key="title"><String>Anime Fighters Vol. 2</String></Pair>
+                <Pair key="info"><String>Jogos de PS2</String></Pair>
+            </Table>
+            
+            
+            
+            <Table key="ps2_37">
+                <Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/PS2/tkofnests.jpg</String></Pair>
+                <Pair key="title"><String>The King of Figthers: NESTS</String></Pair>
+                <Pair key="info"><String>Jogos de PS2</String></Pair>
+            </Table>
+
+
+			
+
+
+        </Attributes>
+        <Items>
+
+        	<Query class="type:x-xmb/folder-pixmap" key="ps2_18" attr="ps2_18" src="#ps2_18_link" />
+
+        	<Query class="type:x-xmb/folder-pixmap" key="ps2_19" attr="ps2_19" src="#ps2_19_link" />
+
+            <Query class="type:x-xmb/folder-pixmap" key="ps2_27" attr="ps2_27" src="#ps2_27_link" />
+
+            <Query class="type:x-xmb/folder-pixmap" key="ps2_36" attr="ps2_36" src="#ps2_36_link" />
+
+            <Query class="type:x-xmb/folder-pixmap" key="ps2_28" attr="ps2_28" src="#ps2_28_link" />
+
+            <Query class="type:x-xmb/folder-pixmap" key="ps2_2" attr="ps2_2" src="#ps2_2_link" />
+			
+			<Query class="type:x-xmb/folder-pixmap" key="ps2_3" attr="ps2_3" src="#ps2_3_link" />
+			
+			<Query class="type:x-xmb/folder-pixmap" key="ps2_4" attr="ps2_4" src="#ps2_4_link" />
+
+			<Query class="type:x-xmb/folder-pixmap" key="ps2_20" attr="ps2_20" src="#ps2_20_link" />
+
+            <Query class="type:x-xmb/folder-pixmap" key="ps2_14" attr="ps2_14" src="#ps2_14_link" />
+
+            <Query class="type:x-xmb/folder-pixmap" key="ps2_21" attr="ps2_21" src="#ps2_21_link" />
+
+            <Query class="type:x-xmb/folder-pixmap" key="ps2_29" attr="ps2_29" src="#ps2_29_link" />
+			
+			<Query class="type:x-xmb/folder-pixmap" key="ps2_6" attr="ps2_6" src="#ps2_6_link" />
+
+			<Query class="type:x-xmb/folder-pixmap" key="ps2_22" attr="ps2_22" src="#ps2_22_link" />
+			
+			<Query class="type:x-xmb/folder-pixmap" key="ps2_5" attr="ps2_5" src="#ps2_5_link" />
+			
+			<Query class="type:x-xmb/folder-pixmap" key="ps2_12" attr="ps2_12" src="#ps2_12_link" />
+			
+			<Query class="type:x-xmb/folder-pixmap" key="ps2_1" attr="ps2_1" src="#ps2_1_link" />
+
+			<Query class="type:x-xmb/folder-pixmap" key="ps2_30" attr="ps2_30" src="#ps2_30_link" />
+			
+			<Query class="type:x-xmb/folder-pixmap" key="ps2_7" attr="ps2_7" src="#ps2_7_link" />
+
+			<Query class="type:x-xmb/folder-pixmap" key="ps2_23" attr="ps2_23" src="#ps2_23_link" />
+
+			<Query class="type:x-xmb/folder-pixmap" key="ps2_31" attr="ps2_31" src="#ps2_31_link" />
+
+            <Query class="type:x-xmb/folder-pixmap" key="ps2_15" attr="ps2_15" src="#ps2_15_link" />
+			
+			<Query class="type:x-xmb/folder-pixmap" key="ps2_8" attr="ps2_8" src="#ps2_8_link" />
+
+			<Query class="type:x-xmb/folder-pixmap" key="ps2_24" attr="ps2_24" src="#ps2_24_link" />
+
+            <Query class="type:x-xmb/folder-pixmap" key="ps2_13" attr="ps2_13" src="#ps2_13_link" />
+
+            <Query class="type:x-xmb/folder-pixmap" key="ps2_25" attr="ps2_25" src="#ps2_25_link" />
+			
+			<Query class="type:x-xmb/folder-pixmap" key="ps2_9" attr="ps2_9" src="#ps2_9_link" />
+			
+			<Query class="type:x-xmb/folder-pixmap" key="ps2_10" attr="ps2_10" src="#ps2_10_link" />
+
+			<Query class="type:x-xmb/folder-pixmap" key="ps2_32" attr="ps2_32" src="#ps2_32_link" />
+
+            <Query class="type:x-xmb/folder-pixmap" key="ps2_26" attr="ps2_26" src="#ps2_26_link" />
+
+            <Query class="type:x-xmb/folder-pixmap" key="ps2_33" attr="ps2_33" src="#ps2_33_link" />
+			
+			<Query class="type:x-xmb/folder-pixmap" key="ps2_11" attr="ps2_11" src="#ps2_11_link" />
+
+            <Query class="type:x-xmb/folder-pixmap" key="ps2_16" attr="ps2_16" src="#ps2_16_link" />
+
+            <Query class="type:x-xmb/folder-pixmap" key="ps2_34" attr="ps2_34" src="#ps2_34_link" />
+
+            <Query class="type:x-xmb/folder-pixmap" key="ps2_35" attr="ps2_35" src="#ps2_35_link" />
+
+            <Query class="type:x-xmb/folder-pixmap" key="ps2_37" attr="ps2_37" src="#ps2_37_link" />
+
+            <Query class="type:x-xmb/folder-pixmap" key="ps2_17" attr="ps2_17" src="#ps2_17_link" />
+
+
+
+        </Items>
+    </View>
+
+
+    
+
+
+    <View id="ps2_1_link">
+        <Attributes>
+            <Table key="ps2_1_link">
+                <Pair key="info"><String>net_package_install</String></Pair>
+                <Pair key="pkg_src"><String>http://dl.dropboxusercontent.com/s/r1qllf9n7y82iln/JP0000-SLPS25198_00-PS2CLASSICS00000.pkg?dl=0</String></Pair>
+                <Pair key="pkg_src_qa"><String>http://dl.dropboxusercontent.com/s/r1qllf9n7y82iln/JP0000-SLPS25198_00-PS2CLASSICS00000.pkg?dl=0</String></Pair>
+                <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                <Pair key="content_id"><String>JP0000-SLPS25198_00-PS2CLASSICS00000</String></Pair>
+                <Pair key="prod_pict_path"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/PS2/kingdown.jpg</String></Pair>
+            </Table>
+        </Attributes>
+        <Items><Item class="type:x-xmb/xmlnpsignup" key="ps2_1_link" attr="ps2_1_link" /></Items>
+    </View>
+	
+	
+	
+	<View id="ps2_2_link">
+        <Attributes>
+            <Table key="ps2_2_link">
+                <Pair key="info"><String>net_package_install</String></Pair>
+                <Pair key="pkg_src"><String>http://dl.dropboxusercontent.com/s/q1z0tgano5b5nb6/UP0000-SLUS21376_00-PS2CLASSICS00000.pkg?dl=0</String></Pair>
+                <Pair key="pkg_src_qa"><String>http://dl.dropboxusercontent.com/s/q1z0tgano5b5nb6/UP0000-SLUS21376_00-PS2CLASSICS00000.pkg?dl=0</String></Pair>
+                <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                <Pair key="content_id"><String>UP0000-SLUS21376_00-PS2CLASSICS00000</String></Pair>
+                <Pair key="prod_pict_path"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/PS2/black.jpg</String></Pair>
+            </Table>
+        </Attributes>
+        <Items><Item class="type:x-xmb/xmlnpsignup" key="ps2_2_link" attr="ps2_2_link" /></Items>
+    </View>
+	
+	
+	
+	<View id="ps2_3_link">
+        <Attributes>
+            <Table key="ps2_3_link">
+                <Pair key="info"><String>net_package_install</String></Pair>
+                <Pair key="pkg_src"><String>http://dl.dropboxusercontent.com/s/3re0oe1aiov6ta0/UP0000-SLUS21269_00-PS2CLASSICS00000.pkg?dl=0</String></Pair>
+                <Pair key="pkg_src_qa"><String>http://dl.dropboxusercontent.com/s/3re0oe1aiov6ta0/UP0000-SLUS21269_00-PS2CLASSICS00000.pkg?dl=0</String></Pair>
+                <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                <Pair key="content_id"><String>UP0000-SLUS21269_00-PS2CLASSICS00000</String></Pair>
+                <Pair key="prod_pict_path"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/PS2/bully.jpg</String></Pair>
+            </Table>
+        </Attributes>
+        <Items><Item class="type:x-xmb/xmlnpsignup" key="ps2_3_link" attr="ps2_3_link" /></Items>
+    </View>
+	
+	
+	
+	<View id="ps2_4_link">
+        <Attributes>
+            <Table key="ps2_4_link">
+                <Pair key="info"><String>net_package_install</String></Pair>
+                <Pair key="pkg_src"><String>http://dl.dropboxusercontent.com/s/x3grmrq6kp7smz8/UP0000-SLUS21050_00-PS2CLASSICS00000.pkg_signed.pkg?dl=0</String></Pair>
+                <Pair key="pkg_src_qa"><String>http://dl.dropboxusercontent.com/s/x3grmrq6kp7smz8/UP0000-SLUS21050_00-PS2CLASSICS00000.pkg_signed.pkg?dl=0</String></Pair>
+                <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                <Pair key="content_id"><String>UP0000-SLUS21050_00-PS2CLASSICS00000.pkg_signed</String></Pair>
+                <Pair key="prod_pict_path"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/PS2/burnout3.jpg</String></Pair>
+            </Table>
+        </Attributes>
+        <Items><Item class="type:x-xmb/xmlnpsignup" key="ps2_4_link" attr="ps2_4_link" /></Items>
+    </View>
+	
+	
+	
+	<View id="ps2_5_link">
+        <Attributes>
+            <Table key="ps2_5_link">
+                <Pair key="info"><String>net_package_install</String></Pair>
+                <Pair key="pkg_src"><String>http://dl.dropboxusercontent.com/s/ai6ckairsm1zo29/UP0000-SCUS97399_00-PS2CLASSICS00000.pkg?dl=0</String></Pair>
+                <Pair key="pkg_src_qa"><String>http://dl.dropboxusercontent.com/s/ai6ckairsm1zo29/UP0000-SCUS97399_00-PS2CLASSICS00000.pkg?dl=0</String></Pair>
+                <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                <Pair key="content_id"><String>UP0000-SCUS97399_00-PS2CLASSICS00000</String></Pair>
+                <Pair key="prod_pict_path"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/PS2/gow1.jpg</String></Pair>
+            </Table>
+        </Attributes>
+        <Items><Item class="type:x-xmb/xmlnpsignup" key="ps2_5_link" attr="ps2_5_link" /></Items>
+    </View>
+	
+	
+	
+	<View id="ps2_6_link">
+        <Attributes>
+            <Table key="ps2_6_link">
+                <Pair key="info"><String>net_package_install</String></Pair>
+                <Pair key="pkg_src"><String>http://dl.dropboxusercontent.com/s/cjv4w3rbu55jtt8/UP0000-SLUS20963_00-PS2CLASSICS00000.pkg?dl=0</String></Pair>
+                <Pair key="pkg_src_qa"><String>http://dl.dropboxusercontent.com/s/cjv4w3rbu55jtt8/UP0000-SLUS20963_00-PS2CLASSICS00000.pkg?dl=0</String></Pair>
+                <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                <Pair key="content_id"><String>UP0000-SLUS20963_00-PS2CLASSICS00000</String></Pair>
+                <Pair key="prod_pict_path"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/PS2/ffxii.jpg</String></Pair>
+            </Table>
+        </Attributes>
+        <Items><Item class="type:x-xmb/xmlnpsignup" key="ps2_6_link" attr="ps2_6_link" /></Items>
+    </View>
+	
+	
+	
+	<View id="ps2_7_link">
+        <Attributes>
+            <Table key="ps2_7_link">
+                <Pair key="info"><String>net_package_install</String></Pair>
+                <Pair key="pkg_src"><String>http://dl.dropboxusercontent.com/s/vuxux9nvfe6m2f7/JP0000-SLPS25762_00-PS2CLASSICS00000.pkg?dl=0</String></Pair>
+                <Pair key="pkg_src_qa"><String>http://dl.dropboxusercontent.com/s/vuxux9nvfe6m2f7/JP0000-SLPS25762_00-PS2CLASSICS00000.pkg?dl=0</String></Pair>
+                <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                <Pair key="content_id"><String>JP0000-SLPS25762_00-PS2CLASSICS00000</String></Pair>
+                <Pair key="prod_pict_path"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/PS2/metalslugcomplete.jpg</String></Pair>
+            </Table>
+        </Attributes>
+        <Items><Item class="type:x-xmb/xmlnpsignup" key="ps2_7_link" attr="ps2_7_link" /></Items>
+    </View>
+	
+	
+	
+	<View id="ps2_8_link">
+        <Attributes>
+            <Table key="ps2_8_link">
+                <Pair key="info"><String>net_package_install</String></Pair>
+                <Pair key="pkg_src"><String>http://dl.dropboxusercontent.com/s/lkq6mrfzj59kfy7/UP0000-SLUS20811_00-PS2CLASSICS00000.pkg?dl=0</String></Pair>
+                <Pair key="pkg_src_qa"><String>http://dl.dropboxusercontent.com/s/lkq6mrfzj59kfy7/UP0000-SLUS20811_00-PS2CLASSICS00000.pkg?dl=0</String></Pair>
+                <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                <Pair key="content_id"><String>UP0000-SLUS20811_00-PS2CLASSICS00000</String></Pair>
+                <Pair key="prod_pict_path"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/PS2/nfsunderground.jpg</String></Pair>
+            </Table>
+        </Attributes>
+        <Items><Item class="type:x-xmb/xmlnpsignup" key="ps2_8_link" attr="ps2_8_link" /></Items>
+    </View>
+	
+	
+	
+	<View id="ps2_9_link">
+        <Attributes>
+            <Table key="ps2_9_link">
+                <Pair key="info"><String>net_package_install</String></Pair>
+                <Pair key="pkg_src"><String>http://dl.dropboxusercontent.com/s/zfw4mj1316c2eoo/EP0000-SLES53702_00-PS2CLASSICS00000.pkg?dl=0</String></Pair>
+                <Pair key="pkg_src_qa"><String>http://dl.dropboxusercontent.com/s/zfw4mj1316c2eoo/EP0000-SLES53702_00-PS2CLASSICS00000.pkg?dl=0</String></Pair>
+                <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                <Pair key="content_id"><String>EP0000-SLES53702_00-PS2CLASSICS00000</String></Pair>
+                <Pair key="prod_pict_path"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/PS2/resident4.jpg</String></Pair>
+            </Table>
+        </Attributes>
+        <Items><Item class="type:x-xmb/xmlnpsignup" key="ps2_9_link" attr="ps2_9_link" /></Items>
+    </View>
+	
+	
+	
+	<View id="ps2_10_link">
+        <Attributes>
+            <Table key="ps2_10_link">
+                <Pair key="info"><String>net_package_install</String></Pair>
+                <Pair key="pkg_src"><String>http://dl.dropboxusercontent.com/s/ssrpdgf9n1hvf3p/EP0000-SLES51448_00-PS2CLASSICS00000.pkg?dl=0</String></Pair>
+                <Pair key="pkg_src_qa"><String>http://dl.dropboxusercontent.com/s/ssrpdgf9n1hvf3p/EP0000-SLES51448_00-PS2CLASSICS00000.pkg?dl=0</String></Pair>
+                <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                <Pair key="content_id"><String>EP0000-SLES51448_00-PS2CLASSICS00000</String></Pair>
+                <Pair key="prod_pict_path"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/PS2/residentdeadaim.jpg</String></Pair>
+            </Table>
+        </Attributes>
+        <Items><Item class="type:x-xmb/xmlnpsignup" key="ps2_10_link" attr="ps2_10_link" /></Items>
+    </View>
+	
+	
+	
+	<View id="ps2_11_link">
+        <Attributes>
+            <Table key="ps2_11_link">
+                <Pair key="info"><String>net_package_install</String></Pair>
+                <Pair key="pkg_src"><String>http://dl.dropboxusercontent.com/s/k6ef6gghanewodu/UP0000-SLUS20228_00-PS2CLASSICS00000.pkg?dl=0</String></Pair>
+                <Pair key="pkg_src_qa"><String>http://dl.dropboxusercontent.com/s/k6ef6gghanewodu/UP0000-SLUS20228_00-PS2CLASSICS00000.pkg?dl=0</String></Pair>
+                <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                <Pair key="content_id"><String>UP0000-SLUS20228_00-PS2CLASSICS00000</String></Pair>
+                <Pair key="prod_pict_path"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/PS2/silenthill2.jpg</String></Pair>
+            </Table>
+        </Attributes>
+        <Items><Item class="type:x-xmb/xmlnpsignup" key="ps2_11_link" attr="ps2_11_link" /></Items>
+    </View>
+	
+	
+	
+	<View id="ps2_12_link">
+        <Attributes>
+            <Table key="ps2_12_link">
+                <Pair key="info"><String>net_package_install</String></Pair>
+                <Pair key="pkg_src"><String>http://dl.dropboxusercontent.com/s/nmlex2i2z5ztgsq/UP0000-SLUS20946_00-PS2CLASSICS00000.pkg?dl=0</String></Pair>
+                <Pair key="pkg_src_qa"><String>http://dl.dropboxusercontent.com/s/nmlex2i2z5ztgsq/UP0000-SLUS20946_00-PS2CLASSICS00000.pkg?dl=0</String></Pair>
+                <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                <Pair key="content_id"><String>UP0000-SLUS20946_00-PS2CLASSICS00000</String></Pair>
+                <Pair key="prod_pict_path"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/PS2/gtasonic.jpg</String></Pair>
+            </Table>
+        </Attributes>
+        <Items><Item class="type:x-xmb/xmlnpsignup" key="ps2_12_link" attr="ps2_12_link" /></Items>
+    </View>
+
+
+
+    <View id="ps2_13_link">
+        <Attributes>
+            <Table key="ps2_13_link">
+                <Pair key="info"><String>net_package_install</String></Pair>
+                <Pair key="pkg_src"><String>http://dl.dropboxusercontent.com/s/zdy5lrmwvd0mnx2/Onimusha%202%20-%20Samurai%27s%20Destiny%20%5BPS2%20Classics%5D%20%5BSLUS20393%5D.pkg_signed.pkg?dl=0</String></Pair>
+                <Pair key="pkg_src_qa"><String>http://dl.dropboxusercontent.com/s/zdy5lrmwvd0mnx2/Onimusha%202%20-%20Samurai%27s%20Destiny%20%5BPS2%20Classics%5D%20%5BSLUS20393%5D.pkg_signed.pkg?dl=0</String></Pair>
+                <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                <Pair key="content_id"><String>Onimusha%202%20-%20Samurai%27s%20Destiny%20%5BPS2%20Classics%5D%20%5BSLUS20393%5D.pkg_signed</String></Pair>
+                <Pair key="prod_pict_path"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/PS2/onimusha2.jpg</String></Pair>
+            </Table>
+        </Attributes>
+        <Items><Item class="type:x-xmb/xmlnpsignup" key="ps2_13_link" attr="ps2_13_link" /></Items>
+    </View>
+    
+    
+    
+    <View id="ps2_14_link">
+        <Attributes>
+            <Table key="ps2_14_link">
+                <Pair key="info"><String>net_package_install</String></Pair>
+                <Pair key="pkg_src"><String>http://dl.dropboxusercontent.com/s/qsi44u190vp5obl/UP0000-SLUS20246_00-PS2CLASSICS00000.pkg?dl=0</String></Pair>
+                <Pair key="pkg_src_qa"><String>http://dl.dropboxusercontent.com/s/qsi44u190vp5obl/UP0000-SLUS20246_00-PS2CLASSICS00000.pkg?dl=0</String></Pair>
+                <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                <Pair key="content_id"><String>UP0000-SLUS20246_00-PS2CLASSICS00000</String></Pair>
+                <Pair key="prod_pict_path"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/PS2/cvss2jpg.jpg</String></Pair>
+            </Table>
+        </Attributes>
+        <Items><Item class="type:x-xmb/xmlnpsignup" key="ps2_14_link" attr="ps2_14_link" /></Items>
+    </View>
+    
+    
+    
+    <View id="ps2_15_link">
+        <Attributes>
+            <Table key="ps2_15_link">
+                <Pair key="info"><String>net_package_install</String></Pair>
+                <Pair key="pkg_src"><String>http://dl.dropboxusercontent.com/s/vtnkpbh09qytz9d/UP0000-SLUS21351_00-PS2CLASSICS00000.pkg?dl=0</String></Pair>
+                <Pair key="pkg_src_qa"><String>http://dl.dropboxusercontent.com/s/vtnkpbh09qytz9d/UP0000-SLUS21351_00-PS2CLASSICS00000.pkg?dl=0</String></Pair>
+                <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                <Pair key="content_id"><String>UP0000-SLUS21351_00-PS2CLASSICS00000</String></Pair>
+                <Pair key="prod_pict_path"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/PS2/nfsmostwanted.jpg</String></Pair>
+            </Table>
+        </Attributes>
+        <Items><Item class="type:x-xmb/xmlnpsignup" key="ps2_15_link" attr="ps2_15_link" /></Items>
+    </View>
+    
+    
+    
+    <View id="ps2_16_link">
+        <Attributes>
+            <Table key="ps2_16_link">
+                <Pair key="info"><String>net_package_install</String></Pair>
+                <Pair key="pkg_src"><String>http://dl.dropboxusercontent.com/s/i2ikjp4csi04eeq/JP0000-SLPS25448_00-PS2CLASSICS00000.pkg?dl=0</String></Pair>
+                <Pair key="pkg_src_qa"><String>http://dl.dropboxusercontent.com/s/i2ikjp4csi04eeq/JP0000-SLPS25448_00-PS2CLASSICS00000.pkg?dl=0</String></Pair>
+                <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                <Pair key="content_id"><String>JP0000-SLPS25448_00-PS2CLASSICS00000</String></Pair>
+                <Pair key="prod_pict_path"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/PS2/tkof94.jpg</String></Pair>
+            </Table>
+        </Attributes>
+        <Items><Item class="type:x-xmb/xmlnpsignup" key="ps2_16_link" attr="ps2_16_link" /></Items>
+    </View>
+
+
+
+    <View id="ps2_17_link">
+        <Attributes>
+            <Table key="ps2_17_link">
+                <Pair key="info"><String>net_package_install</String></Pair>
+                <Pair key="pkg_src"><String>http://dl.dropboxusercontent.com/s/opgb0g0574a34wm/UP0000-SLUS20940_00-PS2CLASSICS00000.pkg?dl=0</String></Pair>
+                <Pair key="pkg_src_qa"><String>http://dl.dropboxusercontent.com/s/opgb0g0574a34wm/UP0000-SLUS20940_00-PS2CLASSICS00000.pkg?dl=0</String></Pair>
+                <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                <Pair key="content_id"><String>UP0000-SLUS20940_00-PS2CLASSICS00000</String></Pair>
+                <Pair key="prod_pict_path"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/PS2/yugiohmonster.jpg</String></Pair>
+            </Table>
+        </Attributes>
+        <Items><Item class="type:x-xmb/xmlnpsignup" key="ps2_17_link" attr="ps2_17_link" /></Items>
+    </View>
+    
+    
+    
+    <View id="ps2_18_link">
+        <Attributes>
+            <Table key="ps2_18_link">
+                <Pair key="info"><String>net_package_install</String></Pair>
+                <Pair key="pkg_src"><String>http://dl.dropboxusercontent.com/s/qtwvd7li0ulz1aw/UP0000-SLUS00000_00-PS2CLASSICS00000.pkg_signed.pkg?dl=0</String></Pair>
+                <Pair key="pkg_src_qa"><String>http://dl.dropboxusercontent.com/s/qtwvd7li0ulz1aw/UP0000-SLUS00000_00-PS2CLASSICS00000.pkg_signed.pkg?dl=0</String></Pair>
+                <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                <Pair key="content_id"><String>UP0000-SLUS00000_00-PS2CLASSICS00000</String></Pair>
+                <Pair key="prod_pict_path"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/PS2/pgen.jpg</String></Pair>
+            </Table>
+        </Attributes>
+        <Items><Item class="type:x-xmb/xmlnpsignup" key="ps2_18_link" attr="ps2_18_link" /></Items>
+    </View>
+    
+    
+    
+    <View id="ps2_19_link">
+        <Attributes>
+            <Table key="ps2_19_link">
+                <Pair key="info"><String>net_package_install</String></Pair>
+                <Pair key="pkg_src"><String>http://dl.dropboxusercontent.com/s/69yjhkoam0fre04/UP0000-SLUS00001_00-PS2CLASSICS00000.pkg_signed.pkg?dl=0</String></Pair>
+                <Pair key="pkg_src_qa"><String>http://dl.dropboxusercontent.com/s/69yjhkoam0fre04/UP0000-SLUS00001_00-PS2CLASSICS00000.pkg_signed.pkg?dl=0</String></Pair>
+                <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                <Pair key="content_id"><String>UP0000-SLUS00001_00-PS2CLASSICS00000</String></Pair>
+                <Pair key="prod_pict_path"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/PS2/snes.jpg</String></Pair>
+            </Table>
+        </Attributes>
+        <Items><Item class="type:x-xmb/xmlnpsignup" key="ps2_19_link" attr="ps2_19_link" /></Items>
+    </View>
+
+
+
+    <View id="ps2_20_link">
+        <Attributes>
+            <Table key="ps2_20_link">
+                <Pair key="info"><String>net_package_install</String></Pair>
+                <Pair key="pkg_src"><String>http://dl.dropboxusercontent.com/s/b6a4udw5o8v8f6e/Castlevania%20-%20Curse%20of%20Darkness%20%5BPS2%20Classics%5D%20%5BSLES53755%5D.pkg_signed.pkg?dl=0</String></Pair>
+                <Pair key="pkg_src_qa"><String>http://dl.dropboxusercontent.com/s/b6a4udw5o8v8f6e/Castlevania%20-%20Curse%20of%20Darkness%20%5BPS2%20Classics%5D%20%5BSLES53755%5D.pkg_signed.pkg?dl=0</String></Pair>
+                <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                <Pair key="content_id"><String>Castlevania%20-%20Curse%20of%20Darkness%20%5BPS2%20Classics%5D%20%5BSLES53755%5D.pkg_signed</String></Pair>
+                <Pair key="prod_pict_path"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/PS2/castlevaniacurse.jpg</String></Pair>
+            </Table>
+        </Attributes>
+        <Items><Item class="type:x-xmb/xmlnpsignup" key="ps2_20_link" attr="ps2_20_link" /></Items>
+    </View>
+	
+	
+	
+	<View id="ps2_21_link">
+        <Attributes>
+            <Table key="ps2_21_link">
+                <Pair key="info"><String>net_package_install</String></Pair>
+                <Pair key="pkg_src"><String>http://dl.dropboxusercontent.com/s/y9gvewwfotr4bdy/DragonBall%20Z%20-%20Budokai%20Tenkaichi%203%20-%20TCXS%20%5BSLUS21678%5D.pkg?dl=0</String></Pair>
+                <Pair key="pkg_src_qa"><String>http://dl.dropboxusercontent.com/s/y9gvewwfotr4bdy/DragonBall%20Z%20-%20Budokai%20Tenkaichi%203%20-%20TCXS%20%5BSLUS21678%5D.pkg?dl=0</String></Pair>
+                <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                <Pair key="content_id"><String>DragonBall%20Z%20-%20Budokai%20Tenkaichi%203%20-%20TCXS%20%5BSLUS21678%5D</String></Pair>
+                <Pair key="prod_pict_path"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/PS2/dbzbt3.jpg</String></Pair>
+            </Table>
+        </Attributes>
+        <Items><Item class="type:x-xmb/xmlnpsignup" key="ps2_21_link" attr="ps2_21_link" /></Items>
+    </View>
+
+
+
+<View id="ps2_22_link">
+        <Attributes>
+            <Table key="ps2_22_link">
+                <Pair key="info"><String>net_package_install</String></Pair>
+                <Pair key="pkg_src"><String>http://dl.dropboxusercontent.com/s/vaxoy420gut3yl0/God%20Hand%20%5BPS2%20Classics%5D%20%5BSLUS21503%5D.pkg_signed.pkg?dl=0</String></Pair>
+                <Pair key="pkg_src_qa"><String>http://dl.dropboxusercontent.com/s/vaxoy420gut3yl0/God%20Hand%20%5BPS2%20Classics%5D%20%5BSLUS21503%5D.pkg_signed.pkg?dl=0</String></Pair>
+                <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                <Pair key="content_id"><String>God%20Hand%20%5BPS2%20Classics%5D%20%5BSLUS21503%5D</String></Pair>
+                <Pair key="prod_pict_path"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/PS2/godhand.jpg</String></Pair>
+            </Table>
+        </Attributes>
+        <Items><Item class="type:x-xmb/xmlnpsignup" key="ps2_22_link" attr="ps2_22_link" /></Items>
+    </View>
+
+
+
+    <View id="ps2_23_link">
+        <Attributes>
+            <Table key="ps2_23_link">
+                <Pair key="info"><String>net_package_install</String></Pair>
+                <Pair key="pkg_src"><String>http://dl.dropboxusercontent.com/s/aoal5vzczjifcpb/UP0000-SLUS21087_00-PS2CLASSICS00000.pkg?dl=0</String></Pair>
+                <Pair key="pkg_src_qa"><String>http://dl.dropboxusercontent.com/s/aoal5vzczjifcpb/UP0000-SLUS21087_00-PS2CLASSICS00000.pkg?dl=0</String></Pair>
+                <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                <Pair key="content_id"><String>UP0000-SLUS21087_00-PS2CLASSICS00000</String></Pair>
+                <Pair key="prod_pict_path"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/PS2/mkshaolin.jpg</String></Pair>
+            </Table>
+        </Attributes>
+        <Items><Item class="type:x-xmb/xmlnpsignup" key="ps2_23_link" attr="ps2_23_link" /></Items>
+    </View>
+	
+	
+	
+	<View id="ps2_24_link">
+        <Attributes>
+            <Table key="ps2_24_link">
+                <Pair key="info"><String>net_package_install</String></Pair>
+                <Pair key="pkg_src"><String>http://dl.dropboxusercontent.com/s/iukt0ozsa3ufewp/Onimusha%20-%20Warlords%20%5BPS2%20Classics%5D%20%5BSLUS20018%5D.pkg_signed.pkg?dl=0</String></Pair>
+                <Pair key="pkg_src_qa"><String>http://dl.dropboxusercontent.com/s/iukt0ozsa3ufewp/Onimusha%20-%20Warlords%20%5BPS2%20Classics%5D%20%5BSLUS20018%5D.pkg_signed.pkg?dl=0</String></Pair>
+                <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                <Pair key="content_id"><String>Onimusha%20-%20Warlords%20%5BPS2%20Classics%5D%20%5BSLUS20018%5D.pkg_signed</String></Pair>
+                <Pair key="prod_pict_path"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/PS2/onimusha1.jpg</String></Pair>
+            </Table>
+        </Attributes>
+        <Items><Item class="type:x-xmb/xmlnpsignup" key="ps2_24_link" attr="ps2_24_link" /></Items>
+    </View>
+
+
+
+    <View id="ps2_25_link">
+        <Attributes>
+            <Table key="ps2_25_link">
+                <Pair key="info"><String>net_package_install</String></Pair>
+                <Pair key="pkg_src"><String>http://dl.dropboxusercontent.com/s/wvwygkpsz9rgipi/Onimusha_3_-_Demon_Siege_%5BPS2_Classics%5D_%5BSLUS20694%5D.pkg_signed.pkg?dl=0</String></Pair>
+                <Pair key="pkg_src_qa"><String>http://dl.dropboxusercontent.com/s/wvwygkpsz9rgipi/Onimusha_3_-_Demon_Siege_%5BPS2_Classics%5D_%5BSLUS20694%5D.pkg_signed.pkg?dl=0</String></Pair>
+                <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                <Pair key="content_id"><String>Onimusha_3_-_Demon_Siege_%5BPS2_Classics%5D_%5BSLUS20694%5D.pkg_signed</String></Pair>
+                <Pair key="prod_pict_path"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/PS2/onimusha3.jpg</String></Pair>
+            </Table>
+        </Attributes>
+        <Items><Item class="type:x-xmb/xmlnpsignup" key="ps2_25_link" attr="ps2_25_link" /></Items>
+    </View>
+    
+    
+    
+    <View id="ps2_26_link">
+        <Attributes>
+            <Table key="ps2_26_link">
+                <Pair key="info"><String>net_package_install</String></Pair>
+                <Pair key="pkg_src"><String>http://dl.dropboxusercontent.com/s/vx6p01haojb3v59/Shadow%20of%20the%20Colossus%20%5BPS2%20Classics%5D%20%5BSCUS97472%5D.pkg_signed.pkg?dl=0</String></Pair>
+                <Pair key="pkg_src_qa"><String>http://dl.dropboxusercontent.com/s/vx6p01haojb3v59/Shadow%20of%20the%20Colossus%20%5BPS2%20Classics%5D%20%5BSCUS97472%5D.pkg_signed.pkg?dl=0</String></Pair>
+                <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                <Pair key="content_id"><String>Shadow%20of%20the%20Colossus%20%5BPS2%20Classics%5D%20%5BSCUS97472%5D.pkg_signed</String></Pair>
+                <Pair key="prod_pict_path"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/PS2/sotc.jpg</String></Pair>
+            </Table>
+        </Attributes>
+        <Items><Item class="type:x-xmb/xmlnpsignup" key="ps2_26_link" attr="ps2_26_link" /></Items>
+    </View>
+
+
+
+
+    <View id="ps2_27_link">
+        <Attributes>
+            <Table key="ps2_27_link">
+                <Pair key="info"><String>net_package_install</String></Pair>
+                <Pair key="pkg_src"><String>http://dl.dropboxusercontent.com/s/lbmr1a18e1slrb3/EP0000-SLES53024_00-PS2CLASSICS00000.pkg?dl=0</String></Pair>
+                <Pair key="pkg_src_qa"><String>http://dl.dropboxusercontent.com/s/lbmr1a18e1slrb3/EP0000-SLES53024_00-PS2CLASSICS00000.pkg?dl=0</String></Pair>
+                <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                <Pair key="content_id"><String>EP0000-SLES53024_00-PS2CLASSICS00000</String></Pair>
+                <Pair key="prod_pict_path"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/PS2/alteredbeast.jpg</String></Pair>
+            </Table>
+        </Attributes>
+        <Items><Item class="type:x-xmb/xmlnpsignup" key="ps2_27_link" attr="ps2_27_link" /></Items>
+    </View>
+
+
+
+    <View id="ps2_28_link">
+        <Attributes>
+            <Table key="ps2_28_link">
+                <Pair key="info"><String>net_package_install</String></Pair>
+                <Pair key="pkg_src"><String>http://dl.dropboxusercontent.com/s/lamohb6nsxm8d95/UP0000-SLUS21578_00-PS2CLASSICS00000.pkg?dl=0</String></Pair>
+                <Pair key="pkg_src_qa"><String>http://dl.dropboxusercontent.com/s/lamohb6nsxm8d95/UP0000-SLUS21578_00-PS2CLASSICS00000.pkg?dl=0</String></Pair>
+                <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                <Pair key="content_id"><String>UP0000-SLUS21578_00-PS2CLASSICS00000</String></Pair>
+                <Pair key="prod_pict_path"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/PS2/bikermice.jpg</String></Pair>
+            </Table>
+        </Attributes>
+        <Items><Item class="type:x-xmb/xmlnpsignup" key="ps2_28_link" attr="ps2_28_link" /></Items>
+    </View>
+	
+	
+	
+	<View id="ps2_29_link">
+        <Attributes>
+            <Table key="ps2_29_link">
+                <Pair key="info"><String>net_package_install</String></Pair>
+                <Pair key="pkg_src"><String>http://dl.dropboxusercontent.com/s/vq3jxr7xzfefixv/UP0000-SLUS21419_00-PS2CLASSICS00000.pkg?dl=0</String></Pair>
+                <Pair key="pkg_src_qa"><String>http://dl.dropboxusercontent.com/s/vq3jxr7xzfefixv/UP0000-SLUS21419_00-PS2CLASSICS00000.pkg?dl=0</String></Pair>
+                <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                <Pair key="content_id"><String>UP0000-SLUS21419_00-PS2CLASSICS00000</String></Pair>
+                <Pair key="prod_pict_path"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/PS2/ffviidirge.jpg</String></Pair>
+            </Table>
+        </Attributes>
+        <Items><Item class="type:x-xmb/xmlnpsignup" key="ps2_29_link" attr="ps2_29_link" /></Items>
+    </View>
+
+
+
+    <View id="ps2_30_link">
+        <Attributes>
+            <Table key="ps2_30_link">
+                <Pair key="info"><String>net_package_install</String></Pair>
+                <Pair key="pkg_src"><String>http://dl.dropboxusercontent.com/s/a33obnn4v8g9xq5/UP0000-SLUS21221_00-PS2CLASSICS00000.pkg?dl=0</String></Pair>
+                <Pair key="pkg_src_qa"><String>http://dl.dropboxusercontent.com/s/a33obnn4v8g9xq5/UP0000-SLUS21221_00-PS2CLASSICS00000.pkg?dl=0</String></Pair>
+                <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                <Pair key="content_id"><String>UP0000-SLUS21221_00-PS2CLASSICS00000</String></Pair>
+                <Pair key="prod_pict_path"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/PS2/magnacarta.jpg</String></Pair>
+            </Table>
+        </Attributes>
+        <Items><Item class="type:x-xmb/xmlnpsignup" key="ps2_30_link" attr="ps2_30_link" /></Items>
+    </View>
+    
+    
+    
+    <View id="ps2_31_link">
+        <Attributes>
+            <Table key="ps2_31_link">
+                <Pair key="info"><String>net_package_install</String></Pair>
+                <Pair key="pkg_src"><String>http://dl.dropboxusercontent.com/s/8d8oqqnxs9u0rf0/JP0000-SLPS25505_00-PS2CLASSICS00000.pkg?dl=0</String></Pair>
+                <Pair key="pkg_src_qa"><String>http://dl.dropboxusercontent.com/s/8d8oqqnxs9u0rf0/JP0000-SLPS25505_00-PS2CLASSICS00000.pkg?dl=0</String></Pair>
+                <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                <Pair key="content_id"><String>JP0000-SLPS25505_00-PS2CLASSICS00000</String></Pair>
+                <Pair key="prod_pict_path"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/PS2/namcoxcapcom.jpg</String></Pair>
+            </Table>
+        </Attributes>
+        <Items><Item class="type:x-xmb/xmlnpsignup" key="ps2_31_link" attr="ps2_31_link" /></Items>
+    </View>
+
+
+
+    <View id="ps2_32_link">
+        <Attributes>
+            <Table key="ps2_32_link">
+                <Pair key="info"><String>net_package_install</String></Pair>
+                <Pair key="pkg_src"><String>http://dl.dropboxusercontent.com/s/70r38rg9f0y48iv/UP0000-SCUS97490_00-PS2CLASSICS00000.pkg?dl=0</String></Pair>
+                <Pair key="pkg_src_qa"><String>http://dl.dropboxusercontent.com/s/70r38rg9f0y48iv/UP0000-SCUS97490_00-PS2CLASSICS00000.pkg?dl=0</String></Pair>
+                <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                <Pair key="content_id"><String>UP0000-SCUS97490_00-PS2CLASSICS00000</String></Pair>
+                <Pair key="prod_pict_path"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/PS2/roguegalaxy.jpg</String></Pair>
+            </Table>
+        </Attributes>
+        <Items><Item class="type:x-xmb/xmlnpsignup" key="ps2_32_link" attr="ps2_32_link" /></Items>
+    </View>
+	
+	
+	
+	<View id="ps2_33_link">
+        <Attributes>
+            <Table key="ps2_33_link">
+                <Pair key="info"><String>net_package_install</String></Pair>
+                <Pair key="pkg_src"><String>http://dl.dropboxusercontent.com/s/pnav053chlb1gg2/Spider-Man%202%20-%20TCXS%20%5BSLUS20776%5D.pkg?dl=0</String></Pair>
+                <Pair key="pkg_src_qa"><String>http://dl.dropboxusercontent.com/s/pnav053chlb1gg2/Spider-Man%202%20-%20TCXS%20%5BSLUS20776%5D.pkg?dl=0</String></Pair>
+                <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                <Pair key="content_id"><String>Spider-Man%202%20-%20TCXS%20%5BSLUS20776%5D</String></Pair>
+                <Pair key="prod_pict_path"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/PS2/spiderman2.jpg</String></Pair>
+            </Table>
+        </Attributes>
+        <Items><Item class="type:x-xmb/xmlnpsignup" key="ps2_33_link" attr="ps2_33_link" /></Items>
+    </View>
+	
+	
+	
+	<View id="ps2_34_link">
+        <Attributes>
+            <Table key="ps2_34_link">
+                <Pair key="info"><String>net_package_install</String></Pair>
+                <Pair key="pkg_src"><String>http://dl.dropboxusercontent.com/s/l4idd74pzd7g04a/JP0000-SLPS25783_00-PS2CLASSICS00000.pkg?dl=0</String></Pair>
+                <Pair key="pkg_src_qa"><String>http://dl.dropboxusercontent.com/s/l4idd74pzd7g04a/JP0000-SLPS25783_00-PS2CLASSICS00000.pkg?dl=0</String></Pair>
+                <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                <Pair key="content_id"><String>JP0000-SLPS25783_00-PS2CLASSICS00000</String></Pair>
+                <Pair key="prod_pict_path"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/PS2/tkof98.jpg</String></Pair>
+            </Table>
+        </Attributes>
+        <Items><Item class="type:x-xmb/xmlnpsignup" key="ps2_34_link" attr="ps2_34_link" /></Items>
+    </View>
+	
+	
+	
+	<View id="ps2_35_link">
+        <Attributes>
+            <Table key="ps2_35_link">
+                <Pair key="info"><String>net_package_install</String></Pair>
+                <Pair key="pkg_src"><String>http://dl.dropboxusercontent.com/s/l38xcr7t6j5eayz/JP0000-SLPS25915_00-PS2CLASSICS00000.pkg?dl=0</String></Pair>
+                <Pair key="pkg_src_qa"><String>http://dl.dropboxusercontent.com/s/l38xcr7t6j5eayz/JP0000-SLPS25915_00-PS2CLASSICS00000.pkg?dl=0</String></Pair>
+                <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                <Pair key="content_id"><String>JP0000-SLPS25915_00-PS2CLASSICS00000</String></Pair>
+                <Pair key="prod_pict_path"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/PS2/tkof2002.jpg</String></Pair>
+            </Table>
+        </Attributes>
+        <Items><Item class="type:x-xmb/xmlnpsignup" key="ps2_35_link" attr="ps2_35_link" /></Items>
+    </View>
+
+
+
+    <View id="ps2_36_link">
+        <Attributes>
+            <Table key="ps2_36_link">
+                <Pair key="info"><String>net_package_install</String></Pair>
+                <Pair key="pkg_src"><String>http://dl.dropboxusercontent.com/s/xt739l6b0bsbcj7/Anime%20Fighters%20Vol2%20-%20TCXS%20%5BPS2%20Classics%5D%20%5BSLPS25675%5D.pkg?dl=0</String></Pair>
+                <Pair key="pkg_src_qa"><String>http://dl.dropboxusercontent.com/s/xt739l6b0bsbcj7/Anime%20Fighters%20Vol2%20-%20TCXS%20%5BPS2%20Classics%5D%20%5BSLPS25675%5D.pkg?dl=0</String></Pair>
+                <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                <Pair key="content_id"><String>Anime%20Fighters%20Vol2%20-%20TCXS%20%5BPS2%20Classics%5D%20%5BSLPS25675%5D</String></Pair>
+                <Pair key="prod_pict_path"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/PS2/animefighters.jpg</String></Pair>
+            </Table>
+        </Attributes>
+        <Items><Item class="type:x-xmb/xmlnpsignup" key="ps2_36_link" attr="ps2_36_link" /></Items>
+    </View>
+    
+    
+    
+    <View id="ps2_37_link">
+        <Attributes>
+            <Table key="ps2_37_link">
+                <Pair key="info"><String>net_package_install</String></Pair>
+                <Pair key="pkg_src"><String>http://dl.dropboxusercontent.com/s/13z1h63ib8vy67e/JP0000-SLPS25661_00-PS2CLASSICS00000.pkg?dl=0</String></Pair>
+                <Pair key="pkg_src_qa"><String>http://dl.dropboxusercontent.com/s/13z1h63ib8vy67e/JP0000-SLPS25661_00-PS2CLASSICS00000.pkg?dl=0</String></Pair>
+                <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                <Pair key="content_id"><String>JP0000-SLPS25661_00-PS2CLASSICS00000</String></Pair>
+                <Pair key="prod_pict_path"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/PS2/tkofnests.jpg</String></Pair>
+            </Table>
+        </Attributes>
+        <Items><Item class="type:x-xmb/xmlnpsignup" key="ps2_37_link" attr="ps2_37_link" /></Items>
+    </View>
+
+    
+   
+
+
+
+
+
+
+
+	
+</XMBML>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<XMBML version="1.0">
+	
+	<!-- Main  > zeTVmod > Submenu -->
+	<View id="seg_tv_items">
+		<Attributes>
+<Table key="S W A T  1X01"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/SWAT.jpg</String></Pair><Pair key="title"><String>S W A T  1X01</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=7805ed3dba54165f</String></Pair></Table>
+<Table key="S W A T  1X02"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/SWAT.jpg</String></Pair><Pair key="title"><String>S W A T  1X02</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=84a5daa8a1a31c80</String></Pair></Table>
+<Table key="S W A T  1X03"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/SWAT.jpg</String></Pair><Pair key="title"><String>S W A T  1X03</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=8c409e9641724481</String></Pair></Table>
+<Table key="S W A T  1X04"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/SWAT.jpg</String></Pair><Pair key="title"><String>S W A T  1X04</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=8420592b4b73dbee</String></Pair></Table>
+<Table key="S W A T  1X05"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/SWAT.jpg</String></Pair><Pair key="title"><String>S W A T  1X05</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=2595726101624e5f</String></Pair></Table>
+<Table key="S W A T  1X06"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/SWAT.jpg</String></Pair><Pair key="title"><String>S W A T  1X06</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=910e4bbdea0cb3f1</String></Pair></Table>
+<Table key="S W A T  1X07"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/SWAT.jpg</String></Pair><Pair key="title"><String>S W A T  1X07</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=dfb84d07071c118</String></Pair></Table>
+<Table key="S W A T  1X08"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/SWAT.jpg</String></Pair><Pair key="title"><String>S W A T  1X08</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=c04dc9fdbcbeac16</String></Pair></Table>
+<Table key="S W A T  1X09"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/SWAT.jpg</String></Pair><Pair key="title"><String>S W A T  1X09</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=b39127c95f4f150c</String></Pair></Table>
+<Table key="S W A T  1X10"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/SWAT.jpg</String></Pair><Pair key="title"><String>S W A T  1X10</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=91ebc22537a2febb</String></Pair></Table>
+<Table key="S W A T  1X11"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/SWAT.jpg</String></Pair><Pair key="title"><String>S W A T  1X11</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=6295cfad51b633b8</String></Pair></Table>
+<Table key="S W A T  1X12"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/SWAT.jpg</String></Pair><Pair key="title"><String>S W A T  1X12</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=9d71d8470e7cd0bb</String></Pair></Table>
+<Table key="S W A T  1X13"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/SWAT.jpg</String></Pair><Pair key="title"><String>S W A T  1X13</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=37422cf690fd50d0</String></Pair></Table>
+<Table key="S W A T  1X14"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/SWAT.jpg</String></Pair><Pair key="title"><String>S W A T  1X14</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=82fe9f39583e2eb1</String></Pair></Table>
+<Table key="S W A T  1X15"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/SWAT.jpg</String></Pair><Pair key="title"><String>S W A T  1X15</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=d6865ae528af36c8</String></Pair></Table>
+<Table key="S W A T  1X16"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/SWAT.jpg</String></Pair><Pair key="title"><String>S W A T  1X16</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=e62967f43e2c6b37</String></Pair></Table>
+<Table key="S W A T  1X17"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/SWAT.jpg</String></Pair><Pair key="title"><String>S W A T  1X17</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=aaab02e2bd9705f8</String></Pair></Table>
+<Table key="S W A T  1X18"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/SWAT.jpg</String></Pair><Pair key="title"><String>S W A T  1X18</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=c49da79fbc66f657</String></Pair></Table>
+<Table key="S W A T  1X19"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/SWAT.jpg</String></Pair><Pair key="title"><String>S W A T  1X19</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=ec26f63a08ea0aa5</String></Pair></Table>
+<Table key="S W A T  1X20"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/SWAT.jpg</String></Pair><Pair key="title"><String>S W A T  1X20</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=f516a7ac8aa494b4</String></Pair></Table>
+<Table key="S W A T  1X21"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/SWAT.jpg</String></Pair><Pair key="title"><String>S W A T  1X21</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=44b6b9c520424fa</String></Pair></Table>
+<Table key="S W A T  1X22"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/SWAT.jpg</String></Pair><Pair key="title"><String>S W A T  1X22</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=5b5c581f1c33ae6e</String></Pair></Table>
+</Attributes>
+		<Items>
+<Item class="type:x-xmb/module-action" key="S W A T  1X01" attr="S W A T  1X01"/>
+<Item class="type:x-xmb/module-action" key="S W A T  1X02" attr="S W A T  1X02"/>
+<Item class="type:x-xmb/module-action" key="S W A T  1X03" attr="S W A T  1X03"/>
+<Item class="type:x-xmb/module-action" key="S W A T  1X04" attr="S W A T  1X04"/>
+<Item class="type:x-xmb/module-action" key="S W A T  1X05" attr="S W A T  1X05"/>
+<Item class="type:x-xmb/module-action" key="S W A T  1X06" attr="S W A T  1X06"/>
+<Item class="type:x-xmb/module-action" key="S W A T  1X07" attr="S W A T  1X07"/>
+<Item class="type:x-xmb/module-action" key="S W A T  1X08" attr="S W A T  1X08"/>
+<Item class="type:x-xmb/module-action" key="S W A T  1X09" attr="S W A T  1X09"/>
+<Item class="type:x-xmb/module-action" key="S W A T  1X10" attr="S W A T  1X10"/>
+<Item class="type:x-xmb/module-action" key="S W A T  1X11" attr="S W A T  1X11"/>
+<Item class="type:x-xmb/module-action" key="S W A T  1X12" attr="S W A T  1X12"/>
+<Item class="type:x-xmb/module-action" key="S W A T  1X13" attr="S W A T  1X13"/>
+<Item class="type:x-xmb/module-action" key="S W A T  1X14" attr="S W A T  1X14"/>
+<Item class="type:x-xmb/module-action" key="S W A T  1X15" attr="S W A T  1X15"/>
+<Item class="type:x-xmb/module-action" key="S W A T  1X16" attr="S W A T  1X16"/>
+<Item class="type:x-xmb/module-action" key="S W A T  1X17" attr="S W A T  1X17"/>
+<Item class="type:x-xmb/module-action" key="S W A T  1X18" attr="S W A T  1X18"/>
+<Item class="type:x-xmb/module-action" key="S W A T  1X19" attr="S W A T  1X19"/>
+<Item class="type:x-xmb/module-action" key="S W A T  1X20" attr="S W A T  1X20"/>
+<Item class="type:x-xmb/module-action" key="S W A T  1X21" attr="S W A T  1X21"/>
+<Item class="type:x-xmb/module-action" key="S W A T  1X22" attr="S W A T  1X22"/>
+</Items>
+	</View>
+
+</XMBML>		

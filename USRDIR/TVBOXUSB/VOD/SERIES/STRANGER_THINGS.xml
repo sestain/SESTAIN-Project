@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<XMBML version="1.0">
+	
+	<!-- Main  > zeTVmod > Submenu -->
+	<View id="seg_tv_items">
+		<Attributes>
+<Table key="T01EP1"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/STRANGER_THINGS.jpg</String></Pair><Pair key="title"><String>T01EP1</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>https://www.blogger.com/video-play.mp4?contentId=990577aab92ee2f0</String></Pair></Table>
+<Table key="T01EP2"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/STRANGER_THINGS.jpg</String></Pair><Pair key="title"><String>T01EP2</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>https://www.blogger.com/video-play.mp4?contentId=bfc4768de9fd95d5</String></Pair></Table>
+<Table key="T01EP3"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/STRANGER_THINGS.jpg</String></Pair><Pair key="title"><String>T01EP3</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>https://www.blogger.com/video-play.mp4?contentId=112b332e3d0dfd0c</String></Pair></Table>
+<Table key="T01EP4"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/STRANGER_THINGS.jpg</String></Pair><Pair key="title"><String>T01EP4</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>https://www.blogger.com/video-play.mp4?contentId=a9a87fd0be62bc8b</String></Pair></Table>
+<Table key="T01EP5"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/STRANGER_THINGS.jpg</String></Pair><Pair key="title"><String>T01EP5</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>https://www.blogger.com/video-play.mp4?contentId=8db41dbeca4404e1</String></Pair></Table>
+<Table key="T01EP6"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/STRANGER_THINGS.jpg</String></Pair><Pair key="title"><String>T01EP6</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>https://www.blogger.com/video-play.mp4?contentId=90b6ba7368640e19</String></Pair></Table>
+<Table key="T01EP7"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/STRANGER_THINGS.jpg</String></Pair><Pair key="title"><String>T01EP7</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>https://www.blogger.com/video-play.mp4?contentId=67e59aa00c400d48</String></Pair></Table>
+<Table key="T01EP8"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/STRANGER_THINGS.jpg</String></Pair><Pair key="title"><String>T01EP8</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>https://www.blogger.com/video-play.mp4?contentId=3b00f9bde28d4d86</String></Pair></Table>
+<Table key="T02EP1"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/STRANGER_THINGS.jpg</String></Pair><Pair key="title"><String>T02EP1</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>https://www.blogger.com/video-play.mp4?contentId=5bda958102098c97</String></Pair></Table>
+<Table key="T02EP2"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/STRANGER_THINGS.jpg</String></Pair><Pair key="title"><String>T02EP2</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>https://www.blogger.com/video-play.mp4?contentId=23185a38772dc979</String></Pair></Table>
+<Table key="T02EP3"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/STRANGER_THINGS.jpg</String></Pair><Pair key="title"><String>T02EP3</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>https://www.blogger.com/video-play.mp4?contentId=d1abc974c3396c15</String></Pair></Table>
+<Table key="T02EP4"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/STRANGER_THINGS.jpg</String></Pair><Pair key="title"><String>T02EP4</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>https://www.blogger.com/video-play.mp4?contentId=67a78bb10de3a943</String></Pair></Table>
+<Table key="T02EP5"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/STRANGER_THINGS.jpg</String></Pair><Pair key="title"><String>T02EP5</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>https://www.blogger.com/video-play.mp4?contentId=496b6995c704d7b2</String></Pair></Table>
+<Table key="T02EP6"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/STRANGER_THINGS.jpg</String></Pair><Pair key="title"><String>T02EP6</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>https://www.blogger.com/video-play.mp4?contentId=7c5400e7ebc3d312</String></Pair></Table>
+<Table key="T02EP7"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/STRANGER_THINGS.jpg</String></Pair><Pair key="title"><String>T02EP7</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>https://www.blogger.com/video-play.mp4?contentId=760f55ad61e26fb0</String></Pair></Table>
+<Table key="T02EP8"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/STRANGER_THINGS.jpg</String></Pair><Pair key="title"><String>T02EP8</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>https://www.blogger.com/video-play.mp4?contentId=87b36a2a92b54c8f</String></Pair></Table>
+<Table key="T02EP9"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/STRANGER_THINGS.jpg</String></Pair><Pair key="title"><String>T02EP9</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>https://www.blogger.com/video-play.mp4?contentId=224707792e61dc11</String></Pair></Table>
+</Attributes>
+		<Items>
+<Item class="type:x-xmb/module-action" key="T01EP1" attr="T01EP1"/>
+<Item class="type:x-xmb/module-action" key="T01EP2" attr="T01EP2"/>
+<Item class="type:x-xmb/module-action" key="T01EP3" attr="T01EP3"/>
+<Item class="type:x-xmb/module-action" key="T01EP4" attr="T01EP4"/>
+<Item class="type:x-xmb/module-action" key="T01EP5" attr="T01EP5"/>
+<Item class="type:x-xmb/module-action" key="T01EP6" attr="T01EP6"/>
+<Item class="type:x-xmb/module-action" key="T01EP7" attr="T01EP7"/>
+<Item class="type:x-xmb/module-action" key="T01EP8" attr="T01EP8"/>
+<Item class="type:x-xmb/module-action" key="T02EP1" attr="T02EP1"/>
+<Item class="type:x-xmb/module-action" key="T02EP2" attr="T02EP2"/>
+<Item class="type:x-xmb/module-action" key="T02EP3" attr="T02EP3"/>
+<Item class="type:x-xmb/module-action" key="T02EP4" attr="T02EP4"/>
+<Item class="type:x-xmb/module-action" key="T02EP5" attr="T02EP5"/>
+<Item class="type:x-xmb/module-action" key="T02EP6" attr="T02EP6"/>
+<Item class="type:x-xmb/module-action" key="T02EP7" attr="T02EP7"/>
+<Item class="type:x-xmb/module-action" key="T02EP8" attr="T02EP8"/>
+<Item class="type:x-xmb/module-action" key="T02EP9" attr="T02EP9"/>
+</Items>
+	</View>
+
+</XMBML>		

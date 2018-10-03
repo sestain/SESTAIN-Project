@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<XMBML version="1.0">
+	
+	<!-- Main  > zeTVmod > Submenu -->
+	<View id="seg_tv_items">
+		<Attributes>
+<Table key="SPARTACUS 1x01"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/SPARTACUS.jpg</String></Pair><Pair key="title"><String>SPARTACUS 1x01</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=a54d8bab94957467</String></Pair></Table>
+<Table key="SPARTACUS 1x02"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/SPARTACUS.jpg</String></Pair><Pair key="title"><String>SPARTACUS 1x02</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=ddd0364e8719420</String></Pair></Table>
+<Table key="SPARTACUS 1x03"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/SPARTACUS.jpg</String></Pair><Pair key="title"><String>SPARTACUS 1x03</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=1dc1051b31836621</String></Pair></Table>
+<Table key="SPARTACUS 1x04"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/SPARTACUS.jpg</String></Pair><Pair key="title"><String>SPARTACUS 1x04</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=6e6deee90dc5d768</String></Pair></Table>
+<Table key="SPARTACUS 1x05"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/SPARTACUS.jpg</String></Pair><Pair key="title"><String>SPARTACUS 1x05</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=4cb0789eab61afd</String></Pair></Table>
+<Table key="SPARTACUS 1x06"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/SPARTACUS.jpg</String></Pair><Pair key="title"><String>SPARTACUS 1x06</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=594d1c1ee0448ada</String></Pair></Table>
+<Table key="SPARTACUS 1x07"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/SPARTACUS.jpg</String></Pair><Pair key="title"><String>SPARTACUS 1x07</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=5d49449cea6021af</String></Pair></Table>
+<Table key="SPARTACUS 1x08"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/SPARTACUS.jpg</String></Pair><Pair key="title"><String>SPARTACUS 1x08</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=51ce394de861ebc1</String></Pair></Table>
+<Table key="SPARTACUS 1x09"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/SPARTACUS.jpg</String></Pair><Pair key="title"><String>SPARTACUS 1x09</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=28b4a5bbfa91f84f</String></Pair></Table>
+<Table key="SPARTACUS 1x10"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/SPARTACUS.jpg</String></Pair><Pair key="title"><String>SPARTACUS 1x10</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=756a6c293448b4c9</String></Pair></Table>
+<Table key="SPARTACUS 1x11"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/SPARTACUS.jpg</String></Pair><Pair key="title"><String>SPARTACUS 1x11</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=309ea8931d8444ee</String></Pair></Table>
+<Table key="SPARTACUS 1x12"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/SPARTACUS.jpg</String></Pair><Pair key="title"><String>SPARTACUS 1x12</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=532dbcdd4c151d96</String></Pair></Table>
+<Table key="SPARTACUS 1x13"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/SPARTACUS.jpg</String></Pair><Pair key="title"><String>SPARTACUS 1x13</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=4515a8ddc750d07b</String></Pair></Table>
+</Attributes>
+		<Items>
+<Item class="type:x-xmb/module-action" key="SPARTACUS 1x01" attr="SPARTACUS 1x01"/>
+<Item class="type:x-xmb/module-action" key="SPARTACUS 1x02" attr="SPARTACUS 1x02"/>
+<Item class="type:x-xmb/module-action" key="SPARTACUS 1x03" attr="SPARTACUS 1x03"/>
+<Item class="type:x-xmb/module-action" key="SPARTACUS 1x04" attr="SPARTACUS 1x04"/>
+<Item class="type:x-xmb/module-action" key="SPARTACUS 1x05" attr="SPARTACUS 1x05"/>
+<Item class="type:x-xmb/module-action" key="SPARTACUS 1x06" attr="SPARTACUS 1x06"/>
+<Item class="type:x-xmb/module-action" key="SPARTACUS 1x07" attr="SPARTACUS 1x07"/>
+<Item class="type:x-xmb/module-action" key="SPARTACUS 1x08" attr="SPARTACUS 1x08"/>
+<Item class="type:x-xmb/module-action" key="SPARTACUS 1x09" attr="SPARTACUS 1x09"/>
+<Item class="type:x-xmb/module-action" key="SPARTACUS 1x10" attr="SPARTACUS 1x10"/>
+<Item class="type:x-xmb/module-action" key="SPARTACUS 1x11" attr="SPARTACUS 1x11"/>
+<Item class="type:x-xmb/module-action" key="SPARTACUS 1x12" attr="SPARTACUS 1x12"/>
+<Item class="type:x-xmb/module-action" key="SPARTACUS 1x13" attr="SPARTACUS 1x13"/>
+</Items>
+	</View>
+
+</XMBML>		

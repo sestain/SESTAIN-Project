@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<XMBML version="1.0">
+	
+	<!-- Main  > zeTVmod > Submenu -->
+	<View id="seg_tv_items">
+		<Attributes>
+<Table key="OUTCAST 1X01"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/OUTCAST.jpg</String></Pair><Pair key="title"><String>OUTCAST 1X01</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=9bccb7c274ee7b65</String></Pair></Table>
+<Table key="OUTCAST 1X02"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/OUTCAST.jpg</String></Pair><Pair key="title"><String>OUTCAST 1X02</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=e255a68b51a8ccc3</String></Pair></Table>
+<Table key="OUTCAST 1X03"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/OUTCAST.jpg</String></Pair><Pair key="title"><String>OUTCAST 1X03</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=57cbfb24e264ed60</String></Pair></Table>
+<Table key="OUTCAST 1X04"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/OUTCAST.jpg</String></Pair><Pair key="title"><String>OUTCAST 1X04</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=6f557362a5992b01</String></Pair></Table>
+<Table key="OUTCAST 1X05"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/OUTCAST.jpg</String></Pair><Pair key="title"><String>OUTCAST 1X05</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=31600135d70a9bf7</String></Pair></Table>
+<Table key="OUTCAST 1X06"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/OUTCAST.jpg</String></Pair><Pair key="title"><String>OUTCAST 1X06</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=cd57e63050321890</String></Pair></Table>
+<Table key="OUTCAST 1X07"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/OUTCAST.jpg</String></Pair><Pair key="title"><String>OUTCAST 1X07</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=11e0d8d72f81e0cf</String></Pair></Table>
+<Table key="OUTCAST 1X08"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/OUTCAST.jpg</String></Pair><Pair key="title"><String>OUTCAST 1X08</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=bc5206f652c88c60</String></Pair></Table>
+<Table key="OUTCAST 1X09"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/OUTCAST.jpg</String></Pair><Pair key="title"><String>OUTCAST 1X09</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=5f0772de513bd5ac</String></Pair></Table>
+<Table key="OUTCAST 1X10"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/OUTCAST.jpg</String></Pair><Pair key="title"><String>OUTCAST 1X10</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=b5f2fcbb3bfdc105</String></Pair></Table>
+<Table key="OUTCAST 2X01"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/OUTCAST.jpg</String></Pair><Pair key="title"><String>OUTCAST 2X01</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=3cd7ba30ac66dd02</String></Pair></Table>
+<Table key="OUTCAST 2X02"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/OUTCAST.jpg</String></Pair><Pair key="title"><String>OUTCAST 2X02</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=85a36d01f0bf85b4</String></Pair></Table>
+<Table key="OUTCAST 2X03"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/OUTCAST.jpg</String></Pair><Pair key="title"><String>OUTCAST 2X03</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=9af948d3be2414c6</String></Pair></Table>
+<Table key="OUTCAST 2X04"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/OUTCAST.jpg</String></Pair><Pair key="title"><String>OUTCAST 2X04</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=399a7112cf5e54c1</String></Pair></Table>
+<Table key="OUTCAST 2X05"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/OUTCAST.jpg</String></Pair><Pair key="title"><String>OUTCAST 2X05</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=9cbe5655310cc12</String></Pair></Table>
+<Table key="OUTCAST 2X06"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/OUTCAST.jpg</String></Pair><Pair key="title"><String>OUTCAST 2X06</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=3781acc5183f77fe</String></Pair></Table>
+<Table key="OUTCAST 2X07"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/OUTCAST.jpg</String></Pair><Pair key="title"><String>OUTCAST 2X07</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=209e9e8519a5081f</String></Pair></Table>
+<Table key="OUTCAST 2X08"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/OUTCAST.jpg</String></Pair><Pair key="title"><String>OUTCAST 2X08</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=3c3415e9788f6d7c</String></Pair></Table>
+<Table key="OUTCAST 2X09"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/OUTCAST.jpg</String></Pair><Pair key="title"><String>OUTCAST 2X09</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=bc656ceb72722a7a</String></Pair></Table>
+<Table key="OUTCAST 2X10"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/OUTCAST.jpg</String></Pair><Pair key="title"><String>OUTCAST 2X10</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=2df107f561b9bc32</String></Pair></Table>
+</Attributes>
+		<Items>
+<Item class="type:x-xmb/module-action" key="OUTCAST 1X01" attr="OUTCAST 1X01"/>
+<Item class="type:x-xmb/module-action" key="OUTCAST 1X02" attr="OUTCAST 1X02"/>
+<Item class="type:x-xmb/module-action" key="OUTCAST 1X03" attr="OUTCAST 1X03"/>
+<Item class="type:x-xmb/module-action" key="OUTCAST 1X04" attr="OUTCAST 1X04"/>
+<Item class="type:x-xmb/module-action" key="OUTCAST 1X05" attr="OUTCAST 1X05"/>
+<Item class="type:x-xmb/module-action" key="OUTCAST 1X06" attr="OUTCAST 1X06"/>
+<Item class="type:x-xmb/module-action" key="OUTCAST 1X07" attr="OUTCAST 1X07"/>
+<Item class="type:x-xmb/module-action" key="OUTCAST 1X08" attr="OUTCAST 1X08"/>
+<Item class="type:x-xmb/module-action" key="OUTCAST 1X09" attr="OUTCAST 1X09"/>
+<Item class="type:x-xmb/module-action" key="OUTCAST 1X10" attr="OUTCAST 1X10"/>
+<Item class="type:x-xmb/module-action" key="OUTCAST 2X01" attr="OUTCAST 2X01"/>
+<Item class="type:x-xmb/module-action" key="OUTCAST 2X02" attr="OUTCAST 2X02"/>
+<Item class="type:x-xmb/module-action" key="OUTCAST 2X03" attr="OUTCAST 2X03"/>
+<Item class="type:x-xmb/module-action" key="OUTCAST 2X04" attr="OUTCAST 2X04"/>
+<Item class="type:x-xmb/module-action" key="OUTCAST 2X05" attr="OUTCAST 2X05"/>
+<Item class="type:x-xmb/module-action" key="OUTCAST 2X06" attr="OUTCAST 2X06"/>
+<Item class="type:x-xmb/module-action" key="OUTCAST 2X07" attr="OUTCAST 2X07"/>
+<Item class="type:x-xmb/module-action" key="OUTCAST 2X08" attr="OUTCAST 2X08"/>
+<Item class="type:x-xmb/module-action" key="OUTCAST 2X09" attr="OUTCAST 2X09"/>
+<Item class="type:x-xmb/module-action" key="OUTCAST 2X10" attr="OUTCAST 2X10"/>
+</Items>
+	</View>
+
+</XMBML>		

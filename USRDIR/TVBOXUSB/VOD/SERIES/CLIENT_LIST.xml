@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<XMBML version="1.0">
+	
+	<!-- Main  > zeTVmod > Submenu -->
+	<View id="seg_tv_items">
+		<Attributes>
+<Table key="The Client List 1X01"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/CLIENT_LIST.jpg</String></Pair><Pair key="title"><String>The Client List 1X01</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>https://www.blogger.com/video-play.mp4?contentId=f5cad8f20893c2dc</String></Pair></Table>
+<Table key="The Client List 1X02"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/CLIENT_LIST.jpg</String></Pair><Pair key="title"><String>The Client List 1X02</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>https://www.blogger.com/video-play.mp4?contentId=96a23a39b73fe260</String></Pair></Table>
+<Table key="The Client List 1X03"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/CLIENT_LIST.jpg</String></Pair><Pair key="title"><String>The Client List 1X03</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>https://www.blogger.com/video-play.mp4?contentId=c8df136bd517d7c</String></Pair></Table>
+<Table key="The Client List 1X04"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/CLIENT_LIST.jpg</String></Pair><Pair key="title"><String>The Client List 1X04</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>https://www.blogger.com/video-play.mp4?contentId=b5c0dc7608333327</String></Pair></Table>
+<Table key="The Client List 1X05"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/CLIENT_LIST.jpg</String></Pair><Pair key="title"><String>The Client List 1X05</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>https://www.blogger.com/video-play.mp4?contentId=a2877351270df267</String></Pair></Table>
+<Table key="The Client List 1X06"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/CLIENT_LIST.jpg</String></Pair><Pair key="title"><String>The Client List 1X06</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>https://www.blogger.com/video-play.mp4?contentId=288967cdf01290bb</String></Pair></Table>
+<Table key="The Client List 1X07"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/CLIENT_LIST.jpg</String></Pair><Pair key="title"><String>The Client List 1X07</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>https://www.blogger.com/video-play.mp4?contentId=f7a1ae3051e2415c</String></Pair></Table>
+<Table key="The Client List 1X08"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/CLIENT_LIST.jpg</String></Pair><Pair key="title"><String>The Client List 1X08</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>https://www.blogger.com/video-play.mp4?contentId=578a567ffa985ced</String></Pair></Table>
+<Table key="The Client List 1X09"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/CLIENT_LIST.jpg</String></Pair><Pair key="title"><String>The Client List 1X09</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>https://www.blogger.com/video-play.mp4?contentId=413bfef6c84cc0d9</String></Pair></Table>
+<Table key="The Client List 1X10"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/CLIENT_LIST.jpg</String></Pair><Pair key="title"><String>The Client List 1X10</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>https://www.blogger.com/video-play.mp4?contentId=f66e4a673e26f304</String></Pair></Table>
+<Table key="The Client List 2X01 Leg"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/CLIENT_LIST.jpg</String></Pair><Pair key="title"><String>The Client List 2X01 Leg</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>https://www.blogger.com/video-play.mp4?contentId=2592ec449be7e511</String></Pair></Table>
+<Table key="The Client List 2X05 Leg"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/CLIENT_LIST.jpg</String></Pair><Pair key="title"><String>The Client List 2X05 Leg</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>https://www.blogger.com/video-play.mp4?contentId=3f610d08abcf87e2</String></Pair></Table>
+<Table key="The Client List 2X06 Leg"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/CLIENT_LIST.jpg</String></Pair><Pair key="title"><String>The Client List 2X06 Leg</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>https://www.blogger.com/video-play.mp4?contentId=d807e09e302c2684</String></Pair></Table>
+<Table key="The Client List 2X09 Leg"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/CLIENT_LIST.jpg</String></Pair><Pair key="title"><String>The Client List 2X09 Leg</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>https://www.blogger.com/video-play.mp4?contentId=a53dcae77e59459e</String></Pair></Table>
+<Table key="The Client List 2X10 Leg"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/CLIENT_LIST.jpg</String></Pair><Pair key="title"><String>The Client List 2X10 Leg</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>https://www.blogger.com/video-play.mp4?contentId=c51c4f2d66fd0372</String></Pair></Table>
+<Table key="The Client List 2X11 Leg"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/CLIENT_LIST.jpg</String></Pair><Pair key="title"><String>The Client List 2X11 Leg</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>https://www.blogger.com/video-play.mp4?contentId=43565110488ed289</String></Pair></Table>
+</Attributes>
+		<Items>
+<Item class="type:x-xmb/module-action" key="The Client List 1X01" attr="The Client List 1X01"/>
+<Item class="type:x-xmb/module-action" key="The Client List 1X02" attr="The Client List 1X02"/>
+<Item class="type:x-xmb/module-action" key="The Client List 1X03" attr="The Client List 1X03"/>
+<Item class="type:x-xmb/module-action" key="The Client List 1X04" attr="The Client List 1X04"/>
+<Item class="type:x-xmb/module-action" key="The Client List 1X05" attr="The Client List 1X05"/>
+<Item class="type:x-xmb/module-action" key="The Client List 1X06" attr="The Client List 1X06"/>
+<Item class="type:x-xmb/module-action" key="The Client List 1X07" attr="The Client List 1X07"/>
+<Item class="type:x-xmb/module-action" key="The Client List 1X08" attr="The Client List 1X08"/>
+<Item class="type:x-xmb/module-action" key="The Client List 1X09" attr="The Client List 1X09"/>
+<Item class="type:x-xmb/module-action" key="The Client List 1X10" attr="The Client List 1X10"/>
+<Item class="type:x-xmb/module-action" key="The Client List 2X01 Leg" attr="The Client List 2X01 Leg"/>
+<Item class="type:x-xmb/module-action" key="The Client List 2X05 Leg" attr="The Client List 2X05 Leg"/>
+<Item class="type:x-xmb/module-action" key="The Client List 2X06 Leg" attr="The Client List 2X06 Leg"/>
+<Item class="type:x-xmb/module-action" key="The Client List 2X09 Leg" attr="The Client List 2X09 Leg"/>
+<Item class="type:x-xmb/module-action" key="The Client List 2X10 Leg" attr="The Client List 2X10 Leg"/>
+<Item class="type:x-xmb/module-action" key="The Client List 2X11 Leg" attr="The Client List 2X11 Leg"/>
+</Items>
+	</View>
+
+</XMBML>		

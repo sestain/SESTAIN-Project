@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<XMBML version="1.0">
+	
+	<!-- Main  > zeTVmod > Submenu -->
+	<View id="seg_tv_items">
+		<Attributes>
+<Table key="SIREN T01E01 Leg"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/SIREN.jpg</String></Pair><Pair key="title"><String>SIREN T01E01 Leg</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=fcc3004dffcb348f</String></Pair></Table>
+<Table key="SIREN T01E02 Leg"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/SIREN.jpg</String></Pair><Pair key="title"><String>SIREN T01E02 Leg</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=11d6fc6041f73f89</String></Pair></Table>
+<Table key="SIREN T01E03 Leg"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/SIREN.jpg</String></Pair><Pair key="title"><String>SIREN T01E03 Leg</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=8599587942c2d1e6</String></Pair></Table>
+<Table key="SIREN T01E04 Leg"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/SIREN.jpg</String></Pair><Pair key="title"><String>SIREN T01E04 Leg</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=fd9efa73e90e44f7</String></Pair></Table>
+<Table key="SIREN T01E05 Leg"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/SIREN.jpg</String></Pair><Pair key="title"><String>SIREN T01E05 Leg</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=42c04c92f0959f25</String></Pair></Table>
+<Table key="SIREN T01E06 Leg"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/SIREN.jpg</String></Pair><Pair key="title"><String>SIREN T01E06 Leg</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=56c7ffcd6d00ade2</String></Pair></Table>
+<Table key="SIREN T01E07 Leg"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/SIREN.jpg</String></Pair><Pair key="title"><String>SIREN T01E07 Leg</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=b7ab040dcb576fb8</String></Pair></Table>
+<Table key="SIREN T01E08 Leg"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/SIREN.jpg</String></Pair><Pair key="title"><String>SIREN T01E08 Leg</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=f99862a45aa1846d</String></Pair></Table>
+<Table key="SIREN T01E09 Leg"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/SIREN.jpg</String></Pair><Pair key="title"><String>SIREN T01E09 Leg</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=cf9ac651e26ac0b0</String></Pair></Table>
+<Table key="SIREN T01E10 Leg"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/SIREN.jpg</String></Pair><Pair key="title"><String>SIREN T01E10 Leg</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=a2d0f28b8e995720</String></Pair></Table>
+</Attributes>
+		<Items>
+<Item class="type:x-xmb/module-action" key="SIREN T01E01 Leg" attr="SIREN T01E01 Leg"/>
+<Item class="type:x-xmb/module-action" key="SIREN T01E02 Leg" attr="SIREN T01E02 Leg"/>
+<Item class="type:x-xmb/module-action" key="SIREN T01E03 Leg" attr="SIREN T01E03 Leg"/>
+<Item class="type:x-xmb/module-action" key="SIREN T01E04 Leg" attr="SIREN T01E04 Leg"/>
+<Item class="type:x-xmb/module-action" key="SIREN T01E05 Leg" attr="SIREN T01E05 Leg"/>
+<Item class="type:x-xmb/module-action" key="SIREN T01E06 Leg" attr="SIREN T01E06 Leg"/>
+<Item class="type:x-xmb/module-action" key="SIREN T01E07 Leg" attr="SIREN T01E07 Leg"/>
+<Item class="type:x-xmb/module-action" key="SIREN T01E08 Leg" attr="SIREN T01E08 Leg"/>
+<Item class="type:x-xmb/module-action" key="SIREN T01E09 Leg" attr="SIREN T01E09 Leg"/>
+<Item class="type:x-xmb/module-action" key="SIREN T01E10 Leg" attr="SIREN T01E10 Leg"/>
+</Items>
+	</View>
+
+</XMBML>		

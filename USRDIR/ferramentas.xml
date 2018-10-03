@@ -1,0 +1,236 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<XMBML version="1.0">
+
+		<View id="ferramentas_items"> 
+		<Attributes> 
+			
+			<Table key="han_enabler_auto_main">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/tex_psn.png</String></Pair>
+				<Pair key="title"><String>HAN Enabler</String></Pair>
+				<Pair key="info"><String>Enable custom signed packages and licenses (CEX)</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>http://ps3xploit.com/autoxml/han/han_enabler_auto.html</String></Pair>
+			</Table>
+			<Table key="han_debug_auto_main">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/debug.png</String></Pair>
+				<Pair key="title"><String>Debug Package Enabler</String></Pair>
+				<Pair key="info"><String>For modified retail PS3 packages only</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>http://ps3xploit.com/autoxml/han/dbgpkg_enabler_auto.html</String></Pair>
+			</Table>
+			
+			<Table key="pkg_linker">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/package.png</String></Pair>
+				<Pair key="title"><String>PKG Linker2.0</String></Pair>
+				<Pair key="info"><String>Download and install PKG via PKG Linker 2.0 (Apache Required)</String></Pair>
+			</Table>
+           
+			<Table key="han_toolbox_about">
+				<Pair key="icon"><String>http://mrkal.fi/rick</String></Pair>
+				<Pair key="title"><String>SESTAIN Project v0.1.</String></Pair>
+				<Pair key="info"><String>Some Random Information That Isn't Needed.</String></Pair>
+			</Table>
+
+
+            
+         
+
+                          <Table key="pkg_installer">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/pendrive.png</String></Pair>
+				<Pair key="icon_notation"><String>WNT_XmbItemAlbum</String></Pair>
+				<Pair key="title"><String>PKG Installer USB</String></Pair>
+				<Pair key="info"><String>Install PKG files via USB</String></Pair>
+				<Pair key="ingame"><String>disable</String></Pair>
+			</Table>
+
+
+       
+
+                                                              
+            <Table key="update">
+                <Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/autoupdate.png</String></Pair>
+                <Pair key="title"><String>Auto Update SESTAIN Project</String></Pair>
+                <Pair key="info"><String>Enable debug to use update</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+
+
+<Table key="han_reboot_soft_auto">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/reboot.png</String></Pair>
+				<Pair key="title"><String>Soft Reboot</String></Pair>
+				<Pair key="info"><String>Restart console</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>http://www.ps3xploit.com/autoxml/pett/syscalls/power/soft_reboot.html</String></Pair>
+			</Table>
+
+                       <Table key="loja_usb">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/stores.png</String></Pair>
+				<Pair key="title"><String>Emulator Stores USB</String></Pair>
+				<Pair key="info"><String>Store emulator via USB via pendrive</String></Pair>
+				<Pair key="ingame"><String>disable</String></Pair>
+                            </Table>
+
+
+
+
+
+
+		</Attributes>
+			<Items>
+			
+			<Query 
+				class="type:x-xmb/module-action"
+				key="han_enabler_auto_main"
+				attr="han_enabler_auto_main"
+				/>
+                                  <Query 
+				class="type:x-xmb/module-action"
+				key="han_reboot_soft_auto"
+				attr="han_reboot_soft_auto"
+				/>
+
+                            <Query 
+				class="type:x-xmb/module-action"
+				key="han_debug_auto_main"
+				attr="han_debug_auto_main"
+				/>
+
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="pkg_linker" 
+				attr="pkg_linker"
+				src="xmb://localhost/dev_hdd0/game/PKGLINKER/USRDIR/package_link.xml#pkg_items"
+				/>
+
+
+
+
+		<Query
+
+           class="type:x-xmb/xmlpackagefolder"
+                key="loja_usb"
+                attr="loja_usb"
+                src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/category_game.xml#loja_usb_main"
+            />
+                            
+	
+
+            
+
+                       
+
+
+
+
+<Query
+                class="type:x-xmb/xmlpackagefolder"
+                key="pkg_installer"
+                attr="pkg_installer"
+                src="host://localhost/q?path=/dev_usb000&suffix=.pkg&subclass=x-host/package"
+            />
+
+
+
+        <Query
+                class="type:x-xmb/folder-pixmap"
+                key="update"
+                attr="update"
+                src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/update.xml#update_items"
+            />
+
+
+
+
+			</Items>
+		</View>
+		
+
+
+                              
+
+
+		
+		
+		
+		<View id="jogoseu_items"> 
+		<Attributes>
+            <Table key="psnstuff_C00_US">
+                <Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/demo.png</String></Pair>
+                <Pair key="title"><String>Demo Games</String></Pair>
+                <Pair key="info"><String></String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+            <Table key="psnstuff_PSN_EU">
+                <Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/stuff.png</String></Pair>
+                <Pair key="title"><String>Psn Games</String></Pair>
+                <Pair key="info"><String></String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+
+           <Table key="dlc_teste">
+                <Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/dlc.png</String></Pair>
+                <Pair key="title"><String>SESTAIN DLCs</String></Pair>
+                <Pair key="info"><String>SESTAIN Exclusive DLCs</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+
+
+           <Table key="psnstuff_us">
+                <Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/exclusivos.png</String></Pair>
+                <Pair key="title"><String>SESTAIN Exclusive Games</String></Pair>
+                <Pair key="info"><String>Games Compatible with SESTAIN DLCs</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+
+
+
+		</Attributes>
+		<Items>
+
+           <Query
+                class="type:x-xmb/folder-pixmap"
+                key="psnstuff_PSN_EU"
+                attr="psnstuff_PSN_EU"
+                src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/psnstuff_PSN_EU.xml#psnstuff_PSN_EU_items"
+            />
+            <Query
+                class="type:x-xmb/folder-pixmap"
+                key="psnstuff_C00_US"
+                attr="psnstuff_C00_US"
+                src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/C00_US.xml#C00_US_items"
+            />
+           
+
+              <Query
+                class="type:x-xmb/folder-pixmap"
+                key="psnstuff_us"
+                attr="psnstuff_us"
+                src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/psnstuff_us.xml#psnstuff_us_items"
+            />
+
+            <Query
+                class="type:x-xmb/folder-pixmap"
+                key="dlc_teste"
+                attr="dlc_teste"
+                src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/dlc_teste.xml#dlc_teste_items"
+            />
+
+           
+			</Items>
+		</View>
+		
+		
+
+
+
+
+
+
+
+
+
+
+
+		</XMBML>
+		

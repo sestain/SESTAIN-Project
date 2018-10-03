@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<XMBML version="1.0">
+	
+	<!-- Main  > zeTVmod > Submenu -->
+	<View id="seg_tv_items">
+		<Attributes>
+<Table key="T01EP1"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/STAR_TREK.jpg</String></Pair><Pair key="title"><String>T01EP1</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>https://www.blogger.com/video-play.mp4?contentId=acb68db4477c2b5c</String></Pair></Table>
+<Table key="T01EP2"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/STAR_TREK.jpg</String></Pair><Pair key="title"><String>T01EP2</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>https://www.blogger.com/video-play.mp4?contentId=6add3629a5600e94</String></Pair></Table>
+<Table key="T01EP3"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/STAR_TREK.jpg</String></Pair><Pair key="title"><String>T01EP3</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>https://www.blogger.com/video-play.mp4?contentId=ae7bb672331f3af4</String></Pair></Table>
+<Table key="T01EP4"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/STAR_TREK.jpg</String></Pair><Pair key="title"><String>T01EP4</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>https://www.blogger.com/video-play.mp4?contentId=4f9cde642e14c5d9</String></Pair></Table>
+<Table key="T01EP5"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/STAR_TREK.jpg</String></Pair><Pair key="title"><String>T01EP5</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>https://www.blogger.com/video-play.mp4?contentId=e80081c050f4dbdf</String></Pair></Table>
+<Table key="T01EP6"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/STAR_TREK.jpg</String></Pair><Pair key="title"><String>T01EP6</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>https://www.blogger.com/video-play.mp4?contentId=38fc3a511a2bbacc</String></Pair></Table>
+<Table key="T01EP7"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/STAR_TREK.jpg</String></Pair><Pair key="title"><String>T01EP7</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>https://www.blogger.com/video-play.mp4?contentId=53acfd2ff14b6f92</String></Pair></Table>
+<Table key="T01EP8"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/STAR_TREK.jpg</String></Pair><Pair key="title"><String>T01EP8</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>https://www.blogger.com/video-play.mp4?contentId=c4110402f40c76e9</String></Pair></Table>
+<Table key="T01EP9"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/STAR_TREK.jpg</String></Pair><Pair key="title"><String>T01EP9</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>https://www.blogger.com/video-play.mp4?contentId=2c850307fc4b06a8</String></Pair></Table>
+<Table key="T01EP10"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/STAR_TREK.jpg</String></Pair><Pair key="title"><String>T01EP10</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>https://www.blogger.com/video-play.mp4?contentId=687534586371e3b2</String></Pair></Table>
+<Table key="T01EP11"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/STAR_TREK.jpg</String></Pair><Pair key="title"><String>T01EP11</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>https://www.blogger.com/video-play.mp4?contentId=2e51ce698bba7591</String></Pair></Table>
+<Table key="T01EP12"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/STAR_TREK.jpg</String></Pair><Pair key="title"><String>T01EP12</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>https://www.blogger.com/video-play.mp4?contentId=723e060eef2244ea</String></Pair></Table>
+<Table key="T01EP13"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/STAR_TREK.jpg</String></Pair><Pair key="title"><String>T01EP13</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>https://www.blogger.com/video-play.mp4?contentId=4f7e7551949ed93a</String></Pair></Table>
+<Table key="T01EP14"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/STAR_TREK.jpg</String></Pair><Pair key="title"><String>T01EP14</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>https://www.blogger.com/video-play.mp4?contentId=9ee201761f49e502</String></Pair></Table>
+<Table key="T01EP15"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/STAR_TREK.jpg</String></Pair><Pair key="title"><String>T01EP15</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>https://www.blogger.com/video-play.mp4?contentId=f86b8b8145f015b3</String></Pair></Table>
+</Attributes>
+		<Items>
+<Item class="type:x-xmb/module-action" key="T01EP1" attr="T01EP1"/>
+<Item class="type:x-xmb/module-action" key="T01EP2" attr="T01EP2"/>
+<Item class="type:x-xmb/module-action" key="T01EP3" attr="T01EP3"/>
+<Item class="type:x-xmb/module-action" key="T01EP4" attr="T01EP4"/>
+<Item class="type:x-xmb/module-action" key="T01EP5" attr="T01EP5"/>
+<Item class="type:x-xmb/module-action" key="T01EP6" attr="T01EP6"/>
+<Item class="type:x-xmb/module-action" key="T01EP7" attr="T01EP7"/>
+<Item class="type:x-xmb/module-action" key="T01EP8" attr="T01EP8"/>
+<Item class="type:x-xmb/module-action" key="T01EP9" attr="T01EP9"/>
+<Item class="type:x-xmb/module-action" key="T01EP10" attr="T01EP10"/>
+<Item class="type:x-xmb/module-action" key="T01EP11" attr="T01EP11"/>
+<Item class="type:x-xmb/module-action" key="T01EP12" attr="T01EP12"/>
+<Item class="type:x-xmb/module-action" key="T01EP13" attr="T01EP13"/>
+<Item class="type:x-xmb/module-action" key="T01EP14" attr="T01EP14"/>
+<Item class="type:x-xmb/module-action" key="T01EP15" attr="T01EP15"/>
+</Items>
+	</View>
+
+</XMBML>		

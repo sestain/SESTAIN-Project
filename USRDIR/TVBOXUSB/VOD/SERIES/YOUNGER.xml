@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<XMBML version="1.0">
+	
+	<!-- Main  > zeTVmod > Submenu -->
+	<View id="seg_tv_items">
+		<Attributes>
+<Table key="YOUNGER 1X01"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/YOUNGER.jpg</String></Pair><Pair key="title"><String>YOUNGER 1X01</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=19c02431efcca5e0</String></Pair></Table>
+<Table key="YOUNGER 1X02"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/YOUNGER.jpg</String></Pair><Pair key="title"><String>YOUNGER 1X02</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=a30dd888bcbbb877</String></Pair></Table>
+<Table key="YOUNGER 1X03"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/YOUNGER.jpg</String></Pair><Pair key="title"><String>YOUNGER 1X03</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=cbcf47db641c9320</String></Pair></Table>
+<Table key="YOUNGER 1X04"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/YOUNGER.jpg</String></Pair><Pair key="title"><String>YOUNGER 1X04</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=c7df06f1b5602698</String></Pair></Table>
+<Table key="YOUNGER 1X05"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/YOUNGER.jpg</String></Pair><Pair key="title"><String>YOUNGER 1X05</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=aac54b098969d0f4</String></Pair></Table>
+<Table key="YOUNGER 1X06"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/YOUNGER.jpg</String></Pair><Pair key="title"><String>YOUNGER 1X06</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=80ebc4d15068b2e7</String></Pair></Table>
+<Table key="YOUNGER 1X07"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/YOUNGER.jpg</String></Pair><Pair key="title"><String>YOUNGER 1X07</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=18a4eb2370690d08</String></Pair></Table>
+<Table key="YOUNGER 1X08"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/YOUNGER.jpg</String></Pair><Pair key="title"><String>YOUNGER 1X08</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=b82903d745b96ec1</String></Pair></Table>
+<Table key="YOUNGER 1X09"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/YOUNGER.jpg</String></Pair><Pair key="title"><String>YOUNGER 1X09</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=497bb021230d3651</String></Pair></Table>
+<Table key="YOUNGER 1X10"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/YOUNGER.jpg</String></Pair><Pair key="title"><String>YOUNGER 1X10</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=22b0b674bd70a9b</String></Pair></Table>
+<Table key="YOUNGER 1X11"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/YOUNGER.jpg</String></Pair><Pair key="title"><String>YOUNGER 1X11</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=ba4228cc1cb894f7</String></Pair></Table>
+<Table key="YOUNGER 1X12"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/YOUNGER.jpg</String></Pair><Pair key="title"><String>YOUNGER 1X12</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=b03c59baea860efe</String></Pair></Table>
+</Attributes>
+		<Items>
+<Item class="type:x-xmb/module-action" key="YOUNGER 1X01" attr="YOUNGER 1X01"/>
+<Item class="type:x-xmb/module-action" key="YOUNGER 1X02" attr="YOUNGER 1X02"/>
+<Item class="type:x-xmb/module-action" key="YOUNGER 1X03" attr="YOUNGER 1X03"/>
+<Item class="type:x-xmb/module-action" key="YOUNGER 1X04" attr="YOUNGER 1X04"/>
+<Item class="type:x-xmb/module-action" key="YOUNGER 1X05" attr="YOUNGER 1X05"/>
+<Item class="type:x-xmb/module-action" key="YOUNGER 1X06" attr="YOUNGER 1X06"/>
+<Item class="type:x-xmb/module-action" key="YOUNGER 1X07" attr="YOUNGER 1X07"/>
+<Item class="type:x-xmb/module-action" key="YOUNGER 1X08" attr="YOUNGER 1X08"/>
+<Item class="type:x-xmb/module-action" key="YOUNGER 1X09" attr="YOUNGER 1X09"/>
+<Item class="type:x-xmb/module-action" key="YOUNGER 1X10" attr="YOUNGER 1X10"/>
+<Item class="type:x-xmb/module-action" key="YOUNGER 1X11" attr="YOUNGER 1X11"/>
+<Item class="type:x-xmb/module-action" key="YOUNGER 1X12" attr="YOUNGER 1X12"/>
+</Items>
+	</View>
+
+</XMBML>		

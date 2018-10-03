@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<XMBML version="1.0">
+	
+	<!-- Main  > zeTVmod > Submenu -->
+	<View id="seg_tv_items">
+		<Attributes>
+<Table key="SPARTACUS GODS OF THE ARENA 3x01"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/SPARTACUS_GOTHA.jpg</String></Pair><Pair key="title"><String>SPARTACUS GODS OF THE ARENA 3x01</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=65ba54fbd0cec66d</String></Pair></Table>
+<Table key="SPARTACUS GODS OF THE ARENA 3x02"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/SPARTACUS_GOTHA.jpg</String></Pair><Pair key="title"><String>SPARTACUS GODS OF THE ARENA 3x02</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=9a14c2ff87e98e0f</String></Pair></Table>
+<Table key="SPARTACUS GODS OF THE ARENA 3x03"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/SPARTACUS_GOTHA.jpg</String></Pair><Pair key="title"><String>SPARTACUS GODS OF THE ARENA 3x03</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=f5386aea38b5c00b</String></Pair></Table>
+<Table key="SPARTACUS GODS OF THE ARENA 3x04"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/SPARTACUS_GOTHA.jpg</String></Pair><Pair key="title"><String>SPARTACUS GODS OF THE ARENA 3x04</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=fcbffbd80e7b07d5</String></Pair></Table>
+<Table key="SPARTACUS GODS OF THE ARENA 3x05"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/SPARTACUS_GOTHA.jpg</String></Pair><Pair key="title"><String>SPARTACUS GODS OF THE ARENA 3x05</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=d24a217688c4fc2</String></Pair></Table>
+<Table key="SPARTACUS GODS OF THE ARENA 3x06"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/SPARTACUS_GOTHA.jpg</String></Pair><Pair key="title"><String>SPARTACUS GODS OF THE ARENA 3x06</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=f30d4edd0cc29985</String></Pair></Table>
+</Attributes>
+		<Items>
+<Item class="type:x-xmb/module-action" key="SPARTACUS GODS OF THE ARENA 3x01" attr="SPARTACUS GODS OF THE ARENA 3x01"/>
+<Item class="type:x-xmb/module-action" key="SPARTACUS GODS OF THE ARENA 3x02" attr="SPARTACUS GODS OF THE ARENA 3x02"/>
+<Item class="type:x-xmb/module-action" key="SPARTACUS GODS OF THE ARENA 3x03" attr="SPARTACUS GODS OF THE ARENA 3x03"/>
+<Item class="type:x-xmb/module-action" key="SPARTACUS GODS OF THE ARENA 3x04" attr="SPARTACUS GODS OF THE ARENA 3x04"/>
+<Item class="type:x-xmb/module-action" key="SPARTACUS GODS OF THE ARENA 3x05" attr="SPARTACUS GODS OF THE ARENA 3x05"/>
+<Item class="type:x-xmb/module-action" key="SPARTACUS GODS OF THE ARENA 3x06" attr="SPARTACUS GODS OF THE ARENA 3x06"/>
+</Items>
+	</View>
+
+</XMBML>		

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<XMBML version="1.0">
+	
+	<!-- Main  > zeTVmod > Submenu -->
+	<View id="seg_tv_items">
+		<Attributes>
+<Table key="SHARP OBJETS 1TEMPORADA 1X02 Dub"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/SHARP_OBJETS.jpg</String></Pair><Pair key="title"><String>SHARP OBJETS 1TEMPORADA 1X02 Dub</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=35a224d657270a95</String></Pair></Table>
+<Table key="SHARP OBJETS 1TEMPORADA 1X03 Dub"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/SHARP_OBJETS.jpg</String></Pair><Pair key="title"><String>SHARP OBJETS 1TEMPORADA 1X03 Dub</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=ab9519dfc8255796</String></Pair></Table>
+<Table key="SHARP OBJETS 1TEMPORADA 1X04 Dub"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/SHARP_OBJETS.jpg</String></Pair><Pair key="title"><String>SHARP OBJETS 1TEMPORADA 1X04 Dub</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=511dd47df7a1ebf1</String></Pair></Table>
+<Table key="SHARP OBJETS 1TEMPORADA 1X05 Leg"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/SHARP_OBJETS.jpg</String></Pair><Pair key="title"><String>SHARP OBJETS 1TEMPORADA 1X05 Leg</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=4694cdcaec0dbd02</String></Pair></Table>
+</Attributes>
+		<Items>
+<Item class="type:x-xmb/module-action" key="SHARP OBJETS 1TEMPORADA 1X02 Dub" attr="SHARP OBJETS 1TEMPORADA 1X02 Dub"/>
+<Item class="type:x-xmb/module-action" key="SHARP OBJETS 1TEMPORADA 1X03 Dub" attr="SHARP OBJETS 1TEMPORADA 1X03 Dub"/>
+<Item class="type:x-xmb/module-action" key="SHARP OBJETS 1TEMPORADA 1X04 Dub" attr="SHARP OBJETS 1TEMPORADA 1X04 Dub"/>
+<Item class="type:x-xmb/module-action" key="SHARP OBJETS 1TEMPORADA 1X05 Leg" attr="SHARP OBJETS 1TEMPORADA 1X05 Leg"/>
+</Items>
+	</View>
+
+</XMBML>		

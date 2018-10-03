@@ -1,0 +1,1152 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<XMBML version="1.0">
+
+    <!-- Main  > zeTVmod > Submenu -->
+    <View id="seg_tv2_items">
+        <Attributes>
+            <Table key=" 10000 B,C   , 10000 B,C   ">
+                <Pair key="icon">
+                    <String>/dev_hdd0/game/HANTOOLBX/USRDIR/tv.png</String>
+                </Pair>
+                <Pair key="title">
+                    <String> 10000 B,C , 10000 B,C </String>
+                </Pair>
+                <Pair key="module_name">
+                    <String>webbrowser_plugin</String>
+                </Pair>
+                <Pair key="module_action">
+                    <String>https://movies1.ottmex.com/disk1/accion/10000.MP4</String>
+                </Pair>
+            </Table>
+            <Table key=" 12 Rounds 3 Lockdown   , 12 Rounds 3 Lockdown   ">
+                <Pair key="icon">
+                    <String>/dev_hdd0/game/HANTOOLBX/USRDIR/tv.png</String>
+                </Pair>
+                <Pair key="title">
+                    <String> 12 Rounds 3 Lockdown , 12 Rounds 3 Lockdown </String>
+                </Pair>
+                <Pair key="module_name">
+                    <String>webbrowser_plugin</String>
+                </Pair>
+                <Pair key="module_action">
+                    <String>https://movies1.ottmex.com/disk1/accion/12.r0unds.3.l0ckd0wn.2016.dvdrip.latino.gnula1.mp4.mp4</String>
+                </Pair>
+            </Table>
+            <Table key=" 13 Guerreros   , 13 Guerreros   ">
+                <Pair key="icon">
+                    <String>/dev_hdd0/game/HANTOOLBX/USRDIR/tv.png</String>
+                </Pair>
+                <Pair key="title">
+                    <String> 13 Guerreros , 13 Guerreros </String>
+                </Pair>
+                <Pair key="module_name">
+                    <String>webbrowser_plugin</String>
+                </Pair>
+                <Pair key="module_action">
+                    <String>https://movies1.ottmex.com/disk1/accion/13guerreros.MP4</String>
+                </Pair>
+            </Table>
+            <Table key=" Todo Poderoso   , Todo Poderoso   ">
+                <Pair key="icon">
+                    <String>/dev_hdd0/game/HANTOOLBX/USRDIR/tv.png</String>
+                </Pair>
+                <Pair key="title">
+                    <String> Todo Poderoso , Todo Poderoso </String>
+                </Pair>
+                <Pair key="module_name">
+                    <String>webbrowser_plugin</String>
+                </Pair>
+                <Pair key="module_action">
+                    <String>https://bit.ly/2GajoTS</String>
+                </Pair>
+            </Table>
+            <Table key=" American Pie   , American Pie   ">
+                <Pair key="icon">
+                    <String>/dev_hdd0/game/HANTOOLBX/USRDIR/tv.png</String>
+                </Pair>
+                <Pair key="title">
+                    <String> American Pie , American Pie </String>
+                </Pair>
+                <Pair key="module_name">
+                    <String>webbrowser_plugin</String>
+                </Pair>
+                <Pair key="module_action">
+                    <String>http://s85.youtaker.com/flv/2018/4-6/mp4680315038bc5b284192c4e0185e94385c963cf4785.mp4</String>
+                </Pair>
+            </Table>
+            <Table key=" La Leyenda de la Nahuala   , La Leyenda de la Nahuala   ">
+                <Pair key="icon">
+                    <String>/dev_hdd0/game/HANTOOLBX/USRDIR/tv.png</String>
+                </Pair>
+                <Pair key="title">
+                    <String> La Leyenda de la Nahuala , La Leyenda de la Nahuala </String>
+                </Pair>
+                <Pair key="module_name">
+                    <String>webbrowser_plugin</String>
+                </Pair>
+                <Pair key="module_action">
+                    <String>https://ia800809.us.archive.org/15/items/LaLeyendaDeLaNahuala/La%20Leyenda%20De%20La%20Nahuala.mp4</String>
+                </Pair>
+            </Table>
+            <Table key=" Mulan   , Mulan   ">
+                <Pair key="icon">
+                    <String>/dev_hdd0/game/HANTOOLBX/USRDIR/tv.png</String>
+                </Pair>
+                <Pair key="title">
+                    <String> Mulan , Mulan </String>
+                </Pair>
+                <Pair key="module_name">
+                    <String>webbrowser_plugin</String>
+                </Pair>
+                <Pair key="module_action">
+                    <String>https://movies1.ottmex.com/disk1/drama/Mulan.2009.mp4</String>
+                </Pair>
+            </Table>
+            <Table key=" Que Culpa Tiene el Nino   , Que Culpa Tiene el Nino   ">
+                <Pair key="icon">
+                    <String>/dev_hdd0/game/HANTOOLBX/USRDIR/tv.png</String>
+                </Pair>
+                <Pair key="title">
+                    <String> Que Culpa Tiene el Nino , Que Culpa Tiene el Nino </String>
+                </Pair>
+                <Pair key="module_name">
+                    <String>webbrowser_plugin</String>
+                </Pair>
+                <Pair key="module_action">
+                    <String>https://ia800805.us.archive.org/10/items/QueCulpaTieneElNio_201709/que%20culpa%20tiene%20el%20ni%C3%B1o.mp4</String>
+                </Pair>
+            </Table>
+            <Table key=" Terminator 2   , Terminator 2   ">
+                <Pair key="icon">
+                    <String>/dev_hdd0/game/HANTOOLBX/USRDIR/tv.png</String>
+                </Pair>
+                <Pair key="title">
+                    <String> Terminator 2 , Terminator 2 </String>
+                </Pair>
+                <Pair key="module_name">
+                    <String>webbrowser_plugin</String>
+                </Pair>
+                <Pair key="module_action">
+                    <String>https://movies1.ottmex.com/vod/peliculas/sci-fi/Terminator.2.mp4</String>
+                </Pair>
+            </Table>
+            <Table key=" Charlie y La Fabrica de Chocolate | JAIDERFLIX  , Charlie y La Fabrica de Chocolate | JAIDERFLIX  ">
+                <Pair key="icon">
+                    <String>/dev_hdd0/game/HANTOOLBX/USRDIR/tv.png</String>
+                </Pair>
+                <Pair key="title">
+                    <String> Charlie y La Fabrica de Chocolate | JAIDERFLIX , Charlie y La Fabrica de Chocolate | JAIDERFLIX </String>
+                </Pair>
+                <Pair key="module_name">
+                    <String>webbrowser_plugin</String>
+                </Pair>
+                <Pair key="module_action">
+                    <String>https://movies1.ottmex.com/disk1/infantiles/charlieylafabricadechocolate.mp4</String>
+                </Pair>
+            </Table>
+            <Table key=" 3 idiotas   , 3 idiotas   ">
+                <Pair key="icon">
+                    <String>/dev_hdd0/game/HANTOOLBX/USRDIR/tv.png</String>
+                </Pair>
+                <Pair key="title">
+                    <String> 3 idiotas , 3 idiotas </String>
+                </Pair>
+                <Pair key="module_name">
+                    <String>webbrowser_plugin</String>
+                </Pair>
+                <Pair key="module_action">
+                    <String>http://srregio.xyz/regioflix/3idiotas.mp4</String>
+                </Pair>
+            </Table>
+            <Table key=" Operacion Red Sparrow   , Operacion Red Sparrow   ">
+                <Pair key="icon">
+                    <String>/dev_hdd0/game/HANTOOLBX/USRDIR/tv.png</String>
+                </Pair>
+                <Pair key="title">
+                    <String> Operacion Red Sparrow , Operacion Red Sparrow </String>
+                </Pair>
+                <Pair key="module_name">
+                    <String>webbrowser_plugin</String>
+                </Pair>
+                <Pair key="module_action">
+                    <String>http://regiotv.xyz/regioflix/redsparrow.mp4</String>
+                </Pair>
+            </Table>
+            <Table key=" Anon   , Anon   ">
+                <Pair key="icon">
+                    <String>/dev_hdd0/game/HANTOOLBX/USRDIR/tv.png</String>
+                </Pair>
+                <Pair key="title">
+                    <String> Anon , Anon </String>
+                </Pair>
+                <Pair key="module_name">
+                    <String>webbrowser_plugin</String>
+                </Pair>
+                <Pair key="module_action">
+                    <String>http://srregio.xyz/regioflix/anon.mp4</String>
+                </Pair>
+            </Table>
+            <Table key=" Samson   , Samson   ">
+                <Pair key="icon">
+                    <String>/dev_hdd0/game/HANTOOLBX/USRDIR/tv.png</String>
+                </Pair>
+                <Pair key="title">
+                    <String> Samson , Samson </String>
+                </Pair>
+                <Pair key="module_name">
+                    <String>webbrowser_plugin</String>
+                </Pair>
+                <Pair key="module_action">
+                    <String>http://srregio.xyz/regioflix/samson.mp4</String>
+                </Pair>
+            </Table>
+            <Table key=" 15:17 Tren a Paris   , 15:17 Tren a Paris   ">
+                <Pair key="icon">
+                    <String>/dev_hdd0/game/HANTOOLBX/USRDIR/tv.png</String>
+                </Pair>
+                <Pair key="title">
+                    <String> 15:17 Tren a Paris , 15:17 Tren a Paris </String>
+                </Pair>
+                <Pair key="module_name">
+                    <String>webbrowser_plugin</String>
+                </Pair>
+                <Pair key="module_action">
+                    <String>http://srregio.xyz/regioflix/trenaparis.mp4</String>
+                </Pair>
+            </Table>
+            <Table key="LA MASACRE DE TEXAS (1974)   ,LA MASACRE DE TEXAS (1974)   ">
+                <Pair key="icon">
+                    <String>/dev_hdd0/game/HANTOOLBX/USRDIR/tv.png</String>
+                </Pair>
+                <Pair key="title">
+                    <String>LA MASACRE DE TEXAS (1974) ,LA MASACRE DE TEXAS (1974) </String>
+                </Pair>
+                <Pair key="module_name">
+                    <String>webbrowser_plugin</String>
+                </Pair>
+                <Pair key="module_action">
+                    <String>https://ia800602.us.archive.org/22/items/col.mas.tex/La%20Masacre%20de%20Texas%201%20%281974%29.mp4</String>
+                </Pair>
+            </Table>
+            <Table key="LA MASACRE DE TEXAS 2 (1986)   ,LA MASACRE DE TEXAS 2 (1986)   ">
+                <Pair key="icon">
+                    <String>/dev_hdd0/game/HANTOOLBX/USRDIR/tv.png</String>
+                </Pair>
+                <Pair key="title">
+                    <String>LA MASACRE DE TEXAS 2 (1986) ,LA MASACRE DE TEXAS 2 (1986) </String>
+                </Pair>
+                <Pair key="module_name">
+                    <String>webbrowser_plugin</String>
+                </Pair>
+                <Pair key="module_action">
+                    <String>https://ia800602.us.archive.org/22/items/col.mas.tex/LaMasacreDeTexas21986.mp4</String>
+                </Pair>
+            </Table>
+            <Table key="LA MASACRE DE TEXAS 3 (1990)   ,LA MASACRE DE TEXAS 3 (1990)   ">
+                <Pair key="icon">
+                    <String>/dev_hdd0/game/HANTOOLBX/USRDIR/tv.png</String>
+                </Pair>
+                <Pair key="title">
+                    <String>LA MASACRE DE TEXAS 3 (1990) ,LA MASACRE DE TEXAS 3 (1990) </String>
+                </Pair>
+                <Pair key="module_name">
+                    <String>webbrowser_plugin</String>
+                </Pair>
+                <Pair key="module_action">
+                    <String>https://ia800602.us.archive.org/22/items/col.mas.tex/LaMasacreDeTexas31990.mp4</String>
+                </Pair>
+            </Table>
+            <Table key="LA MASACRE DE TEXAS LA NUEVA GENERACION (1994)   ,LA MASACRE DE TEXAS LA NUEVA GENERACION (1994)   ">
+                <Pair key="icon">
+                    <String>/dev_hdd0/game/HANTOOLBX/USRDIR/tv.png</String>
+                </Pair>
+                <Pair key="title">
+                    <String>LA MASACRE DE TEXAS LA NUEVA GENERACION (1994) ,LA MASACRE DE TEXAS LA NUEVA GENERACION (1994) </String>
+                </Pair>
+                <Pair key="module_name">
+                    <String>webbrowser_plugin</String>
+                </Pair>
+                <Pair key="module_action">
+                    <String>https://ia800602.us.archive.org/22/items/col.mas.tex/LaMasacreDeTexas41994LaNuevaGeneracion.mp4</String>
+                </Pair>
+            </Table>
+            <Table key="LA MASACRE DE TEXAS (2003)   ,LA MASACRE DE TEXAS (2003)   ">
+                <Pair key="icon">
+                    <String>/dev_hdd0/game/HANTOOLBX/USRDIR/tv.png</String>
+                </Pair>
+                <Pair key="title">
+                    <String>LA MASACRE DE TEXAS (2003) ,LA MASACRE DE TEXAS (2003) </String>
+                </Pair>
+                <Pair key="module_name">
+                    <String>webbrowser_plugin</String>
+                </Pair>
+                <Pair key="module_action">
+                    <String>https://ia600602.us.archive.org/22/items/col.mas.tex/LaMasacreDeTexas52003RemakeParte1.mp4</String>
+                </Pair>
+            </Table>
+            <Table key="LA MASACRE DE TEXAS EL INICIO (2006)   ,LA MASACRE DE TEXAS EL INICIO (2006)   ">
+                <Pair key="icon">
+                    <String>/dev_hdd0/game/HANTOOLBX/USRDIR/tv.png</String>
+                </Pair>
+                <Pair key="title">
+                    <String>LA MASACRE DE TEXAS EL INICIO (2006) ,LA MASACRE DE TEXAS EL INICIO (2006) </String>
+                </Pair>
+                <Pair key="module_name">
+                    <String>webbrowser_plugin</String>
+                </Pair>
+                <Pair key="module_action">
+                    <String>https://ia800602.us.archive.org/22/items/col.mas.tex/LaMasacreDeTexas62006ElInicio-RemakeParte2.mp4</String>
+                </Pair>
+            </Table>
+            <Table key="LA MASACRE DE TEXAS HERENCIA MALDITA (2013)    ,LA MASACRE DE TEXAS HERENCIA MALDITA (2013)    ">
+                <Pair key="icon">
+                    <String>/dev_hdd0/game/HANTOOLBX/USRDIR/tv.png</String>
+                </Pair>
+                <Pair key="title">
+                    <String>LA MASACRE DE TEXAS HERENCIA MALDITA (2013) ,LA MASACRE DE TEXAS HERENCIA MALDITA (2013) </String>
+                </Pair>
+                <Pair key="module_name">
+                    <String>webbrowser_plugin</String>
+                </Pair>
+                <Pair key="module_action">
+                    <String>https://ia800602.us.archive.org/22/items/col.mas.tex/LaMasacreDeTexas720133d.mp4</String>
+                </Pair>
+            </Table>
+            <Table key=" La Fuerza De La Ilusion   , La Fuerza De La Ilusion   ">
+                <Pair key="icon">
+                    <String>/dev_hdd0/game/HANTOOLBX/USRDIR/tv.png</String>
+                </Pair>
+                <Pair key="title">
+                    <String> La Fuerza De La Ilusion , La Fuerza De La Ilusion </String>
+                </Pair>
+                <Pair key="module_name">
+                    <String>webbrowser_plugin</String>
+                </Pair>
+                <Pair key="module_action">
+                    <String>https://archive.org/download/LFdlISRREGIO/LFdlISRREGIO.mp4</String>
+                </Pair>
+            </Table>
+            <Table key=" Cuando nos Conocimos   , Cuando nos Conocimos   ">
+                <Pair key="icon">
+                    <String>/dev_hdd0/game/HANTOOLBX/USRDIR/tv.png</String>
+                </Pair>
+                <Pair key="title">
+                    <String> Cuando nos Conocimos , Cuando nos Conocimos </String>
+                </Pair>
+                <Pair key="module_name">
+                    <String>webbrowser_plugin</String>
+                </Pair>
+                <Pair key="module_action">
+                    <String>https://archive.org/download/CuNoCoSRREGIO/CuNoCoSRREGIO.mp4</String>
+                </Pair>
+            </Table>
+            <Table key=" La Forma del Agua SUBTITULADO   , La Forma del Agua SUBTITULADO   ">
+                <Pair key="icon">
+                    <String>/dev_hdd0/game/HANTOOLBX/USRDIR/tv.png</String>
+                </Pair>
+                <Pair key="title">
+                    <String> La Forma del Agua SUBTITULADO , La Forma del Agua SUBTITULADO </String>
+                </Pair>
+                <Pair key="module_name">
+                    <String>webbrowser_plugin</String>
+                </Pair>
+                <Pair key="module_action">
+                    <String>https://archive.org/download/ThSRREGIO_201802/ThSRREGIO.mp4</String>
+                </Pair>
+            </Table>
+            <Table key=" Nosotros Los Nobles   ">
+                <Pair key="icon">
+                    <String>/dev_hdd0/game/HANTOOLBX/USRDIR/tv.png</String>
+                </Pair>
+                <Pair key="title">
+                    <String> Nosotros Los Nobles </String>
+                </Pair>
+                <Pair key="module_name">
+                    <String>webbrowser_plugin</String>
+                </Pair>
+                <Pair key="module_action">
+                    <String>https://archive.org/download/NoLoNoSRREGIO_20180212/NoLoNoSRREGIO.mp4</String>
+                </Pair>
+            </Table>
+            <Table key=" The Cloverfield Paradox   , The Cloverfield Paradox   ">
+                <Pair key="icon">
+                    <String>/dev_hdd0/game/HANTOOLBX/USRDIR/tv.png</String>
+                </Pair>
+                <Pair key="title">
+                    <String> The Cloverfield Paradox , The Cloverfield Paradox </String>
+                </Pair>
+                <Pair key="module_name">
+                    <String>webbrowser_plugin</String>
+                </Pair>
+                <Pair key="module_action">
+                    <String>https://ia801509.us.archive.org/32/items/tcSRREGIO/tcSRREGIO.mp4</String>
+                </Pair>
+            </Table>
+            <Table key=" Terminus   , Terminus   ">
+                <Pair key="icon">
+                    <String>/dev_hdd0/game/HANTOOLBX/USRDIR/tv.png</String>
+                </Pair>
+                <Pair key="title">
+                    <String> Terminus , Terminus </String>
+                </Pair>
+                <Pair key="module_name">
+                    <String>webbrowser_plugin</String>
+                </Pair>
+                <Pair key="module_action">
+                    <String>https://archive.org/download/TerSSRREGIO/TerSSRREGIO.mp4</String>
+                </Pair>
+            </Table>
+            <Table key=" Deadpool   , Deadpool   ">
+                <Pair key="icon">
+                    <String>/dev_hdd0/game/HANTOOLBX/USRDIR/tv.png</String>
+                </Pair>
+                <Pair key="title">
+                    <String> Deadpool , Deadpool </String>
+                </Pair>
+                <Pair key="module_name">
+                    <String>webbrowser_plugin</String>
+                </Pair>
+                <Pair key="module_action">
+                    <String>https://archive.org/download/DeSRREGIO_201802/DeSRREGIO.mp4</String>
+                </Pair>
+            </Table>
+            <Table key=" Intensamente   , Intensamente   ">
+                <Pair key="icon">
+                    <String>/dev_hdd0/game/HANTOOLBX/USRDIR/tv.png</String>
+                </Pair>
+                <Pair key="title">
+                    <String> Intensamente , Intensamente </String>
+                </Pair>
+                <Pair key="module_name">
+                    <String>webbrowser_plugin</String>
+                </Pair>
+                <Pair key="module_action">
+                    <String>https://archive.org/download/IntMSRREGIO/IntMSRREGIO.mp4</String>
+                </Pair>
+            </Table>
+            <Table key=" JIGSAW VIII   , JIGSAW VIII   ">
+                <Pair key="icon">
+                    <String>/dev_hdd0/game/HANTOOLBX/USRDIR/tv.png</String>
+                </Pair>
+                <Pair key="title">
+                    <String> JIGSAW VIII , JIGSAW VIII </String>
+                </Pair>
+                <Pair key="module_name">
+                    <String>webbrowser_plugin</String>
+                </Pair>
+                <Pair key="module_action">
+                    <String>https://archive.org/download/JS8SRREGIO_201801/JS8SRREGIO.mp4</String>
+                </Pair>
+            </Table>
+            <Table key=" Doctor Strange   , Doctor Strange   ">
+                <Pair key="icon">
+                    <String>/dev_hdd0/game/HANTOOLBX/USRDIR/tv.png</String>
+                </Pair>
+                <Pair key="title">
+                    <String> Doctor Strange , Doctor Strange </String>
+                </Pair>
+                <Pair key="module_name">
+                    <String>webbrowser_plugin</String>
+                </Pair>
+                <Pair key="module_action">
+                    <String>https://ia801505.us.archive.org/11/items/dsSRREGIO/dsSRREGIO.mp4</String>
+                </Pair>
+            </Table>
+            <Table key=" Redada Asesina   , Redada Asesina   ">
+                <Pair key="icon">
+                    <String>/dev_hdd0/game/HANTOOLBX/USRDIR/tv.png</String>
+                </Pair>
+                <Pair key="title">
+                    <String> Redada Asesina , Redada Asesina </String>
+                </Pair>
+                <Pair key="module_name">
+                    <String>webbrowser_plugin</String>
+                </Pair>
+                <Pair key="module_action">
+                    <String>https://archive.org/download/ReAsSRREGIO/ReAsSRREGIO.mp4</String>
+                </Pair>
+            </Table>
+            <Table key=" SAW VIII SUBTITULADO   , SAW VIII SUBTITULADO   ">
+                <Pair key="icon">
+                    <String>/dev_hdd0/game/HANTOOLBX/USRDIR/tv.png</String>
+                </Pair>
+                <Pair key="title">
+                    <String> SAW VIII SUBTITULADO , SAW VIII SUBTITULADO </String>
+                </Pair>
+                <Pair key="module_name">
+                    <String>webbrowser_plugin</String>
+                </Pair>
+                <Pair key="module_action">
+                    <String>https://archive.org/download/SVIIISRREGIO/SVIIISRREGIO.mp4</String>
+                </Pair>
+            </Table>
+            <Table key=" Konvert SUBTITULADO   , Konvert SUBTITULADO   ">
+                <Pair key="icon">
+                    <String>/dev_hdd0/game/HANTOOLBX/USRDIR/tv.png</String>
+                </Pair>
+                <Pair key="title">
+                    <String> Konvert SUBTITULADO , Konvert SUBTITULADO </String>
+                </Pair>
+                <Pair key="module_name">
+                    <String>webbrowser_plugin</String>
+                </Pair>
+                <Pair key="module_action">
+                    <String>https://archive.org/download/KonSRREGIO/KonSRREGIO.mp4</String>
+                </Pair>
+            </Table>
+            <Table key=" Civil War   , Civil War   ">
+                <Pair key="icon">
+                    <String>/dev_hdd0/game/HANTOOLBX/USRDIR/tv.png</String>
+                </Pair>
+                <Pair key="title">
+                    <String> Civil War , Civil War </String>
+                </Pair>
+                <Pair key="module_name">
+                    <String>webbrowser_plugin</String>
+                </Pair>
+                <Pair key="module_action">
+                    <String>https://archive.org/download/CiWaSRREGIO/CiWaSRREGIO.mp4</String>
+                </Pair>
+            </Table>
+            <Table key=" Por que el   , Por que el   ">
+                <Pair key="icon">
+                    <String>/dev_hdd0/game/HANTOOLBX/USRDIR/tv.png</String>
+                </Pair>
+                <Pair key="title">
+                    <String> Por que el , Por que el </String>
+                </Pair>
+                <Pair key="module_name">
+                    <String>webbrowser_plugin</String>
+                </Pair>
+                <Pair key="module_action">
+                    <String>https://archive.org/download/XQESRREGIO/XQESRREGIO.mp4</String>
+                </Pair>
+            </Table>
+            <Table key=" Amigos Intocables   , Amigos Intocables   ">
+                <Pair key="icon">
+                    <String>/dev_hdd0/game/HANTOOLBX/USRDIR/tv.png</String>
+                </Pair>
+                <Pair key="title">
+                    <String> Amigos Intocables , Amigos Intocables </String>
+                </Pair>
+                <Pair key="module_name">
+                    <String>webbrowser_plugin</String>
+                </Pair>
+                <Pair key="module_action">
+                    <String>https://archive.org/download/AmInSRREGIO/AmInSRREGIO.mp4</String>
+                </Pair>
+            </Table>
+            <Table key=" La Vida En Juego   , La Vida En Juego   ">
+                <Pair key="icon">
+                    <String>/dev_hdd0/game/HANTOOLBX/USRDIR/tv.png</String>
+                </Pair>
+                <Pair key="title">
+                    <String> La Vida En Juego , La Vida En Juego </String>
+                </Pair>
+                <Pair key="module_name">
+                    <String>webbrowser_plugin</String>
+                </Pair>
+                <Pair key="module_action">
+                    <String>https://archive.org/download/LaViEJuSRREGIO/LaViEJuSRREGIO.mp4</String>
+                </Pair>
+            </Table>
+            <Table key=" Lowriders (Subtitulada)   , Lowriders (Subtitulada)   ">
+                <Pair key="icon">
+                    <String>/dev_hdd0/game/HANTOOLBX/USRDIR/tv.png</String>
+                </Pair>
+                <Pair key="title">
+                    <String> Lowriders (Subtitulada) , Lowriders (Subtitulada) </String>
+                </Pair>
+                <Pair key="module_name">
+                    <String>webbrowser_plugin</String>
+                </Pair>
+                <Pair key="module_action">
+                    <String>https://archive.org/download/LowSRREGIO/LowSRREGIO.mp4</String>
+                </Pair>
+            </Table>
+            <Table key=" Battleship Batalla Naval   , Battleship Batalla Naval   ">
+                <Pair key="icon">
+                    <String>/dev_hdd0/game/HANTOOLBX/USRDIR/tv.png</String>
+                </Pair>
+                <Pair key="title">
+                    <String> Battleship Batalla Naval , Battleship Batalla Naval </String>
+                </Pair>
+                <Pair key="module_name">
+                    <String>webbrowser_plugin</String>
+                </Pair>
+                <Pair key="module_action">
+                    <String>https://archive.org/download/BatSRREGIO/BatSRREGIO.mp4</String>
+                </Pair>
+            </Table>
+            <Table key=" My Little Pony La Pelicula   , My Little Pony La Pelicula   ">
+                <Pair key="icon">
+                    <String>/dev_hdd0/game/HANTOOLBX/USRDIR/tv.png</String>
+                </Pair>
+                <Pair key="title">
+                    <String> My Little Pony La Pelicula , My Little Pony La Pelicula </String>
+                </Pair>
+                <Pair key="module_name">
+                    <String>webbrowser_plugin</String>
+                </Pair>
+                <Pair key="module_action">
+                    <String>https://archive.org/download/mlplpSRREGIO/mlplpSRREGIO.mp4</String>
+                </Pair>
+            </Table>
+            <Table key=" Leatherface   , Leatherface   ">
+                <Pair key="icon">
+                    <String>/dev_hdd0/game/HANTOOLBX/USRDIR/tv.png</String>
+                </Pair>
+                <Pair key="title">
+                    <String> Leatherface , Leatherface </String>
+                </Pair>
+                <Pair key="module_name">
+                    <String>webbrowser_plugin</String>
+                </Pair>
+                <Pair key="module_action">
+                    <String>https://archive.org/download/LeaSRREGIO/LeaSRREGIO.mp4</String>
+                </Pair>
+            </Table>
+            <Table key=" Pokemon Yo Te Elijo   , Pokemon Yo Te Elijo   ">
+                <Pair key="icon">
+                    <String>/dev_hdd0/game/HANTOOLBX/USRDIR/tv.png</String>
+                </Pair>
+                <Pair key="title">
+                    <String> Pokemon Yo Te Elijo , Pokemon Yo Te Elijo </String>
+                </Pair>
+                <Pair key="module_name">
+                    <String>webbrowser_plugin</String>
+                </Pair>
+                <Pair key="module_action">
+                    <String>https://archive.org/download/PoYoTESRREGIO/PoYoTESRREGIO.mp4</String>
+                </Pair>
+            </Table>
+            <Table key=" Melanie Apocalipsis Zombie   , Melanie Apocalipsis Zombie   ">
+                <Pair key="icon">
+                    <String>/dev_hdd0/game/HANTOOLBX/USRDIR/tv.png</String>
+                </Pair>
+                <Pair key="title">
+                    <String> Melanie Apocalipsis Zombie , Melanie Apocalipsis Zombie </String>
+                </Pair>
+                <Pair key="module_name">
+                    <String>webbrowser_plugin</String>
+                </Pair>
+                <Pair key="module_action">
+                    <String>https://archive.org/download/meapzoSRRREGIO/meapzoSRRREGIO.mp4</String>
+                </Pair>
+            </Table>
+            <Table key=" Fragiles   , Fragiles   ">
+                <Pair key="icon">
+                    <String>/dev_hdd0/game/HANTOOLBX/USRDIR/tv.png</String>
+                </Pair>
+                <Pair key="title">
+                    <String> Fragiles , Fragiles </String>
+                </Pair>
+                <Pair key="module_name">
+                    <String>webbrowser_plugin</String>
+                </Pair>
+                <Pair key="module_action">
+                    <String>https://archive.org/download/FraSRREGIO/FraSRREGIO.mp4</String>
+                </Pair>
+            </Table>
+            <Table key=" Atomica   , Atomica   ">
+                <Pair key="icon">
+                    <String>/dev_hdd0/game/HANTOOLBX/USRDIR/tv.png</String>
+                </Pair>
+                <Pair key="title">
+                    <String> Atomica , Atomica </String>
+                </Pair>
+                <Pair key="module_name">
+                    <String>webbrowser_plugin</String>
+                </Pair>
+                <Pair key="module_action">
+                    <String>https://archive.org/download/AtoSRRegio/AtoSRRegio.mp4</String>
+                </Pair>
+            </Table>
+            <Table key=" Zombiology   , Zombiology   ">
+                <Pair key="icon">
+                    <String>/dev_hdd0/game/HANTOOLBX/USRDIR/tv.png</String>
+                </Pair>
+                <Pair key="title">
+                    <String> Zombiology , Zombiology </String>
+                </Pair>
+                <Pair key="module_name">
+                    <String>webbrowser_plugin</String>
+                </Pair>
+                <Pair key="module_action">
+                    <String>https://archive.org/download/Zy.SRREGIO/Zy.SRREGIO.mp4</String>
+                </Pair>
+            </Table>
+            <Table key=" La Noche de la Bruja   , La Noche de la Bruja   ">
+                <Pair key="icon">
+                    <String>/dev_hdd0/game/HANTOOLBX/USRDIR/tv.png</String>
+                </Pair>
+                <Pair key="title">
+                    <String> La Noche de la Bruja , La Noche de la Bruja </String>
+                </Pair>
+                <Pair key="module_name">
+                    <String>webbrowser_plugin</String>
+                </Pair>
+                <Pair key="module_action">
+                    <String>https://archive.org/download/howibr.SRREGIO/h0us3.0f.th3.w1tch.SRREGIO.mp4</String>
+                </Pair>
+            </Table>
+            <Table key=" Quija   , Quija   ">
+                <Pair key="icon">
+                    <String>/dev_hdd0/game/HANTOOLBX/USRDIR/tv.png</String>
+                </Pair>
+                <Pair key="title">
+                    <String> Quija , Quija </String>
+                </Pair>
+                <Pair key="module_name">
+                    <String>webbrowser_plugin</String>
+                </Pair>
+                <Pair key="module_action">
+                    <String>https://archive.org/download/quiSRREGIO/quiSRREGIO.mp4</String>
+                </Pair>
+            </Table>
+            <Table key=" Jeepers Creepers 3">
+                <Pair key="icon">
+                    <String>/dev_hdd0/game/HANTOOLBX/USRDIR/tv.png</String>
+                </Pair>
+                <Pair key="title">
+                    <String> Jeepers Creepers 3</String>
+                </Pair>
+                <Pair key="module_name">
+                    <String>webbrowser_plugin</String>
+                </Pair>
+                <Pair key="module_action">
+                    <String>https://archive.org/download/JeeCre3SRREGIO/JeeCre3SRREGIO.mp4</String>
+                </Pair>
+            </Table>
+            <Table key=" Valerian y la ciudad de los mil planetas   , Valerian y la ciudad de los mil planetas   ">
+                <Pair key="icon">
+                    <String>/dev_hdd0/game/HANTOOLBX/USRDIR/tv.png</String>
+                </Pair>
+                <Pair key="title">
+                    <String> Valerian y la ciudad de los mil planetas , Valerian y la ciudad de los mil planetas </String>
+                </Pair>
+                <Pair key="module_name">
+                    <String>webbrowser_plugin</String>
+                </Pair>
+                <Pair key="module_action">
+                    <String>https://archive.org/download/ValeSRREGIO/ValeSRREGIO.mp4</String>
+                </Pair>
+            </Table>
+            <Table key=" Como cortar a tu patan   , Como cortar a tu patan   ">
+                <Pair key="icon">
+                    <String>/dev_hdd0/game/HANTOOLBX/USRDIR/tv.png</String>
+                </Pair>
+                <Pair key="title">
+                    <String> Como cortar a tu patan , Como cortar a tu patan </String>
+                </Pair>
+                <Pair key="module_name">
+                    <String>webbrowser_plugin</String>
+                </Pair>
+                <Pair key="module_action">
+                    <String>https://ia601508.us.archive.org/4/items/patan/patan.mp4</String>
+                </Pair>
+            </Table>
+            <Table key=" El Rostro De Un Angel   , El Rostro De Un Angel   ">
+                <Pair key="icon">
+                    <String>/dev_hdd0/game/HANTOOLBX/USRDIR/tv.png</String>
+                </Pair>
+                <Pair key="title">
+                    <String> El Rostro De Un Angel , El Rostro De Un Angel </String>
+                </Pair>
+                <Pair key="module_name">
+                    <String>webbrowser_plugin</String>
+                </Pair>
+                <Pair key="module_action">
+                    <String>https://archive.org/download/angelSRREGIO/el.rostro.de.un.angelSRREGIO.mp4</String>
+                </Pair>
+            </Table>
+            <Table key=" Una Loca Pelicula de The Walking Dead   , Una Loca Pelicula de The Walking Dead   ">
+                <Pair key="icon">
+                    <String>/dev_hdd0/game/HANTOOLBX/USRDIR/tv.png</String>
+                </Pair>
+                <Pair key="title">
+                    <String> Una Loca Pelicula de The Walking Dead , Una Loca Pelicula de The Walking Dead </String>
+                </Pair>
+                <Pair key="module_name">
+                    <String>webbrowser_plugin</String>
+                </Pair>
+                <Pair key="module_action">
+                    <String>https://archive.org/download/DocumentalZombieSRREGIO/The%20Walking%20DeadSRREGIO.mp4</String>
+                </Pair>
+            </Table>
+            <Table key=" Sangre por Sangre   , Sangre por Sangre   ">
+                <Pair key="icon">
+                    <String>/dev_hdd0/game/HANTOOLBX/USRDIR/tv.png</String>
+                </Pair>
+                <Pair key="title">
+                    <String> Sangre por Sangre , Sangre por Sangre </String>
+                </Pair>
+                <Pair key="module_name">
+                    <String>webbrowser_plugin</String>
+                </Pair>
+                <Pair key="module_action">
+                    <String>https://archive.org/download/54n6r3.SrRegio/Sangre.por.Sangre.SrRegio.mp4</String>
+                </Pair>
+            </Table>
+            <Table key=" Marjorie Prime, Marjorie Prime">
+                <Pair key="icon">
+                    <String>/dev_hdd0/game/HANTOOLBX/USRDIR/tv.png</String>
+                </Pair>
+                <Pair key="title">
+                    <String> Marjorie Prime, Marjorie Prime</String>
+                </Pair>
+                <Pair key="module_name">
+                    <String>webbrowser_plugin</String>
+                </Pair>
+                <Pair key="module_action">
+                    <String>https://ia801507.us.archive.org/22/items/major_201710/major.mp4</String>
+                </Pair>
+            </Table>
+            <Table key=" Wheelman   , Wheelman   ">
+                <Pair key="icon">
+                    <String>/dev_hdd0/game/HANTOOLBX/USRDIR/tv.png</String>
+                </Pair>
+                <Pair key="title">
+                    <String> Wheelman , Wheelman </String>
+                </Pair>
+                <Pair key="module_name">
+                    <String>webbrowser_plugin</String>
+                </Pair>
+                <Pair key="module_action">
+                    <String>https://archive.org/download/96352487.SRREGIO.NET/96352487.SRREGIO.NET.mp4</String>
+                </Pair>
+            </Table>
+            <Table key=" Amytiville El Despertar   , Amytiville El Despertar   ">
+                <Pair key="icon">
+                    <String>/dev_hdd0/game/HANTOOLBX/USRDIR/tv.png</String>
+                </Pair>
+                <Pair key="title">
+                    <String> Amytiville El Despertar , Amytiville El Despertar </String>
+                </Pair>
+                <Pair key="module_name">
+                    <String>webbrowser_plugin</String>
+                </Pair>
+                <Pair key="module_action">
+                    <String>https://archive.org/download/4w4k3n1ng.SRREGIO/4w4k3n1ng.SRREGIO.mp4</String>
+                </Pair>
+            </Table>
+            <Table key=" L.O.R.D The Legend Of Ravaging Dynasties   , L.O.R.D The Legend Of Ravaging Dynasties   ">
+                <Pair key="icon">
+                    <String>/dev_hdd0/game/HANTOOLBX/USRDIR/tv.png</String>
+                </Pair>
+                <Pair key="title">
+                    <String> L.O.R.D The Legend Of Ravaging Dynasties , L.O.R.D The Legend Of Ravaging Dynasties </String>
+                </Pair>
+                <Pair key="module_name">
+                    <String>webbrowser_plugin</String>
+                </Pair>
+                <Pair key="module_action">
+                    <String>https://archive.org/download/L.SRREGIOt/L.SRREGIOt.mp4</String>
+                </Pair>
+            </Table>
+            <Table key=" NinjaGO   , NinjaGO   ">
+                <Pair key="icon">
+                    <String>/dev_hdd0/game/HANTOOLBX/USRDIR/tv.png</String>
+                </Pair>
+                <Pair key="title">
+                    <String> NinjaGO , NinjaGO </String>
+                </Pair>
+                <Pair key="module_name">
+                    <String>webbrowser_plugin</String>
+                </Pair>
+                <Pair key="module_action">
+                    <String>https://archive.org/download/pickidj74_gmail_Gole/gole.mp4</String>
+                </Pair>
+            </Table>
+            <Table key=" Duelo de Titanes   , Duelo de Titanes   ">
+                <Pair key="icon">
+                    <String>/dev_hdd0/game/HANTOOLBX/USRDIR/tv.png</String>
+                </Pair>
+                <Pair key="title">
+                    <String> Duelo de Titanes , Duelo de Titanes </String>
+                </Pair>
+                <Pair key="module_name">
+                    <String>webbrowser_plugin</String>
+                </Pair>
+                <Pair key="module_action">
+                    <String>https://archive.org/download/dudtitSRREGIO/Duelo%20de%20Titanes.SRREGIO.mp4</String>
+                </Pair>
+            </Table>
+            <Table key=" Locas Vacaciones Sobre Ruedas   , Locas Vacaciones Sobre Ruedas   ">
+                <Pair key="icon">
+                    <String>/dev_hdd0/game/HANTOOLBX/USRDIR/tv.png</String>
+                </Pair>
+                <Pair key="title">
+                    <String> Locas Vacaciones Sobre Ruedas , Locas Vacaciones Sobre Ruedas </String>
+                </Pair>
+                <Pair key="module_name">
+                    <String>webbrowser_plugin</String>
+                </Pair>
+                <Pair key="module_action">
+                    <String>https://archive.org/download/PacruedSRREGIO.NET/PacruedSRREGIO.NET.mp4</String>
+                </Pair>
+            </Table>
+            <Table key=" Annabelle La Creacion   , Annabelle La Creacion   ">
+                <Pair key="icon">
+                    <String>/dev_hdd0/game/HANTOOLBX/USRDIR/tv.png</String>
+                </Pair>
+                <Pair key="title">
+                    <String> Annabelle La Creacion , Annabelle La Creacion </String>
+                </Pair>
+                <Pair key="module_name">
+                    <String>webbrowser_plugin</String>
+                </Pair>
+                <Pair key="module_action">
+                    <String>https://archive.org/download/4nnSRREGIO.NET/4nnSRREGIO.NET.mp4</String>
+                </Pair>
+            </Table>
+            <Table key=" Colors CASTELLANO   , Colors CASTELLANO   ">
+                <Pair key="icon">
+                    <String>/dev_hdd0/game/HANTOOLBX/USRDIR/tv.png</String>
+                </Pair>
+                <Pair key="title">
+                    <String> Colors CASTELLANO , Colors CASTELLANO </String>
+                </Pair>
+                <Pair key="module_name">
+                    <String>webbrowser_plugin</String>
+                </Pair>
+                <Pair key="module_action">
+                    <String>https://archive.org/download/SRREGIO.NETColores/Cos.7p.CAS.avi.mp4</String>
+                </Pair>
+            </Table>
+            <Table key=" Huye   , Huye   ">
+                <Pair key="icon">
+                    <String>/dev_hdd0/game/HANTOOLBX/USRDIR/tv.png</String>
+                </Pair>
+                <Pair key="title">
+                    <String> Huye , Huye </String>
+                </Pair>
+                <Pair key="module_name">
+                    <String>webbrowser_plugin</String>
+                </Pair>
+                <Pair key="module_action">
+                    <String>https://ia601500.us.archive.org/27/items/Cheverefans0012017/cheverefans%200012017.mp4?null=</String>
+                </Pair>
+            </Table>
+            <Table key=" Alien Covenant   , Alien Covenant   ">
+                <Pair key="icon">
+                    <String>/dev_hdd0/game/HANTOOLBX/USRDIR/tv.png</String>
+                </Pair>
+                <Pair key="title">
+                    <String> Alien Covenant , Alien Covenant </String>
+                </Pair>
+                <Pair key="module_name">
+                    <String>webbrowser_plugin</String>
+                </Pair>
+                <Pair key="module_action">
+                    <String>http://ow.ly/SgXZ30eXN93?CONEXION?null=</String>
+                </Pair>
+            </Table>
+            <Table key=" Expedientes Secretos X   , Expedientes Secretos X   ">
+                <Pair key="icon">
+                    <String>/dev_hdd0/game/HANTOOLBX/USRDIR/tv.png</String>
+                </Pair>
+                <Pair key="title">
+                    <String> Expedientes Secretos X , Expedientes Secretos X </String>
+                </Pair>
+                <Pair key="module_name">
+                    <String>webbrowser_plugin</String>
+                </Pair>
+                <Pair key="module_action">
+                    <String>https://archive.org/download/EXPEDIENTESX.SRREGIO.NET/EXPEDIENTESSECRETOSX.SRREGIO.NET.mp4</String>
+                </Pair>
+            </Table>
+            <Table key=" Bailarina   , Bailarina   ">
+                <Pair key="icon">
+                    <String>/dev_hdd0/game/HANTOOLBX/USRDIR/tv.png</String>
+                </Pair>
+                <Pair key="title">
+                    <String> Bailarina , Bailarina </String>
+                </Pair>
+                <Pair key="module_name">
+                    <String>webbrowser_plugin</String>
+                </Pair>
+                <Pair key="module_action">
+                    <String>https://archive.org/download/21354gSRREGIO.NET/21354g216d66855x.mp4</String>
+                </Pair>
+            </Table>
+            <Table key=" Los Pitufos La Aldea Perdida   , Los Pitufos La Aldea Perdida   ">
+                <Pair key="icon">
+                    <String>/dev_hdd0/game/HANTOOLBX/USRDIR/tv.png</String>
+                </Pair>
+                <Pair key="title">
+                    <String> Los Pitufos La Aldea Perdida , Los Pitufos La Aldea Perdida </String>
+                </Pair>
+                <Pair key="module_name">
+                    <String>webbrowser_plugin</String>
+                </Pair>
+                <Pair key="module_action">
+                    <String>https://archive.org/download/pituregioSRREGIO.NET/pituregio.mp4</String>
+                </Pair>
+            </Table>
+            <Table key=" Guardianes de la Galaxia   , Guardianes de la Galaxia   ">
+                <Pair key="icon">
+                    <String>/dev_hdd0/game/HANTOOLBX/USRDIR/tv.png</String>
+                </Pair>
+                <Pair key="title">
+                    <String> Guardianes de la Galaxia , Guardianes de la Galaxia </String>
+                </Pair>
+                <Pair key="module_name">
+                    <String>webbrowser_plugin</String>
+                </Pair>
+                <Pair key="module_action">
+                    <String>https://goo.gl/sFaEVq</String>
+                </Pair>
+            </Table>
+            <Table key=" Cementerio de Mascotas   , Cementerio de Mascotas   ">
+                <Pair key="icon">
+                    <String>/dev_hdd0/game/HANTOOLBX/USRDIR/tv.png</String>
+                </Pair>
+                <Pair key="title">
+                    <String> Cementerio de Mascotas , Cementerio de Mascotas </String>
+                </Pair>
+                <Pair key="module_name">
+                    <String>webbrowser_plugin</String>
+                </Pair>
+                <Pair key="module_action">
+                    <String>https://archive.org/download/06052017AQC06052017/06052017_AQC.avi</String>
+                </Pair>
+            </Table>
+            <Table key=" Viaje Salvaje   , Viaje Salvaje   ">
+                <Pair key="icon">
+                    <String>/dev_hdd0/game/HANTOOLBX/USRDIR/tv.png</String>
+                </Pair>
+                <Pair key="title">
+                    <String> Viaje Salvaje , Viaje Salvaje </String>
+                </Pair>
+                <Pair key="module_name">
+                    <String>webbrowser_plugin</String>
+                </Pair>
+                <Pair key="module_action">
+                    <String>https://archive.org/download/2132154654SRREGIO.NET/21321546548978456132.mp4</String>
+                </Pair>
+            </Table>
+            <Table key=" Cult Of Chucky   , Cult Of Chucky   ">
+                <Pair key="icon">
+                    <String>/dev_hdd0/game/HANTOOLBX/USRDIR/tv.png</String>
+                </Pair>
+                <Pair key="title">
+                    <String> Cult Of Chucky , Cult Of Chucky </String>
+                </Pair>
+                <Pair key="module_name">
+                    <String>webbrowser_plugin</String>
+                </Pair>
+                <Pair key="module_action">
+                    <String>https://archive.org/download/00000007.SRREGIO/00000007.SRREGIO.mp4</String>
+                </Pair>
+            </Table>
+            <Table key=" Batman y Harley Queen   , Batman y Harley Queen   ">
+                <Pair key="icon">
+                    <String>/dev_hdd0/game/HANTOOLBX/USRDIR/tv.png</String>
+                </Pair>
+                <Pair key="title">
+                    <String> Batman y Harley Queen , Batman y Harley Queen </String>
+                </Pair>
+                <Pair key="module_name">
+                    <String>webbrowser_plugin</String>
+                </Pair>
+                <Pair key="module_action">
+                    <String>https://ia801502.us.archive.org/8/items/33548979815123SRREGIO/33548979815123.mp4</String>
+                </Pair>
+            </Table>
+            <Table key=" Encuentro Cercano del 3er Tipo   , Encuentro Cercano del 3er Tipo   ">
+                <Pair key="icon">
+                    <String>/dev_hdd0/game/HANTOOLBX/USRDIR/tv.png</String>
+                </Pair>
+                <Pair key="title">
+                    <String> Encuentro Cercano del 3er Tipo , Encuentro Cercano del 3er Tipo </String>
+                </Pair>
+                <Pair key="module_name">
+                    <String>webbrowser_plugin</String>
+                </Pair>
+                <Pair key="module_action">
+                    <String>https://archive.org/download/3213265489SRREGIO.NET/321326548978778798797997.mp4</String>
+                </Pair>
+            </Table>
+        </Attributes>
+        <Items>
+            <Item class="type:x-xmb/module-action" key=" 10000 B,C   , 10000 B,C   " attr=" 10000 B,C   , 10000 B,C   " />
+            <Item class="type:x-xmb/module-action" key=" 12 Rounds 3 Lockdown   , 12 Rounds 3 Lockdown   " attr=" 12 Rounds 3 Lockdown   , 12 Rounds 3 Lockdown   " />
+            <Item class="type:x-xmb/module-action" key=" 13 Guerreros   , 13 Guerreros   " attr=" 13 Guerreros   , 13 Guerreros   " />
+            <Item class="type:x-xmb/module-action" key=" Todo Poderoso   , Todo Poderoso   " attr=" Todo Poderoso   , Todo Poderoso   " />
+            <Item class="type:x-xmb/module-action" key=" American Pie   , American Pie   " attr=" American Pie   , American Pie   " />
+            <Item class="type:x-xmb/module-action" key=" La Leyenda de la Nahuala   , La Leyenda de la Nahuala   " attr=" La Leyenda de la Nahuala   , La Leyenda de la Nahuala   " />
+            <Item class="type:x-xmb/module-action" key=" Mulan   , Mulan   " attr=" Mulan   , Mulan   " />
+            <Item class="type:x-xmb/module-action" key=" Que Culpa Tiene el Nino   , Que Culpa Tiene el Nino   " attr=" Que Culpa Tiene el Nino   , Que Culpa Tiene el Nino   " />
+            <Item class="type:x-xmb/module-action" key=" Terminator 2   , Terminator 2   " attr=" Terminator 2   , Terminator 2   " />
+            <Item class="type:x-xmb/module-action" key=" Charlie y La Fabrica de Chocolate | JAIDERFLIX  , Charlie y La Fabrica de Chocolate | JAIDERFLIX  " attr=" Charlie y La Fabrica de Chocolate | JAIDERFLIX  , Charlie y La Fabrica de Chocolate | JAIDERFLIX  " />
+            <Item class="type:x-xmb/module-action" key=" 3 idiotas   , 3 idiotas   " attr=" 3 idiotas   , 3 idiotas   " />
+            <Item class="type:x-xmb/module-action" key=" Operacion Red Sparrow   , Operacion Red Sparrow   " attr=" Operacion Red Sparrow   , Operacion Red Sparrow   " />
+            <Item class="type:x-xmb/module-action" key=" Anon   , Anon   " attr=" Anon   , Anon   " />
+            <Item class="type:x-xmb/module-action" key=" Samson   , Samson   " attr=" Samson   , Samson   " />
+            <Item class="type:x-xmb/module-action" key=" 15:17 Tren a Paris   , 15:17 Tren a Paris   " attr=" 15:17 Tren a Paris   , 15:17 Tren a Paris   " />
+            <Item class="type:x-xmb/module-action" key="LA MASACRE DE TEXAS (1974)   ,LA MASACRE DE TEXAS (1974)   " attr="LA MASACRE DE TEXAS (1974)   ,LA MASACRE DE TEXAS (1974)   " />
+            <Item class="type:x-xmb/module-action" key="LA MASACRE DE TEXAS 2 (1986)   ,LA MASACRE DE TEXAS 2 (1986)   " attr="LA MASACRE DE TEXAS 2 (1986)   ,LA MASACRE DE TEXAS 2 (1986)   " />
+            <Item class="type:x-xmb/module-action" key="LA MASACRE DE TEXAS 3 (1990)   ,LA MASACRE DE TEXAS 3 (1990)   " attr="LA MASACRE DE TEXAS 3 (1990)   ,LA MASACRE DE TEXAS 3 (1990)   " />
+            <Item class="type:x-xmb/module-action" key="LA MASACRE DE TEXAS LA NUEVA GENERACION (1994)   ,LA MASACRE DE TEXAS LA NUEVA GENERACION (1994)   " attr="LA MASACRE DE TEXAS LA NUEVA GENERACION (1994)   ,LA MASACRE DE TEXAS LA NUEVA GENERACION (1994)   " />
+            <Item class="type:x-xmb/module-action" key="LA MASACRE DE TEXAS (2003)   ,LA MASACRE DE TEXAS (2003)   " attr="LA MASACRE DE TEXAS (2003)   ,LA MASACRE DE TEXAS (2003)   " />
+            <Item class="type:x-xmb/module-action" key="LA MASACRE DE TEXAS EL INICIO (2006)   ,LA MASACRE DE TEXAS EL INICIO (2006)   " attr="LA MASACRE DE TEXAS EL INICIO (2006)   ,LA MASACRE DE TEXAS EL INICIO (2006)   " />
+            <Item class="type:x-xmb/module-action" key="LA MASACRE DE TEXAS HERENCIA MALDITA (2013)    ,LA MASACRE DE TEXAS HERENCIA MALDITA (2013)    " attr="LA MASACRE DE TEXAS HERENCIA MALDITA (2013)    ,LA MASACRE DE TEXAS HERENCIA MALDITA (2013)    " />
+            <Item class="type:x-xmb/module-action" key=" La Fuerza De La Ilusion   , La Fuerza De La Ilusion   " attr=" La Fuerza De La Ilusion   , La Fuerza De La Ilusion   " />
+            <Item class="type:x-xmb/module-action" key=" Cuando nos Conocimos   , Cuando nos Conocimos   " attr=" Cuando nos Conocimos   , Cuando nos Conocimos   " />
+            <Item class="type:x-xmb/module-action" key=" La Forma del Agua SUBTITULADO   , La Forma del Agua SUBTITULADO   " attr=" La Forma del Agua SUBTITULADO   , La Forma del Agua SUBTITULADO   " />
+            <Item class="type:x-xmb/module-action" key=" Nosotros Los Nobles   " attr=" Nosotros Los Nobles   " />
+            <Item class="type:x-xmb/module-action" key=" The Cloverfield Paradox   , The Cloverfield Paradox   " attr=" The Cloverfield Paradox   , The Cloverfield Paradox   " />
+            <Item class="type:x-xmb/module-action" key=" Terminus   , Terminus   " attr=" Terminus   , Terminus   " />
+            <Item class="type:x-xmb/module-action" key=" Deadpool   , Deadpool   " attr=" Deadpool   , Deadpool   " />
+            <Item class="type:x-xmb/module-action" key=" Intensamente   , Intensamente   " attr=" Intensamente   , Intensamente   " />
+            <Item class="type:x-xmb/module-action" key=" JIGSAW VIII   , JIGSAW VIII   " attr=" JIGSAW VIII   , JIGSAW VIII   " />
+            <Item class="type:x-xmb/module-action" key=" Doctor Strange   , Doctor Strange   " attr=" Doctor Strange   , Doctor Strange   " />
+            <Item class="type:x-xmb/module-action" key=" Redada Asesina   , Redada Asesina   " attr=" Redada Asesina   , Redada Asesina   " />
+            <Item class="type:x-xmb/module-action" key=" SAW VIII SUBTITULADO   , SAW VIII SUBTITULADO   " attr=" SAW VIII SUBTITULADO   , SAW VIII SUBTITULADO   " />
+            <Item class="type:x-xmb/module-action" key=" Konvert SUBTITULADO   , Konvert SUBTITULADO   " attr=" Konvert SUBTITULADO   , Konvert SUBTITULADO   " />
+            <Item class="type:x-xmb/module-action" key=" Civil War   , Civil War   " attr=" Civil War   , Civil War   " />
+            <Item class="type:x-xmb/module-action" key=" Por que el   , Por que el   " attr=" Por que el   , Por que el   " />
+            <Item class="type:x-xmb/module-action" key=" Amigos Intocables   , Amigos Intocables   " attr=" Amigos Intocables   , Amigos Intocables   " />
+            <Item class="type:x-xmb/module-action" key=" La Vida En Juego   , La Vida En Juego   " attr=" La Vida En Juego   , La Vida En Juego   " />
+            <Item class="type:x-xmb/module-action" key=" Lowriders (Subtitulada)   , Lowriders (Subtitulada)   " attr=" Lowriders (Subtitulada)   , Lowriders (Subtitulada)   " />
+            <Item class="type:x-xmb/module-action" key=" Battleship Batalla Naval   , Battleship Batalla Naval   " attr=" Battleship Batalla Naval   , Battleship Batalla Naval   " />
+            <Item class="type:x-xmb/module-action" key=" My Little Pony La Pelicula   , My Little Pony La Pelicula   " attr=" My Little Pony La Pelicula   , My Little Pony La Pelicula   " />
+            <Item class="type:x-xmb/module-action" key=" Leatherface   , Leatherface   " attr=" Leatherface   , Leatherface   " />
+            <Item class="type:x-xmb/module-action" key=" Pokemon Yo Te Elijo   , Pokemon Yo Te Elijo   " attr=" Pokemon Yo Te Elijo   , Pokemon Yo Te Elijo   " />
+            <Item class="type:x-xmb/module-action" key=" Melanie Apocalipsis Zombie   , Melanie Apocalipsis Zombie   " attr=" Melanie Apocalipsis Zombie   , Melanie Apocalipsis Zombie   " />
+            <Item class="type:x-xmb/module-action" key=" Fragiles   , Fragiles   " attr=" Fragiles   , Fragiles   " />
+            <Item class="type:x-xmb/module-action" key=" Atomica   , Atomica   " attr=" Atomica   , Atomica   " />
+            <Item class="type:x-xmb/module-action" key=" Zombiology   , Zombiology   " attr=" Zombiology   , Zombiology   " />
+            <Item class="type:x-xmb/module-action" key=" La Noche de la Bruja   , La Noche de la Bruja   " attr=" La Noche de la Bruja   , La Noche de la Bruja   " />
+            <Item class="type:x-xmb/module-action" key=" Quija   , Quija   " attr=" Quija   , Quija   " />
+            <Item class="type:x-xmb/module-action" key=" Jeepers Creepers 3" attr=" Jeepers Creepers 3" />
+            <Item class="type:x-xmb/module-action" key=" Valerian y la ciudad de los mil planetas   , Valerian y la ciudad de los mil planetas   " attr=" Valerian y la ciudad de los mil planetas   , Valerian y la ciudad de los mil planetas   " />
+            <Item class="type:x-xmb/module-action" key=" Como cortar a tu patan   , Como cortar a tu patan   " attr=" Como cortar a tu patan   , Como cortar a tu patan   " />
+            <Item class="type:x-xmb/module-action" key=" El Rostro De Un Angel   , El Rostro De Un Angel   " attr=" El Rostro De Un Angel   , El Rostro De Un Angel   " />
+            <Item class="type:x-xmb/module-action" key=" Una Loca Pelicula de The Walking Dead   , Una Loca Pelicula de The Walking Dead   " attr=" Una Loca Pelicula de The Walking Dead   , Una Loca Pelicula de The Walking Dead   " />
+            <Item class="type:x-xmb/module-action" key=" Sangre por Sangre   , Sangre por Sangre   " attr=" Sangre por Sangre   , Sangre por Sangre   " />
+            <Item class="type:x-xmb/module-action" key=" Marjorie Prime, Marjorie Prime" attr=" Marjorie Prime, Marjorie Prime" />
+            <Item class="type:x-xmb/module-action" key=" Wheelman   , Wheelman   " attr=" Wheelman   , Wheelman   " />
+            <Item class="type:x-xmb/module-action" key=" Amytiville El Despertar   , Amytiville El Despertar   " attr=" Amytiville El Despertar   , Amytiville El Despertar   " />
+            <Item class="type:x-xmb/module-action" key=" L.O.R.D The Legend Of Ravaging Dynasties   , L.O.R.D The Legend Of Ravaging Dynasties   " attr=" L.O.R.D The Legend Of Ravaging Dynasties   , L.O.R.D The Legend Of Ravaging Dynasties   " />
+            <Item class="type:x-xmb/module-action" key=" NinjaGO   , NinjaGO   " attr=" NinjaGO   , NinjaGO   " />
+            <Item class="type:x-xmb/module-action" key=" Duelo de Titanes   , Duelo de Titanes   " attr=" Duelo de Titanes   , Duelo de Titanes   " />
+            <Item class="type:x-xmb/module-action" key=" Locas Vacaciones Sobre Ruedas   , Locas Vacaciones Sobre Ruedas   " attr=" Locas Vacaciones Sobre Ruedas   , Locas Vacaciones Sobre Ruedas   " />
+            <Item class="type:x-xmb/module-action" key=" Annabelle La Creacion   , Annabelle La Creacion   " attr=" Annabelle La Creacion   , Annabelle La Creacion   " />
+            <Item class="type:x-xmb/module-action" key=" Colors CASTELLANO   , Colors CASTELLANO   " attr=" Colors CASTELLANO   , Colors CASTELLANO   " />
+            <Item class="type:x-xmb/module-action" key=" Huye   , Huye   " attr=" Huye   , Huye   " />
+            <Item class="type:x-xmb/module-action" key=" Alien Covenant   , Alien Covenant   " attr=" Alien Covenant   , Alien Covenant   " />
+            <Item class="type:x-xmb/module-action" key=" Expedientes Secretos X   , Expedientes Secretos X   " attr=" Expedientes Secretos X   , Expedientes Secretos X   " />
+            <Item class="type:x-xmb/module-action" key=" Bailarina   , Bailarina   " attr=" Bailarina   , Bailarina   " />
+            <Item class="type:x-xmb/module-action" key=" Los Pitufos La Aldea Perdida   , Los Pitufos La Aldea Perdida   " attr=" Los Pitufos La Aldea Perdida   , Los Pitufos La Aldea Perdida   " />
+            <Item class="type:x-xmb/module-action" key=" Guardianes de la Galaxia   , Guardianes de la Galaxia   " attr=" Guardianes de la Galaxia   , Guardianes de la Galaxia   " />
+            <Item class="type:x-xmb/module-action" key=" Cementerio de Mascotas   , Cementerio de Mascotas   " attr=" Cementerio de Mascotas   , Cementerio de Mascotas   " />
+            <Item class="type:x-xmb/module-action" key=" Viaje Salvaje   , Viaje Salvaje   " attr=" Viaje Salvaje   , Viaje Salvaje   " />
+            <Item class="type:x-xmb/module-action" key=" Cult Of Chucky   , Cult Of Chucky   " attr=" Cult Of Chucky   , Cult Of Chucky   " />
+            <Item class="type:x-xmb/module-action" key=" Batman y Harley Queen   , Batman y Harley Queen   " attr=" Batman y Harley Queen   , Batman y Harley Queen   " />
+            <Item class="type:x-xmb/module-action" key=" Encuentro Cercano del 3er Tipo   , Encuentro Cercano del 3er Tipo   " attr=" Encuentro Cercano del 3er Tipo   , Encuentro Cercano del 3er Tipo   " />
+        </Items>
+    </View>
+
+</XMBML>

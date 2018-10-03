@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<XMBML version="1.0">
+	
+	<!-- Main  > zeTVmod > Submenu -->
+	<View id="seg_tv_items">
+		<Attributes>
+<Table key="THE RETURNED 1x01"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/THE_RETURNED.jpg</String></Pair><Pair key="title"><String>THE RETURNED 1x01</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=7028695091d7b3b3</String></Pair></Table>
+<Table key="THE RETURNED 1x02"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/THE_RETURNED.jpg</String></Pair><Pair key="title"><String>THE RETURNED 1x02</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=b26780f294b249f1</String></Pair></Table>
+<Table key="THE RETURNED 1x03"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/THE_RETURNED.jpg</String></Pair><Pair key="title"><String>THE RETURNED 1x03</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=2b3058760802332e</String></Pair></Table>
+<Table key="THE RETURNED 1x04"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/THE_RETURNED.jpg</String></Pair><Pair key="title"><String>THE RETURNED 1x04</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=1a49ea9e6ed9db16</String></Pair></Table>
+<Table key="THE RETURNED 1x05"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/THE_RETURNED.jpg</String></Pair><Pair key="title"><String>THE RETURNED 1x05</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=2e13794a1107690</String></Pair></Table>
+<Table key="THE RETURNED 1x06"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/THE_RETURNED.jpg</String></Pair><Pair key="title"><String>THE RETURNED 1x06</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=ba736131a31c914d</String></Pair></Table>
+<Table key="THE RETURNED 1x07"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/THE_RETURNED.jpg</String></Pair><Pair key="title"><String>THE RETURNED 1x07</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=43088b10cc434b28</String></Pair></Table>
+<Table key="THE RETURNED 1x08"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/THE_RETURNED.jpg</String></Pair><Pair key="title"><String>THE RETURNED 1x08</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=9bc797edd77c45b9</String></Pair></Table>
+<Table key="THE RETURNED 1x09"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/THE_RETURNED.jpg</String></Pair><Pair key="title"><String>THE RETURNED 1x09</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=4fcbe84f366b57b5</String></Pair></Table>
+<Table key="THE RETURNED 1x10"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/THE_RETURNED.jpg</String></Pair><Pair key="title"><String>THE RETURNED 1x10</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=9b3ae6de3c10b5e7</String></Pair></Table>
+</Attributes>
+		<Items>
+<Item class="type:x-xmb/module-action" key="THE RETURNED 1x01" attr="THE RETURNED 1x01"/>
+<Item class="type:x-xmb/module-action" key="THE RETURNED 1x02" attr="THE RETURNED 1x02"/>
+<Item class="type:x-xmb/module-action" key="THE RETURNED 1x03" attr="THE RETURNED 1x03"/>
+<Item class="type:x-xmb/module-action" key="THE RETURNED 1x04" attr="THE RETURNED 1x04"/>
+<Item class="type:x-xmb/module-action" key="THE RETURNED 1x05" attr="THE RETURNED 1x05"/>
+<Item class="type:x-xmb/module-action" key="THE RETURNED 1x06" attr="THE RETURNED 1x06"/>
+<Item class="type:x-xmb/module-action" key="THE RETURNED 1x07" attr="THE RETURNED 1x07"/>
+<Item class="type:x-xmb/module-action" key="THE RETURNED 1x08" attr="THE RETURNED 1x08"/>
+<Item class="type:x-xmb/module-action" key="THE RETURNED 1x09" attr="THE RETURNED 1x09"/>
+<Item class="type:x-xmb/module-action" key="THE RETURNED 1x10" attr="THE RETURNED 1x10"/>
+</Items>
+	</View>
+
+</XMBML>		

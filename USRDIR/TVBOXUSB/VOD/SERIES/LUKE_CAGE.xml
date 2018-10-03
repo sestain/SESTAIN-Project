@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<XMBML version="1.0">
+	
+	<!-- Main  > zeTVmod > Submenu -->
+	<View id="seg_tv_items">
+		<Attributes>
+<Table key="LUKE CAGE 1X01"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/LUKE_CAGE.jpg</String></Pair><Pair key="title"><String>LUKE CAGE 1X01</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=bbf8ad5abfa659e3</String></Pair></Table>
+<Table key="LUKE CAGE 1X02"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/LUKE_CAGE.jpg</String></Pair><Pair key="title"><String>LUKE CAGE 1X02</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=95fc796b186adf91</String></Pair></Table>
+<Table key="LUKE CAGE 1X03"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/LUKE_CAGE.jpg</String></Pair><Pair key="title"><String>LUKE CAGE 1X03</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=2a430379c413656f</String></Pair></Table>
+<Table key="LUKE CAGE 1X04"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/LUKE_CAGE.jpg</String></Pair><Pair key="title"><String>LUKE CAGE 1X04</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=a14b1d9c807c82ce</String></Pair></Table>
+<Table key="LUKE CAGE 1X05"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/LUKE_CAGE.jpg</String></Pair><Pair key="title"><String>LUKE CAGE 1X05</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=878f2c33b418a7f0</String></Pair></Table>
+<Table key="LUKE CAGE 1X06"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/LUKE_CAGE.jpg</String></Pair><Pair key="title"><String>LUKE CAGE 1X06</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=93f05abffaad596a</String></Pair></Table>
+<Table key="LUKE CAGE 1X07"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/LUKE_CAGE.jpg</String></Pair><Pair key="title"><String>LUKE CAGE 1X07</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=2f4d0adfcf0527e</String></Pair></Table>
+<Table key="LUKE CAGE 1X08"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/LUKE_CAGE.jpg</String></Pair><Pair key="title"><String>LUKE CAGE 1X08</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=6700f10b9c652f4e</String></Pair></Table>
+<Table key="LUKE CAGE 1X09"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/LUKE_CAGE.jpg</String></Pair><Pair key="title"><String>LUKE CAGE 1X09</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=30395aa9e12c06a6</String></Pair></Table>
+<Table key="LUKE CAGE 1X10"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/LUKE_CAGE.jpg</String></Pair><Pair key="title"><String>LUKE CAGE 1X10</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=ca1cd3b89710dc26</String></Pair></Table>
+<Table key="LUKE CAGE 1X11"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/LUKE_CAGE.jpg</String></Pair><Pair key="title"><String>LUKE CAGE 1X11</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=2e850a0161adba98</String></Pair></Table>
+<Table key="LUKE CAGE 1X12"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/LUKE_CAGE.jpg</String></Pair><Pair key="title"><String>LUKE CAGE 1X12</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=99237583c9cbcd6d</String></Pair></Table>
+<Table key="LUKE CAGE 1X13"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/LUKE_CAGE.jpg</String></Pair><Pair key="title"><String>LUKE CAGE 1X13</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=6e1f9ad18865740d</String></Pair></Table>
+</Attributes>
+		<Items>
+<Item class="type:x-xmb/module-action" key="LUKE CAGE 1X01" attr="LUKE CAGE 1X01"/>
+<Item class="type:x-xmb/module-action" key="LUKE CAGE 1X02" attr="LUKE CAGE 1X02"/>
+<Item class="type:x-xmb/module-action" key="LUKE CAGE 1X03" attr="LUKE CAGE 1X03"/>
+<Item class="type:x-xmb/module-action" key="LUKE CAGE 1X04" attr="LUKE CAGE 1X04"/>
+<Item class="type:x-xmb/module-action" key="LUKE CAGE 1X05" attr="LUKE CAGE 1X05"/>
+<Item class="type:x-xmb/module-action" key="LUKE CAGE 1X06" attr="LUKE CAGE 1X06"/>
+<Item class="type:x-xmb/module-action" key="LUKE CAGE 1X07" attr="LUKE CAGE 1X07"/>
+<Item class="type:x-xmb/module-action" key="LUKE CAGE 1X08" attr="LUKE CAGE 1X08"/>
+<Item class="type:x-xmb/module-action" key="LUKE CAGE 1X09" attr="LUKE CAGE 1X09"/>
+<Item class="type:x-xmb/module-action" key="LUKE CAGE 1X10" attr="LUKE CAGE 1X10"/>
+<Item class="type:x-xmb/module-action" key="LUKE CAGE 1X11" attr="LUKE CAGE 1X11"/>
+<Item class="type:x-xmb/module-action" key="LUKE CAGE 1X12" attr="LUKE CAGE 1X12"/>
+<Item class="type:x-xmb/module-action" key="LUKE CAGE 1X13" attr="LUKE CAGE 1X13"/>
+</Items>
+	</View>
+
+</XMBML>		

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<XMBML version="1.0">
+	
+	<!-- Main  > zeTVmod > Submenu -->
+	<View id="seg_tv_items">
+		<Attributes>
+<Table key="THE NIGHT OF 1X01/1"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/NIGHT_OF.jpg</String></Pair><Pair key="title"><String>THE NIGHT OF 1X01/1</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=969d2d24c4050039</String></Pair></Table>
+<Table key="THE NIGHT OF 1X01/2"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/NIGHT_OF.jpg</String></Pair><Pair key="title"><String>THE NIGHT OF 1X01/2</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=995527069da95133</String></Pair></Table>
+<Table key="THE NIGHT OF 1X02"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/NIGHT_OF.jpg</String></Pair><Pair key="title"><String>THE NIGHT OF 1X02</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=edca439deedb5d5c</String></Pair></Table>
+<Table key="THE NIGHT OF 1X03"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/NIGHT_OF.jpg</String></Pair><Pair key="title"><String>THE NIGHT OF 1X03</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=a536ec8df3c8faca</String></Pair></Table>
+<Table key="THE NIGHT OF 1X04"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/NIGHT_OF.jpg</String></Pair><Pair key="title"><String>THE NIGHT OF 1X04</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=c3def543f9f19d28</String></Pair></Table>
+<Table key="THE NIGHT OF 1X05"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/NIGHT_OF.jpg</String></Pair><Pair key="title"><String>THE NIGHT OF 1X05</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=210652ef351d5adf</String></Pair></Table>
+<Table key="THE NIGHT OF 1X06"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/NIGHT_OF.jpg</String></Pair><Pair key="title"><String>THE NIGHT OF 1X06</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=285fb021577a3a55</String></Pair></Table>
+<Table key="THE NIGHT OF 1X07"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/NIGHT_OF.jpg</String></Pair><Pair key="title"><String>THE NIGHT OF 1X07</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=3ece0706fd3224c4</String></Pair></Table>
+<Table key="THE NIGHT OF 1X08"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/NIGHT_OF.jpg</String></Pair><Pair key="title"><String>THE NIGHT OF 1X08</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=3599afeacc225e8</String></Pair></Table>
+</Attributes>
+		<Items>
+<Item class="type:x-xmb/module-action" key="THE NIGHT OF 1X01/1" attr="THE NIGHT OF 1X01/1"/>
+<Item class="type:x-xmb/module-action" key="THE NIGHT OF 1X01/2" attr="THE NIGHT OF 1X01/2"/>
+<Item class="type:x-xmb/module-action" key="THE NIGHT OF 1X02" attr="THE NIGHT OF 1X02"/>
+<Item class="type:x-xmb/module-action" key="THE NIGHT OF 1X03" attr="THE NIGHT OF 1X03"/>
+<Item class="type:x-xmb/module-action" key="THE NIGHT OF 1X04" attr="THE NIGHT OF 1X04"/>
+<Item class="type:x-xmb/module-action" key="THE NIGHT OF 1X05" attr="THE NIGHT OF 1X05"/>
+<Item class="type:x-xmb/module-action" key="THE NIGHT OF 1X06" attr="THE NIGHT OF 1X06"/>
+<Item class="type:x-xmb/module-action" key="THE NIGHT OF 1X07" attr="THE NIGHT OF 1X07"/>
+<Item class="type:x-xmb/module-action" key="THE NIGHT OF 1X08" attr="THE NIGHT OF 1X08"/>
+</Items>
+	</View>
+
+</XMBML>		

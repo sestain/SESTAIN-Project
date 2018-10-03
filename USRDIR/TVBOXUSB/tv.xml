@@ -1,0 +1,111 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<XMBML version="1.0">
+
+    <!-- Main  > TV > Submenu -->
+    <View id="seg_tv_categories">
+        <Attributes>
+            <Table key="MUSICAS">
+                <Pair key="icon">
+                    <String>/dev_hdd0/game/HANTOOLBX/USRDIR/tv.png</String>
+                </Pair>
+                <Pair key="title">
+                    <String>Músicas</String>
+                </Pair>
+                <Pair key="str_noitem">
+                    <String>msg_error_no_title</String>
+                </Pair>
+            </Table>
+            <Table key="ANIMES">
+                <Pair key="icon">
+                    <String>/dev_hdd0/game/HANTOOLBX/USRDIR/tv.png</String>
+                </Pair>
+                <Pair key="title">
+                    <String>Animes</String>
+                </Pair>
+                <Pair key="str_noitem">
+                    <String>msg_error_no_title</String>
+                </Pair>
+            </Table>
+            <Table key="DEZENHOS_z">
+                <Pair key="icon">
+                    <String>/dev_hdd0/game/HANTOOLBX/USRDIR/tv.png</String>
+                </Pair>
+                <Pair key="title">
+                    <String>Desenhos</String>
+                </Pair>
+                <Pair key="str_noitem">
+                    <String>msg_error_no_title</String>
+                </Pair>
+            </Table>
+            <Table key="DOCUMENTARIOS">
+                <Pair key="icon">
+                    <String>/dev_hdd0/game/HANTOOLBX/USRDIR/tv.png</String>
+                </Pair>
+                <Pair key="title">
+                    <String>Documentários</String>
+                </Pair>
+                <Pair key="str_noitem">
+                    <String>msg_error_no_title</String>
+                </Pair>
+            </Table>
+
+            <Table key="FILMES_extra">
+                <Pair key="icon">
+                    <String>/dev_hdd0/game/HANTOOLBX/USRDIR/tv.png</String>
+                </Pair>
+                <Pair key="title">
+                    <String>Filmes</String>
+                </Pair>
+                <Pair key="str_noitem">
+                    <String>msg_error_no_title</String>
+                </Pair>
+            </Table>
+            <Table key="peliculas">
+                <Pair key="icon">
+                    <String>/dev_hdd0/game/HANTOOLBX/USRDIR/tv.png</String>
+                </Pair>
+                <Pair key="title">
+                    <String>Peliculas (EN ESPANOL)</String>
+                </Pair>
+                <Pair key="str_noitem">
+                    <String>msg_error_no_title</String>
+                </Pair>
+            </Table>
+            <Table key="SERIES">
+                <Pair key="icon">
+                    <String>/dev_hdd0/game/HANTOOLBX/USRDIR/tv.png</String>
+                </Pair>
+                <Pair key="title">
+                    <String>Séries</String>
+                </Pair>
+                <Pair key="str_noitem">
+                    <String>msg_error_no_title</String>
+                </Pair>
+            </Table>
+
+            <Table key="media_usb">
+                <Pair key="icon">
+                    <String>/dev_hdd0/game/HANTOOLBX/USRDIR/pendrive.png</String>
+                </Pair>
+                <Pair key="title">
+                    <String>MULTIMÍDIA USB</String>
+                </Pair>
+                <Pair key="str_noitem">
+                    <String>msg_error_no_title</String>
+                </Pair>
+            </Table>
+
+        </Attributes>
+        <Items>
+            <Query class="type:x-xmb/folder-pixmap" key="MUSICAS" attr="MUSICAS" src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/VOD/MUSICAS/MUSICAS.xml#seg_tv_items" />
+            <Query class="type:x-xmb/folder-pixmap" key="ANIMES" attr="ANIMES" src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/VOD/ANIMES/ANIMES_MENU.xml#seg_tv_items" />
+            <Query class="type:x-xmb/folder-pixmap" key="DEZENHOS_z" attr="DEZENHOS_z" src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/VOD/DESENHOS/DEZENHOS_MENU.xml#seg_tv_items" />
+            <Query class="type:x-xmb/folder-pixmap" key="DOCUMENTARIOS" attr="DOCUMENTARIOS" src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/VOD/DOCUMENTARIOS/DOCUMENTARIOS.xml#seg_tv_items" />
+            <Query class="type:x-xmb/folder-pixmap" key="FILMES_extra" attr="FILMES_extra" src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/VOD/FILMES/FILMES.xml#seg_tv_items" />
+            <Query class="type:x-xmb/folder-pixmap" key="peliculas" attr="peliculas" src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/VOD/peliculas.xml#seg_tv2_items" />
+            <Query class="type:x-xmb/folder-pixmap" key="SERIES" attr="SERIES" src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/VOD/SERIES/SERIES_MENU.xml#seg_tv_items" />
+            <Query class="type:x-xmb/folder-pixmap" key="media_usb" attr="media_usb" src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/media_usb.xml#media_usb_items" />
+
+        </Items>
+    </View>
+</XMBML>

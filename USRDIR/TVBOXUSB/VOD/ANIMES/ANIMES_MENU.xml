@@ -1,0 +1,242 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<XMBML version="1.0">
+
+	<!-- Main  > TV > Submenu -->
+	<View id="seg_tv_items">
+		<Attributes>
+			<Table key="009-1">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/VOD/ANIMES/009-1/009-1.jpg</String></Pair>
+				<Pair key="title"><String>009-1</String></Pair>
+				<Pair key="str_noitem"><String>msg_error_no_title</String></Pair>
+			</Table>
+			<Table key="CAVALEIROS_DO_ZODIACO">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/VOD/ANIMES/CAVALEIROS_DO_ZODIACO/CAVALEIROS_DO_ZODIACO.jpg</String></Pair>
+				<Pair key="title"><String>Os Cavaleiros do Zodíaco</String></Pair>
+				<Pair key="str_noitem"><String>msg_error_no_title</String></Pair>
+			</Table>
+			<Table key="OS_CAVALEIROS_DO_ZODIACO_The_lost_canvas">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/VOD/ANIMES/OS_CAVALEIROS_DO_ZODIACO_The_lost_canvas/OS_CAVALEIROS_DO_ZODIACO_The_lost_canvas.jpg</String></Pair>
+				<Pair key="title"><String>Os Cavaleiros do Zodíaco - The lost canvas</String></Pair>
+				<Pair key="str_noitem"><String>msg_error_no_title</String></Pair>
+			</Table>
+			<Table key="OS_CAVALEIROS_DO_ZODIACO_Omega">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/VOD/ANIMES/OS_CAVALEIROS_DO_ZODIACO_Omega/OS_CAVALEIROS_DO_ZODIACO_Omega.jpg</String></Pair>
+				<Pair key="title"><String>Os Cavaleiros do Zodíaco - Omega</String></Pair>
+				<Pair key="str_noitem"><String>msg_error_no_title</String></Pair>
+			</Table>
+			<Table key="OS_CAVALEIROS_DO_ZODIACO_O_FILME">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/VOD/ANIMES/OS_CAVALEIROS_DO_ZODIACO_O_FILME/OS_CAVALEIROS_DO_ZODIACO_O_FILME.jpg</String></Pair>
+				<Pair key="title"><String>Os Cavaleiros do Zodíaco - Filme</String></Pair>
+				<Pair key="str_noitem"><String>msg_error_no_title</String></Pair>
+			</Table>
+			<Table key="DEATH_NOTE">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/VOD/ANIMES/DEATH_NOTE/DEATH_NOTE.jpg</String></Pair>
+				<Pair key="title"><String>Death Note</String></Pair>
+				<Pair key="str_noitem"><String>msg_error_no_title</String></Pair>
+			</Table>
+			<Table key="DRAGON_BALL">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/VOD/ANIMES/DRAGON_BALL/DRAGON_BALL.jpg</String></Pair>
+				<Pair key="title"><String>Dragon Ball</String></Pair>
+				<Pair key="str_noitem"><String>msg_error_no_title</String></Pair>
+			</Table>
+			<Table key="DRAGON_BALL_Z">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/VOD/ANIMES/DRAGON_BALL_Z/DRAGON_BALL_Z.jpg</String></Pair>
+				<Pair key="title"><String>Dragon Ball Z</String></Pair>
+				<Pair key="str_noitem"><String>msg_error_no_title</String></Pair>
+			</Table>
+			<Table key="DRAGON_BALL_GT">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/VOD/ANIMES/DRAGON_BALL_GT/DRAGON_BALL_GT.jpg</String></Pair>
+				<Pair key="title"><String>Dragon Ball GT</String></Pair>
+				<Pair key="str_noitem"><String>msg_error_no_title</String></Pair>
+			</Table>
+			<Table key="DRAGON_BALL_KAI">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/VOD/ANIMES/DRAGON_BALL_KAI/DRAGON_BALL_KAI.jpg</String></Pair>
+				<Pair key="title"><String>Dragon Ball Kai</String></Pair>
+				<Pair key="str_noitem"><String>msg_error_no_title</String></Pair>
+			</Table>
+			<Table key="DRAGON_BALL_SUPER">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/VOD/ANIMES/DRAGON_BALL_SUPER/DRAGON_BALL_SUPER.jpg</String></Pair>
+				<Pair key="title"><String>Dragon Ball Super</String></Pair>
+				<Pair key="str_noitem"><String>msg_error_no_title</String></Pair>
+			</Table>
+			<Table key="Fatal_Fury">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/VOD/ANIMES/Fatal_Fury/Fatal_Fury.jpg</String></Pair>
+				<Pair key="title"><String>Fatal Fury</String></Pair>
+				<Pair key="str_noitem"><String>msg_error_no_title</String></Pair>
+			</Table>
+			<Table key="Hunter_X_Hunter">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/VOD/ANIMES/Hunter_X_Hunter/Hunter_X_Hunter.jpg</String></Pair>
+				<Pair key="title"><String>Hunter X Hunter</String></Pair>
+				<Pair key="str_noitem"><String>msg_error_no_title</String></Pair>
+			</Table>
+			<Table key="Hellsing">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/VOD/ANIMES/Hellsing/Hellsing.jpg</String></Pair>
+				<Pair key="title"><String>Hellsing</String></Pair>
+				<Pair key="str_noitem"><String>msg_error_no_title</String></Pair>
+			</Table>
+			<Table key="INUYASHA">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/VOD/ANIMES/INUYASHA/INUYASHA.jpg</String></Pair>
+				<Pair key="title"><String>Inuyasha</String></Pair>
+				<Pair key="str_noitem"><String>msg_error_no_title</String></Pair>
+			</Table>
+			<Table key="YU_YU_RAKUSHO">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/VOD/ANIMES/YU_YU_RAKUSHO/YU_YU_RAKUSHO.jpg</String></Pair>
+				<Pair key="title"><String>Yu Yu Hakusho</String></Pair>
+				<Pair key="str_noitem"><String>msg_error_no_title</String></Pair>
+			</Table>
+			<Table key="KAIJUDO">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/VOD/ANIMES/KAIJUDO/KAIJUDO.jpg</String></Pair>
+				<Pair key="title"><String>Kaijudo</String></Pair>
+				<Pair key="str_noitem"><String>msg_error_no_title</String></Pair>
+			</Table>
+			<Table key="NARUTO">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/VOD/ANIMES/NARUTO.png</String></Pair>
+				<Pair key="title"><String>Naruto</String></Pair>
+				<Pair key="str_noitem"><String>msg_error_no_title</String></Pair>
+			</Table>
+			<Table key="Sword_Art_Online">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/VOD/ANIMES/Sword_Art_Online/Sword_Art_Online.jpg</String></Pair>
+				<Pair key="title"><String>Sword Art Online</String></Pair>
+				<Pair key="str_noitem"><String>msg_error_no_title</String></Pair>
+			</Table>
+			<Table key="Samurai">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/VOD/ANIMES/Samurai/Samurai.jpg</String></Pair>
+				<Pair key="title"><String>Samurai</String></Pair>
+				<Pair key="str_noitem"><String>msg_error_no_title</String></Pair>
+			</Table>
+			<Table key="SCRYED">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/VOD/ANIMES/SCRYED/SCRYED.jpg</String></Pair>
+				<Pair key="title"><String>Scryed</String></Pair>
+				<Pair key="str_noitem"><String>msg_error_no_title</String></Pair>
+			</Table>
+			<Table key="SHURATO">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/VOD/ANIMES/SHURATO/SHURATO.jpg</String></Pair>
+				<Pair key="title"><String>Shurato</String></Pair>
+				<Pair key="str_noitem"><String>msg_error_no_title</String></Pair>
+			</Table>
+			<Table key="STREET_FIGHTER II">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/VOD/ANIMES/STREET_FIGHTER II/STREET_FIGHTER II.jpg</String></Pair>
+				<Pair key="title"><String>Street Fighter II</String></Pair>
+				<Pair key="str_noitem"><String>msg_error_no_title</String></Pair>
+			</Table>
+			</Attributes>
+		<Items>
+		    <Query 
+			class="type:x-xmb/folder-pixmap" 
+			key="009-1" 
+			attr="009-1" 
+			src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/VOD/ANIMES/009-1/009-1.xml#seg_tv_items"/>
+			<Query 
+			class="type:x-xmb/folder-pixmap" 
+			key="CAVALEIROS_DO_ZODIACO" 
+			attr="CAVALEIROS_DO_ZODIACO" 
+			src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/VOD/ANIMES/CAVALEIROS_DO_ZODIACO/CAVALEIROS_DO_ZODIACO.xml#seg_tv_items"/>
+			<Query 
+			class="type:x-xmb/folder-pixmap" 
+			key="OS_CAVALEIROS_DO_ZODIACO_The_lost_canvas" 
+			attr="OS_CAVALEIROS_DO_ZODIACO_The_lost_canvas" 
+			src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/VOD/ANIMES/OS_CAVALEIROS_DO_ZODIACO_The_lost_canvas/OS_CAVALEIROS_DO_ZODIACO_The_lost_canvas.xml#seg_tv_items"/>
+			 <Query 
+			class="type:x-xmb/folder-pixmap" 
+			key="OS_CAVALEIROS_DO_ZODIACO_Omega" 
+			attr="OS_CAVALEIROS_DO_ZODIACO_Omega" 
+			src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/VOD/ANIMES/OS_CAVALEIROS_DO_ZODIACO_Omega/OS_CAVALEIROS_DO_ZODIACO_Omega.xml#seg_tv_items"/>
+			 <Query 
+			class="type:x-xmb/folder-pixmap" 
+			key="OS_CAVALEIROS_DO_ZODIACO_O_FILME" 
+			attr="OS_CAVALEIROS_DO_ZODIACO_O_FILME" 
+			src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/VOD/ANIMES/OS_CAVALEIROS_DO_ZODIACO_O_FILME/OS_CAVALEIROS_DO_ZODIACO_O_FILME.xml#seg_tv_items"/>
+			<Query 
+			class="type:x-xmb/folder-pixmap" 
+			key="DEATH_NOTE" 
+			attr="DEATH_NOTE" 
+			src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/VOD/ANIMES/DEATH_NOTE/DEATH_NOTE.xml#seg_tv_items"/>
+			<Query 
+			class="type:x-xmb/folder-pixmap" 
+			key="DRAGON_BALL" 
+			attr="DRAGON_BALL" 
+			src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/VOD/ANIMES/DRAGON_BALL/DRAGON_BALL.xml#seg_tv_items"/>
+			<Query 
+			class="type:x-xmb/folder-pixmap" 
+			key="DRAGON_BALL_Z" 
+			attr="DRAGON_BALL_Z" 
+			src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/VOD/ANIMES/DRAGON_BALL_Z/DRAGON_BALL_Z.xml#seg_tv_items"/>
+			<Query 
+			class="type:x-xmb/folder-pixmap" 
+			key="DRAGON_BALL_GT" 
+			attr="DRAGON_BALL_GT" 
+			src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/VOD/ANIMES/DRAGON_BALL_GT/DRAGON_BALL_GT.xml#seg_tv_items"/>
+			<Query 
+			class="type:x-xmb/folder-pixmap" 
+			key="DRAGON_BALL_KAI" 
+			attr="DRAGON_BALL_KAI" 
+			src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/VOD/ANIMES/DRAGON_BALL_KAI/DRAGON_BALL_KAI.xml#seg_tv_items"/>
+			<Query 
+			class="type:x-xmb/folder-pixmap" 
+			key="DRAGON_BALL_SUPER" 
+			attr="DRAGON_BALL_SUPER" 
+			src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/VOD/ANIMES/DRAGON_BALL_SUPER/DRAGON_BALL_SUPER.xml#seg_tv_items"/>
+			<Query 
+			class="type:x-xmb/folder-pixmap" 
+			key="Fatal_Fury" 
+			attr="Fatal_Fury" 
+			src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/VOD/ANIMES/Fatal_Fury/Fatal_Fury.xml#seg_tv_items"/>
+			<Query 
+			class="type:x-xmb/folder-pixmap" 
+			key="Hunter_X_Hunter" 
+			attr="Hunter_X_Hunter" 
+			src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/VOD/ANIMES/Hunter_X_Hunter/Hunter_X_Hunter.xml#seg_tv_items"/>
+			<Query 
+			class="type:x-xmb/folder-pixmap" 
+			key="Hellsing" 
+			attr="Hellsing" 
+			src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/VOD/ANIMES/Hellsing/Hellsing.xml#seg_tv_items"/>
+			<Query 
+			class="type:x-xmb/folder-pixmap" 
+			key="INUYASHA" 
+			attr="INUYASHA" 
+			src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/VOD/ANIMES/INUYASHA/INUYASHA.xml#seg_tv_items"/>
+			<Query 
+			class="type:x-xmb/folder-pixmap" 
+			key="YU_YU_RAKUSHO" 
+			attr="YU_YU_RAKUSHO" 
+			src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/VOD/ANIMES/YU_YU_RAKUSHO/YU_YU_RAKUSHO.xml#seg_tv_items"/>
+			<Query
+			class="type:x-xmb/folder-pixmap" 
+			key="KAIJUDO" 
+			attr="KAIJUDO" 
+			src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/VOD/ANIMES/KAIJUDO/KAIJUDO.xml#seg_tv_items"/>
+			<Query 
+			class="type:x-xmb/folder-pixmap" 
+			key="NARUTO" 
+			attr="NARUTO" 
+			src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/VOD/ANIMES/NARUTO.xml#seg_tv_items"/>
+			<Query 
+			class="type:x-xmb/folder-pixmap" 
+			key="Sword_Art_Online" 
+			attr="Sword_Art_Online" 
+			src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/VOD/ANIMES/Sword_Art_Online/Sword_Art_Online.xml#seg_tv_items"/>
+			<Query 
+			class="type:x-xmb/folder-pixmap" 
+			key="Samurai" 
+			attr="Samurai" 
+			src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/VOD/ANIMES/Samurai/Samurai.xml#seg_tv_items"/>
+			<Query 
+			class="type:x-xmb/folder-pixmap" 
+			key="SCRYED" 
+			attr="SCRYED" 
+			src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/VOD/ANIMES/SCRYED/SCRYED.xml#seg_tv_items"/>
+			<Query 
+			class="type:x-xmb/folder-pixmap" 
+			key="SHURATO" 
+			attr="SHURATO" 
+			src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/VOD/ANIMES/SHURATO/SHURATO.xml#seg_tv_items"/>
+			<Query 
+			class="type:x-xmb/folder-pixmap" 
+			key="STREET_FIGHTER II" 
+			attr="STREET_FIGHTER II" 
+			src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/VOD/ANIMES/STREET_FIGHTER II/STREET_FIGHTER II.xml#seg_tv_items"/>
+				
+		</Items>
+    </View>
+</XMBML>

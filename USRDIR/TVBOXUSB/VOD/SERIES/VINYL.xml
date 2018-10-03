@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<XMBML version="1.0">
+	
+	<!-- Main  > zeTVmod > Submenu -->
+	<View id="seg_tv_items">
+		<Attributes>
+<Table key="VINYL 1x01 1"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/VINYL.jpg</String></Pair><Pair key="title"><String>VINYL 1x01 1</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=e202bb244f13bcc0</String></Pair></Table>
+<Table key="VINYL 1x01 2"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/VINYL.jpg</String></Pair><Pair key="title"><String>VINYL 1x01 2</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=490a5f446916fc9b</String></Pair></Table>
+<Table key="VINYL 1x02"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/VINYL.jpg</String></Pair><Pair key="title"><String>VINYL 1x02</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=123afad11e07e15a</String></Pair></Table>
+<Table key="VINYL 1x03"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/VINYL.jpg</String></Pair><Pair key="title"><String>VINYL 1x03</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=5f7dac2a9dbbf52f</String></Pair></Table>
+<Table key="VINYL 1x04"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/VINYL.jpg</String></Pair><Pair key="title"><String>VINYL 1x04</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=21a86a13927723aa</String></Pair></Table>
+<Table key="VINYL 1x05"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/VINYL.jpg</String></Pair><Pair key="title"><String>VINYL 1x05</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=d4569e38f6ed6655</String></Pair></Table>
+<Table key="VINYL 1x06"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/VINYL.jpg</String></Pair><Pair key="title"><String>VINYL 1x06</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=325b235a042f86f1</String></Pair></Table>
+<Table key="VINYL 1x07"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/VINYL.jpg</String></Pair><Pair key="title"><String>VINYL 1x07</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=26afddab35ec87b8</String></Pair></Table>
+<Table key="VINYL 1x08"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/VINYL.jpg</String></Pair><Pair key="title"><String>VINYL 1x08</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=64355b6efe1b7e7</String></Pair></Table>
+<Table key="VINYL 1x09"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/VINYL.jpg</String></Pair><Pair key="title"><String>VINYL 1x09</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=abcd6149bdd5dd6e</String></Pair></Table>
+<Table key="VINYL 1x10"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/VINYL.jpg</String></Pair><Pair key="title"><String>VINYL 1x10</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=dbec300ee58d5b97</String></Pair></Table>
+</Attributes>
+		<Items>
+<Item class="type:x-xmb/module-action" key="VINYL 1x01 1" attr="VINYL 1x01 1"/>
+<Item class="type:x-xmb/module-action" key="VINYL 1x01 2" attr="VINYL 1x01 2"/>
+<Item class="type:x-xmb/module-action" key="VINYL 1x02" attr="VINYL 1x02"/>
+<Item class="type:x-xmb/module-action" key="VINYL 1x03" attr="VINYL 1x03"/>
+<Item class="type:x-xmb/module-action" key="VINYL 1x04" attr="VINYL 1x04"/>
+<Item class="type:x-xmb/module-action" key="VINYL 1x05" attr="VINYL 1x05"/>
+<Item class="type:x-xmb/module-action" key="VINYL 1x06" attr="VINYL 1x06"/>
+<Item class="type:x-xmb/module-action" key="VINYL 1x07" attr="VINYL 1x07"/>
+<Item class="type:x-xmb/module-action" key="VINYL 1x08" attr="VINYL 1x08"/>
+<Item class="type:x-xmb/module-action" key="VINYL 1x09" attr="VINYL 1x09"/>
+<Item class="type:x-xmb/module-action" key="VINYL 1x10" attr="VINYL 1x10"/>
+</Items>
+	</View>
+
+</XMBML>		

@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<XMBML version="1.0">
+	
+	<!-- Main  > zeTVmod > Submenu -->
+	<View id="seg_tv_items">
+		<Attributes>
+<Table key="P01-DUB Os Cavaleiros do Zodíaco – Prologo Do Céu"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/VOD/ANIMES/OS_CAVALEIROS_DO_ZODIACO_O_FILME/OS_CAVALEIROS_DO_ZODIACO_O_FILME.jpg</String></Pair><Pair key="title"><String>P01-DUB Os Cavaleiros do Zodíaco – Prologo Do Céu</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=e57b92ac7b2e6555</String></Pair></Table>
+<Table key="P02-DUB Os Cavaleiros do Zodíaco – Prologo Do Céu"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/VOD/ANIMES/OS_CAVALEIROS_DO_ZODIACO_O_FILME/OS_CAVALEIROS_DO_ZODIACO_O_FILME.jpg</String></Pair><Pair key="title"><String>P02-DUB Os Cavaleiros do Zodíaco – Prologo Do Céu</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=7482a04e8a593fa</String></Pair></Table>
+<Table key="P03-DUB Os Cavaleiros do Zodíaco – Prologo Do Céu"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/VOD/ANIMES/OS_CAVALEIROS_DO_ZODIACO_O_FILME/OS_CAVALEIROS_DO_ZODIACO_O_FILME.jpg</String></Pair><Pair key="title"><String>P03-DUB Os Cavaleiros do Zodíaco – Prologo Do Céu</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=af2e813f11f379e9</String></Pair></Table>
+<Table key="1x1-DUB CDZ- A Lenda do Santuário"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/VOD/ANIMES/OS_CAVALEIROS_DO_ZODIACO_O_FILME/OS_CAVALEIROS_DO_ZODIACO_O_FILME2.jpg</String></Pair><Pair key="title"><String>1x1-DUB CDZ- A Lenda do Santuário</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=4a1582505a1d3c64</String></Pair></Table>
+<Table key="1x2-DUB CDZ- A Lenda do Santuário"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/VOD/ANIMES/OS_CAVALEIROS_DO_ZODIACO_O_FILME/OS_CAVALEIROS_DO_ZODIACO_O_FILME2.jpg</String></Pair><Pair key="title"><String>1x2-DUB CDZ- A Lenda do Santuário</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=9d52a2f857c6b2c4</String></Pair></Table>
+<Table key="1x3-DUB CDZ- A Lenda do Santuário"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/VOD/ANIMES/OS_CAVALEIROS_DO_ZODIACO_O_FILME/OS_CAVALEIROS_DO_ZODIACO_O_FILME2.jpg</String></Pair><Pair key="title"><String>1x3-DUB CDZ- A Lenda do Santuário</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=2c3f48af97701c93</String></Pair></Table>
+<Table key="1x4-DUB CDZ- A Lenda do Santuário"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/VOD/ANIMES/OS_CAVALEIROS_DO_ZODIACO_O_FILME/OS_CAVALEIROS_DO_ZODIACO_O_FILME2.jpg</String></Pair><Pair key="title"><String>1x4-DUB CDZ- A Lenda do Santuário</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=464241c0e8b315a</String></Pair></Table>
+</Attributes>
+		<Items>
+<Item class="type:x-xmb/module-action" key="P01-DUB Os Cavaleiros do Zodíaco – Prologo Do Céu" attr="P01-DUB Os Cavaleiros do Zodíaco – Prologo Do Céu"/>
+<Item class="type:x-xmb/module-action" key="P02-DUB Os Cavaleiros do Zodíaco – Prologo Do Céu" attr="P02-DUB Os Cavaleiros do Zodíaco – Prologo Do Céu"/>
+<Item class="type:x-xmb/module-action" key="P03-DUB Os Cavaleiros do Zodíaco – Prologo Do Céu" attr="P03-DUB Os Cavaleiros do Zodíaco – Prologo Do Céu"/>
+<Item class="type:x-xmb/module-action" key="1x1-DUB CDZ- A Lenda do Santuário" attr="1x1-DUB CDZ- A Lenda do Santuário"/>
+<Item class="type:x-xmb/module-action" key="1x2-DUB CDZ- A Lenda do Santuário" attr="1x2-DUB CDZ- A Lenda do Santuário"/>
+<Item class="type:x-xmb/module-action" key="1x3-DUB CDZ- A Lenda do Santuário" attr="1x3-DUB CDZ- A Lenda do Santuário"/>
+<Item class="type:x-xmb/module-action" key="1x4-DUB CDZ- A Lenda do Santuário" attr="1x4-DUB CDZ- A Lenda do Santuário"/>
+</Items>
+	</View>
+
+</XMBML>

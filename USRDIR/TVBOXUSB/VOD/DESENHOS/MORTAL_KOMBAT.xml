@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<XMBML version="1.0">
+	
+	<!-- Main  > zeTVmod > Submenu -->
+	<View id="seg_tv_items">
+		<Attributes>
+<Table key="01 Mortal Kombat,01 Mortal Kombat"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/DESENHOS/MORTAL_KOMBAT.jpg</String></Pair><Pair key="title"><String>01 Mortal Kombat,01 Mortal Kombat</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=e097f280242131fa</String></Pair></Table>
+<Table key="02 Mortal Kombat,02 Mortal Kombat"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/DESENHOS/MORTAL_KOMBAT.jpg</String></Pair><Pair key="title"><String>02 Mortal Kombat,02 Mortal Kombat</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=a1193c487f23eb34</String></Pair></Table>
+<Table key="03 Mortal Kombat,03 Mortal Kombat"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/DESENHOS/MORTAL_KOMBAT.jpg</String></Pair><Pair key="title"><String>03 Mortal Kombat,03 Mortal Kombat</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=39855574df43b56a</String></Pair></Table>
+<Table key="04 Mortal Kombat,04 Mortal Kombat"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/DESENHOS/MORTAL_KOMBAT.jpg</String></Pair><Pair key="title"><String>04 Mortal Kombat,04 Mortal Kombat</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=ad4c556e16f73c9d</String></Pair></Table>
+<Table key="05 Mortal Kombat,05 Mortal Kombat"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/DESENHOS/MORTAL_KOMBAT.jpg</String></Pair><Pair key="title"><String>05 Mortal Kombat,05 Mortal Kombat</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=ef1456191265f848</String></Pair></Table>
+<Table key="06 Mortal Kombat,06 Mortal Kombat"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/DESENHOS/MORTAL_KOMBAT.jpg</String></Pair><Pair key="title"><String>06 Mortal Kombat,06 Mortal Kombat</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=5c1d2577c9a5c208</String></Pair></Table>
+<Table key="07 Mortal Kombat,07 Mortal Kombat"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/DESENHOS/MORTAL_KOMBAT.jpg</String></Pair><Pair key="title"><String>07 Mortal Kombat,07 Mortal Kombat</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=2e69bb7456b4d72</String></Pair></Table>
+<Table key="08 Mortal Kombat,08 Mortal Kombat"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/DESENHOS/MORTAL_KOMBAT.jpg</String></Pair><Pair key="title"><String>08 Mortal Kombat,08 Mortal Kombat</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=3f4852ad4b6d0ee3</String></Pair></Table>
+<Table key="09 Mortal Kombat,09 Mortal Kombat"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/DESENHOS/MORTAL_KOMBAT.jpg</String></Pair><Pair key="title"><String>09 Mortal Kombat,09 Mortal Kombat</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=d7f7ef66518244b6</String></Pair></Table>
+<Table key="10 Mortal Kombat,10 Mortal Kombat"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/DESENHOS/MORTAL_KOMBAT.jpg</String></Pair><Pair key="title"><String>10 Mortal Kombat,10 Mortal Kombat</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=67886dc51c5f1cdb</String></Pair></Table>
+<Table key="11 Mortal Kombat,11 Mortal Kombat"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/DESENHOS/MORTAL_KOMBAT.jpg</String></Pair><Pair key="title"><String>11 Mortal Kombat,11 Mortal Kombat</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=84a779c64b1a060a</String></Pair></Table>
+<Table key="12 Mortal Kombat,12 Mortal Kombat"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/DESENHOS/MORTAL_KOMBAT.jpg</String></Pair><Pair key="title"><String>12 Mortal Kombat,12 Mortal Kombat</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=f5d8f50ae928f5aa</String></Pair></Table>
+<Table key="13 Mortal Kombat,13 Mortal Kombat"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/DESENHOS/MORTAL_KOMBAT.jpg</String></Pair><Pair key="title"><String>13 Mortal Kombat,13 Mortal Kombat</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=9edd603339a35752</String></Pair></Table>
+</Attributes>
+		<Items>
+<Item class="type:x-xmb/module-action" key="01 Mortal Kombat,01 Mortal Kombat" attr="01 Mortal Kombat,01 Mortal Kombat"/>
+<Item class="type:x-xmb/module-action" key="02 Mortal Kombat,02 Mortal Kombat" attr="02 Mortal Kombat,02 Mortal Kombat"/>
+<Item class="type:x-xmb/module-action" key="03 Mortal Kombat,03 Mortal Kombat" attr="03 Mortal Kombat,03 Mortal Kombat"/>
+<Item class="type:x-xmb/module-action" key="04 Mortal Kombat,04 Mortal Kombat" attr="04 Mortal Kombat,04 Mortal Kombat"/>
+<Item class="type:x-xmb/module-action" key="05 Mortal Kombat,05 Mortal Kombat" attr="05 Mortal Kombat,05 Mortal Kombat"/>
+<Item class="type:x-xmb/module-action" key="06 Mortal Kombat,06 Mortal Kombat" attr="06 Mortal Kombat,06 Mortal Kombat"/>
+<Item class="type:x-xmb/module-action" key="07 Mortal Kombat,07 Mortal Kombat" attr="07 Mortal Kombat,07 Mortal Kombat"/>
+<Item class="type:x-xmb/module-action" key="08 Mortal Kombat,08 Mortal Kombat" attr="08 Mortal Kombat,08 Mortal Kombat"/>
+<Item class="type:x-xmb/module-action" key="09 Mortal Kombat,09 Mortal Kombat" attr="09 Mortal Kombat,09 Mortal Kombat"/>
+<Item class="type:x-xmb/module-action" key="10 Mortal Kombat,10 Mortal Kombat" attr="10 Mortal Kombat,10 Mortal Kombat"/>
+<Item class="type:x-xmb/module-action" key="11 Mortal Kombat,11 Mortal Kombat" attr="11 Mortal Kombat,11 Mortal Kombat"/>
+<Item class="type:x-xmb/module-action" key="12 Mortal Kombat,12 Mortal Kombat" attr="12 Mortal Kombat,12 Mortal Kombat"/>
+<Item class="type:x-xmb/module-action" key="13 Mortal Kombat,13 Mortal Kombat" attr="13 Mortal Kombat,13 Mortal Kombat"/>
+</Items>
+	</View>
+
+</XMBML>		

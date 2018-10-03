@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<XMBML version="1.0">
+	
+	<!-- Main  > zeTVmod > Submenu -->
+	<View id="seg_tv_items">
+		<Attributes>
+<Table key="Spartacus  Vengeance 2x04/1"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/SPARTACUS_VENGEANCE.jpg</String></Pair><Pair key="title"><String>Spartacus  Vengeance 2x04/1</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=be67ffb421294736</String></Pair></Table>
+<Table key="Spartacus  Vengeance 2x04/2"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/SPARTACUS_VENGEANCE.jpg</String></Pair><Pair key="title"><String>Spartacus  Vengeance 2x04/2</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=628c1d4c87955dbb</String></Pair></Table>
+<Table key="Spartacus  Vengeance 2x05/1"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/SPARTACUS_VENGEANCE.jpg</String></Pair><Pair key="title"><String>Spartacus  Vengeance 2x05/1</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=35ab23c0f71c36cf</String></Pair></Table>
+<Table key="Spartacus  Vengeance 2x05/2"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/SPARTACUS_VENGEANCE.jpg</String></Pair><Pair key="title"><String>Spartacus  Vengeance 2x05/2</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=7f6756fefe42d676</String></Pair></Table>
+<Table key="Spartacus  Vengeance 2x09/1"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/SPARTACUS_VENGEANCE.jpg</String></Pair><Pair key="title"><String>Spartacus  Vengeance 2x09/1</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=d872443e44e8e50f</String></Pair></Table>
+<Table key="Spartacus  Vengeance 2x09/2"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/SPARTACUS_VENGEANCE.jpg</String></Pair><Pair key="title"><String>Spartacus  Vengeance 2x09/2</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=d1e33c2beca017c5</String></Pair></Table>
+</Attributes>
+		<Items>
+<Item class="type:x-xmb/module-action" key="Spartacus  Vengeance 2x04/1" attr="Spartacus  Vengeance 2x04/1"/>
+<Item class="type:x-xmb/module-action" key="Spartacus  Vengeance 2x04/2" attr="Spartacus  Vengeance 2x04/2"/>
+<Item class="type:x-xmb/module-action" key="Spartacus  Vengeance 2x05/1" attr="Spartacus  Vengeance 2x05/1"/>
+<Item class="type:x-xmb/module-action" key="Spartacus  Vengeance 2x05/2" attr="Spartacus  Vengeance 2x05/2"/>
+<Item class="type:x-xmb/module-action" key="Spartacus  Vengeance 2x09/1" attr="Spartacus  Vengeance 2x09/1"/>
+<Item class="type:x-xmb/module-action" key="Spartacus  Vengeance 2x09/2" attr="Spartacus  Vengeance 2x09/2"/>
+</Items>
+	</View>
+
+</XMBML>		

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<XMBML version="1.0">
+	
+	<!-- Main  > zeTVmod > Submenu -->
+	<View id="seg_tv_items">
+		<Attributes>
+<Table key="MARCO POLO 1X01"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/MARCO_POLO.jpg</String></Pair><Pair key="title"><String>MARCO POLO 1X01</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=ca67375a548e4a83</String></Pair></Table>
+<Table key="MARCO POLO 1X02"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/MARCO_POLO.jpg</String></Pair><Pair key="title"><String>MARCO POLO 1X02</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=ced229eff80ec343</String></Pair></Table>
+<Table key="MARCO POLO 1X03"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/MARCO_POLO.jpg</String></Pair><Pair key="title"><String>MARCO POLO 1X03</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=c9c434063cb2820f</String></Pair></Table>
+<Table key="MARCO POLO 1X04"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/MARCO_POLO.jpg</String></Pair><Pair key="title"><String>MARCO POLO 1X04</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=206edefb225953f3</String></Pair></Table>
+<Table key="MARCO POLO 1X05"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/MARCO_POLO.jpg</String></Pair><Pair key="title"><String>MARCO POLO 1X05</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=c78eff4f7fe17aa9</String></Pair></Table>
+<Table key="MARCO POLO 1X06"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/MARCO_POLO.jpg</String></Pair><Pair key="title"><String>MARCO POLO 1X06</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=b819cf9b5446309</String></Pair></Table>
+<Table key="MARCO POLO 1X07"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/MARCO_POLO.jpg</String></Pair><Pair key="title"><String>MARCO POLO 1X07</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=4e23fdfac4627b47</String></Pair></Table>
+<Table key="MARCO POLO 1X08"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/MARCO_POLO.jpg</String></Pair><Pair key="title"><String>MARCO POLO 1X08</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=5e6437ab29b4952f</String></Pair></Table>
+<Table key="MARCO POLO 1X09"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/MARCO_POLO.jpg</String></Pair><Pair key="title"><String>MARCO POLO 1X09</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=7a0c13a3ff9f8ee7</String></Pair></Table>
+<Table key="MARCO POLO 1X10"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/MARCO_POLO.jpg</String></Pair><Pair key="title"><String>MARCO POLO 1X10</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=5bcff26bc502381a</String></Pair></Table>
+<Table key="MARCO POLO 2X01"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/MARCO_POLO.jpg</String></Pair><Pair key="title"><String>MARCO POLO 2X01</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=9aae9308ddf4ab2f</String></Pair></Table>
+<Table key="MARCO POLO 2X02"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/MARCO_POLO.jpg</String></Pair><Pair key="title"><String>MARCO POLO 2X02</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=10b1a89c9337fa61</String></Pair></Table>
+<Table key="MARCO POLO 2X03"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/MARCO_POLO.jpg</String></Pair><Pair key="title"><String>MARCO POLO 2X03</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=296c4902fa11db2</String></Pair></Table>
+<Table key="MARCO POLO 2X04"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/MARCO_POLO.jpg</String></Pair><Pair key="title"><String>MARCO POLO 2X04</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=af24a02596764ba0</String></Pair></Table>
+<Table key="MARCO POLO 2X05"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/MARCO_POLO.jpg</String></Pair><Pair key="title"><String>MARCO POLO 2X05</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=746573e6bc654e3f</String></Pair></Table>
+<Table key="MARCO POLO 2X06"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/MARCO_POLO.jpg</String></Pair><Pair key="title"><String>MARCO POLO 2X06</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=7b4e5c22c7f90a4a</String></Pair></Table>
+<Table key="MARCO POLO 2X07"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/MARCO_POLO.jpg</String></Pair><Pair key="title"><String>MARCO POLO 2X07</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=ce623ea556d03950</String></Pair></Table>
+<Table key="MARCO POLO 2X08"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/MARCO_POLO.jpg</String></Pair><Pair key="title"><String>MARCO POLO 2X08</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=4fb276e4a9692df6</String></Pair></Table>
+<Table key="MARCO POLO 2X09"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/MARCO_POLO.jpg</String></Pair><Pair key="title"><String>MARCO POLO 2X09</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=34d3986ea9384e95</String></Pair></Table>
+</Attributes>
+		<Items>
+<Item class="type:x-xmb/module-action" key="MARCO POLO 1X01" attr="MARCO POLO 1X01"/>
+<Item class="type:x-xmb/module-action" key="MARCO POLO 1X02" attr="MARCO POLO 1X02"/>
+<Item class="type:x-xmb/module-action" key="MARCO POLO 1X03" attr="MARCO POLO 1X03"/>
+<Item class="type:x-xmb/module-action" key="MARCO POLO 1X04" attr="MARCO POLO 1X04"/>
+<Item class="type:x-xmb/module-action" key="MARCO POLO 1X05" attr="MARCO POLO 1X05"/>
+<Item class="type:x-xmb/module-action" key="MARCO POLO 1X06" attr="MARCO POLO 1X06"/>
+<Item class="type:x-xmb/module-action" key="MARCO POLO 1X07" attr="MARCO POLO 1X07"/>
+<Item class="type:x-xmb/module-action" key="MARCO POLO 1X08" attr="MARCO POLO 1X08"/>
+<Item class="type:x-xmb/module-action" key="MARCO POLO 1X09" attr="MARCO POLO 1X09"/>
+<Item class="type:x-xmb/module-action" key="MARCO POLO 1X10" attr="MARCO POLO 1X10"/>
+<Item class="type:x-xmb/module-action" key="MARCO POLO 2X01" attr="MARCO POLO 2X01"/>
+<Item class="type:x-xmb/module-action" key="MARCO POLO 2X02" attr="MARCO POLO 2X02"/>
+<Item class="type:x-xmb/module-action" key="MARCO POLO 2X03" attr="MARCO POLO 2X03"/>
+<Item class="type:x-xmb/module-action" key="MARCO POLO 2X04" attr="MARCO POLO 2X04"/>
+<Item class="type:x-xmb/module-action" key="MARCO POLO 2X05" attr="MARCO POLO 2X05"/>
+<Item class="type:x-xmb/module-action" key="MARCO POLO 2X06" attr="MARCO POLO 2X06"/>
+<Item class="type:x-xmb/module-action" key="MARCO POLO 2X07" attr="MARCO POLO 2X07"/>
+<Item class="type:x-xmb/module-action" key="MARCO POLO 2X08" attr="MARCO POLO 2X08"/>
+<Item class="type:x-xmb/module-action" key="MARCO POLO 2X09" attr="MARCO POLO 2X09"/>
+</Items>
+	</View>
+
+</XMBML>		

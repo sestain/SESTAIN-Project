@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<XMBML version="1.0">
+<View id="seg_install_files_og_path">
+		<Items>
+			<Query class="type:x-xmb/xmlpackagefolder" 
+			key="host_provider_usb0" 
+			src="host://localhost/q?path=/dev_usb000&suffix=.pkg&subclass=x-host/package"/>
+			</Items>
+	</View>
+</XMBML>

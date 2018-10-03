@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<XMBML version="1.0">
+	
+	<!-- Main  > zeTVmod > Submenu -->
+	<View id="seg_tv_items">
+		<Attributes>
+<Table key="LOST 1X01"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/LOST.jpg</String></Pair><Pair key="title"><String>LOST 1X01</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=6ae1a1c7cfec0756</String></Pair></Table>
+<Table key="LOST 1X02"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/LOST.jpg</String></Pair><Pair key="title"><String>LOST 1X02</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=8bca5fa8189e277a</String></Pair></Table>
+<Table key="LOST 1X03"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/LOST.jpg</String></Pair><Pair key="title"><String>LOST 1X03</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=d6586dadf47ea9d2</String></Pair></Table>
+<Table key="LOST 1X04"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/LOST.jpg</String></Pair><Pair key="title"><String>LOST 1X04</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=7fd391a5b3ac80d9</String></Pair></Table>
+<Table key="LOST 1X05"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/LOST.jpg</String></Pair><Pair key="title"><String>LOST 1X05</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=3a27c54c4b1f95eb</String></Pair></Table>
+<Table key="LOST 1X06"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/LOST.jpg</String></Pair><Pair key="title"><String>LOST 1X06</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=8d6e25de09c63a31</String></Pair></Table>
+<Table key="LOST 1X07"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/LOST.jpg</String></Pair><Pair key="title"><String>LOST 1X07</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=d7cff9c76b90a914</String></Pair></Table>
+<Table key="LOST 1X08"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/LOST.jpg</String></Pair><Pair key="title"><String>LOST 1X08</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=39b145c2bd67f09a</String></Pair></Table>
+<Table key="LOST 1X09"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/LOST.jpg</String></Pair><Pair key="title"><String>LOST 1X09</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=665ff42fee60f274</String></Pair></Table>
+<Table key="LOST 1X10"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/LOST.jpg</String></Pair><Pair key="title"><String>LOST 1X10</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=1d2163cfc1ce998c</String></Pair></Table>
+<Table key="LOST 1X11"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/LOST.jpg</String></Pair><Pair key="title"><String>LOST 1X11</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=ee30135485b6967c</String></Pair></Table>
+<Table key="LOST 1X12"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/LOST.jpg</String></Pair><Pair key="title"><String>LOST 1X12</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=d9e732e351a96ffa</String></Pair></Table>
+<Table key="LOST 1X13"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/LOST.jpg</String></Pair><Pair key="title"><String>LOST 1X13</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=86e424255359f9bb</String></Pair></Table>
+<Table key="LOST 1X14"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/LOST.jpg</String></Pair><Pair key="title"><String>LOST 1X14</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=24ae25542f06e99e</String></Pair></Table>
+<Table key="LOST 1X15"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/LOST.jpg</String></Pair><Pair key="title"><String>LOST 1X15</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=6a57c164397c58bb</String></Pair></Table>
+<Table key="LOST 1X16"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/LOST.jpg</String></Pair><Pair key="title"><String>LOST 1X16</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=8dc124bc33470c49</String></Pair></Table>
+<Table key="LOST 1X17"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/LOST.jpg</String></Pair><Pair key="title"><String>LOST 1X17</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=e1757731c835d47</String></Pair></Table>
+<Table key="LOST 1X18"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/LOST.jpg</String></Pair><Pair key="title"><String>LOST 1X18</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=52b17434ed4935d5</String></Pair></Table>
+<Table key="LOST 1X19"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/LOST.jpg</String></Pair><Pair key="title"><String>LOST 1X19</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=a1874c0429ad9f5c</String></Pair></Table>
+<Table key="LOST 1X20"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/LOST.jpg</String></Pair><Pair key="title"><String>LOST 1X20</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=95eef580e0fc0a96</String></Pair></Table>
+<Table key="LOST 1X21"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/LOST.jpg</String></Pair><Pair key="title"><String>LOST 1X21</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=1e8e1ab84a145bdf</String></Pair></Table>
+<Table key="LOST 1X22"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/LOST.jpg</String></Pair><Pair key="title"><String>LOST 1X22</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=cdaea094c4e09590</String></Pair></Table>
+<Table key="LOST 1X23"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/LOST.jpg</String></Pair><Pair key="title"><String>LOST 1X23</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=5f1dd3d9d3804e17</String></Pair></Table>
+<Table key="LOST 1X24"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/LOST.jpg</String></Pair><Pair key="title"><String>LOST 1X24</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=9f2e4daedcbd08bc</String></Pair></Table>
+<Table key="LOST 1X25"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/LOST.jpg</String></Pair><Pair key="title"><String>LOST 1X25</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=4c8aabe0e691f186</String></Pair></Table></Attributes>
+</Attributes>
+		<Items>
+<Item class="type:x-xmb/module-action" key="LOST 1X01" attr="LOST 1X01"/>
+<Item class="type:x-xmb/module-action" key="LOST 1X02" attr="LOST 1X02"/>
+<Item class="type:x-xmb/module-action" key="LOST 1X03" attr="LOST 1X03"/>
+<Item class="type:x-xmb/module-action" key="LOST 1X04" attr="LOST 1X04"/>
+<Item class="type:x-xmb/module-action" key="LOST 1X05" attr="LOST 1X05"/>
+<Item class="type:x-xmb/module-action" key="LOST 1X06" attr="LOST 1X06"/>
+<Item class="type:x-xmb/module-action" key="LOST 1X07" attr="LOST 1X07"/>
+<Item class="type:x-xmb/module-action" key="LOST 1X08" attr="LOST 1X08"/>
+<Item class="type:x-xmb/module-action" key="LOST 1X09" attr="LOST 1X09"/>
+<Item class="type:x-xmb/module-action" key="LOST 1X10" attr="LOST 1X10"/>
+<Item class="type:x-xmb/module-action" key="LOST 1X11" attr="LOST 1X11"/>
+<Item class="type:x-xmb/module-action" key="LOST 1X12" attr="LOST 1X12"/>
+<Item class="type:x-xmb/module-action" key="LOST 1X13" attr="LOST 1X13"/>
+<Item class="type:x-xmb/module-action" key="LOST 1X14" attr="LOST 1X14"/>
+<Item class="type:x-xmb/module-action" key="LOST 1X15" attr="LOST 1X15"/>
+<Item class="type:x-xmb/module-action" key="LOST 1X16" attr="LOST 1X16"/>
+<Item class="type:x-xmb/module-action" key="LOST 1X17" attr="LOST 1X17"/>
+<Item class="type:x-xmb/module-action" key="LOST 1X18" attr="LOST 1X18"/>
+<Item class="type:x-xmb/module-action" key="LOST 1X19" attr="LOST 1X19"/>
+<Item class="type:x-xmb/module-action" key="LOST 1X20" attr="LOST 1X20"/>
+<Item class="type:x-xmb/module-action" key="LOST 1X21" attr="LOST 1X21"/>
+<Item class="type:x-xmb/module-action" key="LOST 1X22" attr="LOST 1X22"/>
+<Item class="type:x-xmb/module-action" key="LOST 1X23" attr="LOST 1X23"/>
+<Item class="type:x-xmb/module-action" key="LOST 1X24" attr="LOST 1X24"/>
+<Item class="type:x-xmb/module-action" key="LOST 1X25" attr="LOST 1X25"/>
+</Items>
+	</View>
+
+</XMBML>		

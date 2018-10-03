@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<XMBML version="1.0">
+<View id="loja_usb_main"> 
+		<Attributes> 
+           <Table key="freegame">
+                <Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/loja_usb_png/freegame.png</String></Pair>
+                <Pair key="title"><String>Free Game Store</String></Pair>
+                <Pair key="info"><String></String></Pair>
+                <Pair key="ingame"><String>Disable</String></Pair>
+            </Table>
+			<Table key="katstore">
+                <Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/loja_usb_png/katstore.png</String></Pair>
+                <Pair key="title"><String>Kat Store</String></Pair>
+                <Pair key="info"><String></String></Pair>
+                <Pair key="ingame"><String>Disable</String></Pair>
+            </Table>
+			<Table key="Sallayin_Store">
+                <Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/loja_usb_png/Sallayin.png</String></Pair>
+                <Pair key="title"><String>Sallayin Store</String></Pair>
+                <Pair key="info"><String></String></Pair>
+                <Pair key="ingame"><String>Disable</String></Pair>
+            </Table>
+			<Table key="Freeshop">
+                <Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/loja_usb_png/Freeshop.png</String></Pair>
+                <Pair key="title"><String>Cyber Store</String></Pair>
+                <Pair key="info"><String></String></Pair>
+                <Pair key="ingame"><String>Disable</String></Pair>
+            </Table>
+			<Table key="han_toolbox_xmb2">
+                <Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/loja_usb_png/cyber.png</String></Pair>
+                <Pair key="title"><String>Monterxto</String></Pair>
+                <Pair key="info"><String></String></Pair>
+                <Pair key="ingame"><String>Disable</String></Pair>
+            </Table>
+			<Table key="han_toolbox_xmbZE">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/loja_usb_png/rc.png</String></Pair>
+				<Pair key="icon_notation"><String>WNT_XmbItemAlbum</String></Pair>
+				<Pair key="title"><String>RC Store</String></Pair>
+				<Pair key="info"><String></String></Pair>
+				<Pair key="ingame"><String>disable</String></Pair>
+			</Table>
+			<Table key="han_xmb_addon5">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/loja_usb_png/dh.png</String></Pair>
+				<Pair key="icon_notation"><String>WNT_XmbItemAlbum</String></Pair>
+				<Pair key="title"><String>Stuff Browser DH</String></Pair>
+				<Pair key="info"><String>X</String></Pair>
+				<Pair key="ingame"><String>disable</String></Pair>
+			</Table>
+			<Table key="xmb_manager_plus1">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/loja_usb_png/alex.png</String></Pair>
+				<Pair key="icon_notation"><String>WNT_XmbItemAlbum</String></Pair>
+				<Pair key="title"><String>ALEX STORE</String></Pair>
+				<Pair key="info"><String></String></Pair>
+				<Pair key="ingame"><String>disable</String></Pair>
+			</Table>
+<Table key="tcxs">
+                <Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/loja_usb_png/vip.png</String></Pair>
+                <Pair key="title"><String>TCXS Project</String></Pair>
+                <Pair key="info"><String>.</String></Pair>
+                <Pair key="ingame"><String>Disable</String></Pair>
+            </Table>
+			
+		</Attributes>
+			<Items>
+
+<Query
+				 class="type:x-xmb/folder-pixmap"
+				 key="han_toolbox_xmb2"
+				 attr="han_toolbox_xmb2"
+				 src="xmb://localhost/dev_usb000/game/XTO/USRDIR/han_toolbox_xmb.xml#han_toolbox_xmb_main"
+				 />
+			 <Query
+				 class="type:x-xmb/folder-pixmap"
+				 key="freegame"
+				 attr="freegame"
+				 src="xmb://localhost/dev_usb000/game/FREEGAME/USRDIR/han_toolbox_xmb_sa.xml#han_toolbox_xmb_main"
+				 />
+				 <Query
+				 class="type:x-xmb/folder-pixmap"
+				 key="katstore"
+				 attr="katstore"
+				 src="xmb://localhost/dev_usb000/game/katstore/USRDIR/han_toolbox_xmb.xml#han_toolbox_xmb_main"
+				 />
+				 <Query
+				 class="type:x-xmb/folder-pixmap"
+				 key="Sallayin_Store"
+				 attr="Sallayin_Store"
+				 src="xmb://localhost/dev_usb000/game/Sallayin_Store/USRDIR/han_toolbox_xmb_sa.xml#han_toolbox_xmb_main"
+				 />
+				  <Query
+				 class="type:x-xmb/folder-pixmap"
+				 key="Freeshop"
+				 attr="Freeshop"
+				 src="xmb://localhost/dev_usb000/game/Freeshop/USRDIR/han_toolbox_xmb.xml#han_toolbox_xmb_main"
+				 />
+			
+				 <Query
+				 class="type:x-xmb/folder-pixmap"
+				 key="han_toolbox_xmbZE"
+				 attr="han_toolbox_xmbZE"
+				 src="xmb://localhost/dev_usb000/game/HANTOOLRC/USRDIR/han_toolbox_xmb_rc.xml#han_external_content_main"
+				 />
+				 <Query
+				 class="type:x-xmb/folder-pixmap"
+				 key="han_xmb_addon5"
+				 attr="han_xmb_addon5"
+				 src="xmb://localhost/dev_usb000/game/HANXMBA05/USRDIR/han_xmb_addon5.xml#han_xmb_addon5_main"
+				 />
+				 <Query
+				class="type:x-xmb/folder-pixmap"
+				key="xmb_manager_plus1"
+				attr="xmb_manager_plus1"
+				src="xmb://localhost/dev_usb000/game/ALEXSTORE/USRDIR/pett_xmb.xml#pett_xmb_main"
+				/>
+				<Query
+				 class="type:x-xmb/folder-pixmap"
+				 key="tcxs"
+				 attr="tcxs"
+				 src="xmb://localhost/dev_usb000/game/TCXS_VIP/USRDIR/han_toolbox_xmb.xml#han_toolbox_xmb_main"
+				 />
+		</Items>
+	</View>
+
+</XMBML>

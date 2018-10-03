@@ -1,0 +1,1182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<XMBML version="1.0">
+
+    <!-- Main  > zeTVmod > Submenu -->
+    <View id="seg_tv_items">
+        <Attributes>
+            <Table key="Música eletrônica">
+                <Pair key="icon">
+                    <String>/dev_hdd0/game/HANTOOLBX/USRDIR/tv.png</String>
+                </Pair>
+                <Pair key="title">
+                    <String>Música eletrônica</String>
+                </Pair>
+                <Pair key="module_name">
+                    <String>webbrowser_plugin</String>
+                </Pair>
+                <Pair key="module_action">
+                    <String>http://vv.ipstatp.com/353333afeeefcba71e33a632f29affcb.mp4</String>
+                </Pair>
+            </Table>
+            <Table key="CD Marília Mendonça">
+                <Pair key="icon">
+                    <String>/dev_hdd0/game/HANTOOLBX/USRDIR/tv.png</String>
+                </Pair>
+                <Pair key="title">
+                    <String>CD Marília Mendonça</String>
+                </Pair>
+                <Pair key="module_name">
+                    <String>webbrowser_plugin</String>
+                </Pair>
+                <Pair key="module_action">
+                    <String>http://vv.ipstatp.com/8513417af64b9e48f0a1b3edc33ba687.mp4</String>
+                </Pair>
+            </Table>
+            <Table key="Tirulipa Ele não morreu, Paródia/We are the World | Michael Jackson">
+                <Pair key="icon">
+                    <String>/dev_hdd0/game/HANTOOLBX/USRDIR/tv.png</String>
+                </Pair>
+                <Pair key="title">
+                    <String>Tirulipa Ele não morreu, Paródia/We are the World | Michael Jackson</String>
+                </Pair>
+                <Pair key="module_name">
+                    <String>webbrowser_plugin</String>
+                </Pair>
+                <Pair key="module_action">
+                    <String>http://www.blogger.com/video-play.mp4?contentId=68dfeadf36ff4482</String>
+                </Pair>
+            </Table>
+            <Table key="Tirulipa ELA JÁ VEM NO STREET FIGHTER">
+                <Pair key="icon">
+                    <String>/dev_hdd0/game/HANTOOLBX/USRDIR/tv.png</String>
+                </Pair>
+                <Pair key="title">
+                    <String>Tirulipa ELA JÁ VEM NO STREET FIGHTER</String>
+                </Pair>
+                <Pair key="module_name">
+                    <String>webbrowser_plugin</String>
+                </Pair>
+                <Pair key="module_action">
+                    <String>http://www.blogger.com/video-play.mp4?contentId=1b1b8289d1676cb6</String>
+                </Pair>
+            </Table>
+            <Table key="Tirulipa Cabaço Bobo Paródia  Maiara  Maraisa">
+                <Pair key="icon">
+                    <String>/dev_hdd0/game/HANTOOLBX/USRDIR/tv.png</String>
+                </Pair>
+                <Pair key="title">
+                    <String>Tirulipa Cabaço Bobo Paródia Maiara Maraisa</String>
+                </Pair>
+                <Pair key="module_name">
+                    <String>webbrowser_plugin</String>
+                </Pair>
+                <Pair key="module_action">
+                    <String>http://www.blogger.com/video-play.mp4?contentId=783e24f3837c0733</String>
+                </Pair>
+            </Table>
+            <Table key="Tirullipa EIKE mais um pro Lava jato  Paródia  de Marilia Mendonça  Eu sei de Cor">
+                <Pair key="icon">
+                    <String>/dev_hdd0/game/HANTOOLBX/USRDIR/tv.png</String>
+                </Pair>
+                <Pair key="title">
+                    <String>Tirullipa EIKE mais um pro Lava jato Paródia de Marilia Mendonça Eu sei de Cor</String>
+                </Pair>
+                <Pair key="module_name">
+                    <String>webbrowser_plugin</String>
+                </Pair>
+                <Pair key="module_action">
+                    <String>http://www.blogger.com/video-play.mp4?contentId=c33b934999aa8cdc</String>
+                </Pair>
+            </Table>
+            <Table key="Tirullipa Me Deu Onda -Deu Mona  Paródia ">
+                <Pair key="icon">
+                    <String>/dev_hdd0/game/HANTOOLBX/USRDIR/tv.png</String>
+                </Pair>
+                <Pair key="title">
+                    <String>Tirullipa Me Deu Onda -Deu Mona Paródia </String>
+                </Pair>
+                <Pair key="module_name">
+                    <String>webbrowser_plugin</String>
+                </Pair>
+                <Pair key="module_action">
+                    <String>http://www.blogger.com/video-play.mp4?contentId=4e90b921f2f790e2</String>
+                </Pair>
+            </Table>
+            <Table key="Rihanna   Work (Explicit) ft Drake">
+                <Pair key="icon">
+                    <String>/dev_hdd0/game/HANTOOLBX/USRDIR/tv.png</String>
+                </Pair>
+                <Pair key="title">
+                    <String>Rihanna Work (Explicit) ft Drake</String>
+                </Pair>
+                <Pair key="module_name">
+                    <String>webbrowser_plugin</String>
+                </Pair>
+                <Pair key="module_action">
+                    <String>http://www.blogger.com/video-play.mp4?contentId=1f8783d75d89a126</String>
+                </Pair>
+            </Table>
+            <Table key="Tirullipa Paródia Égua ft Gayke Rihanna - Work ft Drake">
+                <Pair key="icon">
+                    <String>/dev_hdd0/game/HANTOOLBX/USRDIR/tv.png</String>
+                </Pair>
+                <Pair key="title">
+                    <String>Tirullipa Paródia Égua ft Gayke Rihanna - Work ft Drake</String>
+                </Pair>
+                <Pair key="module_name">
+                    <String>webbrowser_plugin</String>
+                </Pair>
+                <Pair key="module_action">
+                    <String>http://www.blogger.com/video-play.mp4?contentId=d63aa29cb581f6d8</String>
+                </Pair>
+            </Table>
+            <Table key="The Weeknd   Starboy ft Daft Punk">
+                <Pair key="icon">
+                    <String>/dev_hdd0/game/HANTOOLBX/USRDIR/tv.png</String>
+                </Pair>
+                <Pair key="title">
+                    <String>The Weeknd Starboy ft Daft Punk</String>
+                </Pair>
+                <Pair key="module_name">
+                    <String>webbrowser_plugin</String>
+                </Pair>
+                <Pair key="module_action">
+                    <String>http://www.blogger.com/video-play.mp4?contentId=a6633ee21ae6aee5</String>
+                </Pair>
+            </Table>
+            <Table key="Whindersson LARGA MEU BOY  PARÓDIA The Weeknd   Starboy ft Daft Punk">
+                <Pair key="icon">
+                    <String>/dev_hdd0/game/HANTOOLBX/USRDIR/tv.png</String>
+                </Pair>
+                <Pair key="title">
+                    <String>Whindersson LARGA MEU BOY PARÓDIA The Weeknd Starboy ft Daft Punk</String>
+                </Pair>
+                <Pair key="module_name">
+                    <String>webbrowser_plugin</String>
+                </Pair>
+                <Pair key="module_action">
+                    <String>http://www.blogger.com/video-play.mp4?contentId=260434f6c992c190</String>
+                </Pair>
+            </Table>
+            <Table key="Whindersson QUAL É A SENHA DO WIFI   Paródia Adele   Hello">
+                <Pair key="icon">
+                    <String>/dev_hdd0/game/HANTOOLBX/USRDIR/tv.png</String>
+                </Pair>
+                <Pair key="title">
+                    <String>Whindersson QUAL É A SENHA DO WIFI Paródia Adele Hello</String>
+                </Pair>
+                <Pair key="module_name">
+                    <String>webbrowser_plugin</String>
+                </Pair>
+                <Pair key="module_action">
+                    <String>http://www.blogger.com/video-play.mp4?contentId=b017beb4b885194c</String>
+                </Pair>
+            </Table>
+            <Table key="Whindersson Nunes & Tirulipa -Só os Cambitos PARÓDIA Luis Fonsi, Daddy Yankee - Despacito ">
+                <Pair key="icon">
+                    <String>/dev_hdd0/game/HANTOOLBX/USRDIR/tv.png</String>
+                </Pair>
+                <Pair key="title">
+                    <String>Whindersson Nunes & Tirulipa -Só os Cambitos PARÓDIA Luis Fonsi, Daddy Yankee - Despacito </String>
+                </Pair>
+                <Pair key="module_name">
+                    <String>webbrowser_plugin</String>
+                </Pair>
+                <Pair key="module_action">
+                    <String>http://www.blogger.com/video-play.mp4?contentId=bb7086d2d523b83c</String>
+                </Pair>
+            </Table>
+            <Table key="Whinderssonnunes eu Cansei de ser Pobre ">
+                <Pair key="icon">
+                    <String>/dev_hdd0/game/HANTOOLBX/USRDIR/tv.png</String>
+                </Pair>
+                <Pair key="title">
+                    <String>Whinderssonnunes eu Cansei de ser Pobre </String>
+                </Pair>
+                <Pair key="module_name">
+                    <String>webbrowser_plugin</String>
+                </Pair>
+                <Pair key="module_action">
+                    <String>http://www.blogger.com/video-play.mp4?contentId=783dbac5f67ca425</String>
+                </Pair>
+            </Table>
+            <Table key="Tirullipa GORDA paródia de Tirullipa  LOKA Simone, Simaria e Anitta">
+                <Pair key="icon">
+                    <String>/dev_hdd0/game/HANTOOLBX/USRDIR/tv.png</String>
+                </Pair>
+                <Pair key="title">
+                    <String>Tirullipa GORDA paródia de Tirullipa LOKA Simone, Simaria e Anitta</String>
+                </Pair>
+                <Pair key="module_name">
+                    <String>webbrowser_plugin</String>
+                </Pair>
+                <Pair key="module_action">
+                    <String>http://www.blogger.com/video-play.mp4?contentId=1d604a657e860428</String>
+                </Pair>
+            </Table>
+            <Table key="Whindersson EU VIREI GAY  PARÓDIA Jorge & Mateus - Sosseguei">
+                <Pair key="icon">
+                    <String>/dev_hdd0/game/HANTOOLBX/USRDIR/tv.png</String>
+                </Pair>
+                <Pair key="title">
+                    <String>Whindersson EU VIREI GAY PARÓDIA Jorge & Mateus - Sosseguei</String>
+                </Pair>
+                <Pair key="module_name">
+                    <String>webbrowser_plugin</String>
+                </Pair>
+                <Pair key="module_action">
+                    <String>http://www.blogger.com/video-play.mp4?contentId=1becfe000fc36731</String>
+                </Pair>
+            </Table>
+            <Table key="Tirullipa FREEBODE Carne boa e de procedência é a de bode Paródia Ed Sheeran">
+                <Pair key="icon">
+                    <String>/dev_hdd0/game/HANTOOLBX/USRDIR/tv.png</String>
+                </Pair>
+                <Pair key="title">
+                    <String>Tirullipa FREEBODE Carne boa e de procedência é a de bode Paródia Ed Sheeran</String>
+                </Pair>
+                <Pair key="module_name">
+                    <String>webbrowser_plugin</String>
+                </Pair>
+                <Pair key="module_action">
+                    <String>http://www.blogger.com/video-play.mp4?contentId=8cde33bb5477f852</String>
+                </Pair>
+            </Table>
+            <Table key="Tirulipa VOCÊ VEM ME COBRAR PENSÃO">
+                <Pair key="icon">
+                    <String>/dev_hdd0/game/HANTOOLBX/USRDIR/tv.png</String>
+                </Pair>
+                <Pair key="title">
+                    <String>Tirulipa VOCÊ VEM ME COBRAR PENSÃO</String>
+                </Pair>
+                <Pair key="module_name">
+                    <String>webbrowser_plugin</String>
+                </Pair>
+                <Pair key="module_action">
+                    <String>http://www.blogger.com/video-play.mp4?contentId=6610d7d3c630ef09</String>
+                </Pair>
+            </Table>
+            <Table key="Tirullipa Paródia Wesley Garotão">
+                <Pair key="icon">
+                    <String>/dev_hdd0/game/HANTOOLBX/USRDIR/tv.png</String>
+                </Pair>
+                <Pair key="title">
+                    <String>Tirullipa Paródia Wesley Garotão</String>
+                </Pair>
+                <Pair key="module_name">
+                    <String>webbrowser_plugin</String>
+                </Pair>
+                <Pair key="module_action">
+                    <String>http://www.blogger.com/video-play.mp4?contentId=35d03bd5315efad8</String>
+                </Pair>
+            </Table>
+            <Table key="Tirullipa Politiquinha Paródia">
+                <Pair key="icon">
+                    <String>/dev_hdd0/game/HANTOOLBX/USRDIR/tv.png</String>
+                </Pair>
+                <Pair key="title">
+                    <String>Tirullipa Politiquinha Paródia</String>
+                </Pair>
+                <Pair key="module_name">
+                    <String>webbrowser_plugin</String>
+                </Pair>
+                <Pair key="module_action">
+                    <String>http://www.blogger.com/video-play.mp4?contentId=680f7c733f94168c</String>
+                </Pair>
+            </Table>
+            <Table key="Ed Sheeran   Shape">
+                <Pair key="icon">
+                    <String>/dev_hdd0/game/HANTOOLBX/USRDIR/tv.png</String>
+                </Pair>
+                <Pair key="title">
+                    <String>Ed Sheeran Shape</String>
+                </Pair>
+                <Pair key="module_name">
+                    <String>webbrowser_plugin</String>
+                </Pair>
+                <Pair key="module_action">
+                    <String>http://www.blogger.com/video-play.mp4?contentId=3d776b643ec5d563</String>
+                </Pair>
+            </Table>
+            <Table key=" Bruno Martini feat Zeeba Hear Me Now ">
+                <Pair key="icon">
+                    <String>/dev_hdd0/game/HANTOOLBX/USRDIR/tv.png</String>
+                </Pair>
+                <Pair key="title">
+                    <String> Bruno Martini feat Zeeba Hear Me Now </String>
+                </Pair>
+                <Pair key="module_name">
+                    <String>webbrowser_plugin</String>
+                </Pair>
+                <Pair key="module_action">
+                    <String>http://www.blogger.com/video-play.mp4?contentId=65c30c51b1a3028f</String>
+                </Pair>
+            </Table>
+            <Table key=" Hear Me Now DJ Alok  Planeta Atlântida 2017  ">
+                <Pair key="icon">
+                    <String>/dev_hdd0/game/HANTOOLBX/USRDIR/tv.png</String>
+                </Pair>
+                <Pair key="title">
+                    <String> Hear Me Now DJ Alok Planeta Atlântida 2017 </String>
+                </Pair>
+                <Pair key="module_name">
+                    <String>webbrowser_plugin</String>
+                </Pair>
+                <Pair key="module_action">
+                    <String>http://www.blogger.com/video-play.mp4?contentId=942b8f0fe734261c</String>
+                </Pair>
+            </Table>
+            <Table key="Beth   Don't You Worry Child (Charming Horses Remix) ">
+                <Pair key="icon">
+                    <String>/dev_hdd0/game/HANTOOLBX/USRDIR/tv.png</String>
+                </Pair>
+                <Pair key="title">
+                    <String>Beth Don't You Worry Child (Charming Horses Remix) </String>
+                </Pair>
+                <Pair key="module_name">
+                    <String>webbrowser_plugin</String>
+                </Pair>
+                <Pair key="module_action">
+                    <String>http://www.blogger.com/video-play.mp4?contentId=33d8566f9183c7ea</String>
+                </Pair>
+            </Table>
+            <Table key="Felix Jaehn   Book Of Love (Official Video) ft Polina">
+                <Pair key="icon">
+                    <String>/dev_hdd0/game/HANTOOLBX/USRDIR/tv.png</String>
+                </Pair>
+                <Pair key="title">
+                    <String>Felix Jaehn Book Of Love (Official Video) ft Polina</String>
+                </Pair>
+                <Pair key="module_name">
+                    <String>webbrowser_plugin</String>
+                </Pair>
+                <Pair key="module_action">
+                    <String>http://www.blogger.com/video-play.mp4?contentId=cd0b61a0178b866e</String>
+                </Pair>
+            </Table>
+            <Table key="Robin Schulz   Sugar (feat Francesco Yates)">
+                <Pair key="icon">
+                    <String>/dev_hdd0/game/HANTOOLBX/USRDIR/tv.png</String>
+                </Pair>
+                <Pair key="title">
+                    <String>Robin Schulz Sugar (feat Francesco Yates)</String>
+                </Pair>
+                <Pair key="module_name">
+                    <String>webbrowser_plugin</String>
+                </Pair>
+                <Pair key="module_action">
+                    <String>http://www.blogger.com/video-play.mp4?contentId=6c038dc2f3798ac2</String>
+                </Pair>
+            </Table>
+            <Table key="Tove Lo Habits (Stay High)   Hippie Sabotage Remix">
+                <Pair key="icon">
+                    <String>/dev_hdd0/game/HANTOOLBX/USRDIR/tv.png</String>
+                </Pair>
+                <Pair key="title">
+                    <String>Tove Lo Habits (Stay High) Hippie Sabotage Remix</String>
+                </Pair>
+                <Pair key="module_name">
+                    <String>webbrowser_plugin</String>
+                </Pair>
+                <Pair key="module_action">
+                    <String>http://www.blogger.com/video-play.mp4?contentId=aeb57949f0d61f9e</String>
+                </Pair>
+            </Table>
+            <Table key="Dj Snake   Let Me Love You ft Justin Bieber">
+                <Pair key="icon">
+                    <String>/dev_hdd0/game/HANTOOLBX/USRDIR/tv.png</String>
+                </Pair>
+                <Pair key="title">
+                    <String>Dj Snake Let Me Love You ft Justin Bieber</String>
+                </Pair>
+                <Pair key="module_name">
+                    <String>webbrowser_plugin</String>
+                </Pair>
+                <Pair key="module_action">
+                    <String>http://www.blogger.com/video-play.mp4?contentId=7897fc9c47a0a684</String>
+                </Pair>
+            </Table>
+            <Table key="Calvin Harris  Disciples   How Deep Is Your Love">
+                <Pair key="icon">
+                    <String>/dev_hdd0/game/HANTOOLBX/USRDIR/tv.png</String>
+                </Pair>
+                <Pair key="title">
+                    <String>Calvin Harris Disciples How Deep Is Your Love</String>
+                </Pair>
+                <Pair key="module_name">
+                    <String>webbrowser_plugin</String>
+                </Pair>
+                <Pair key="module_action">
+                    <String>http://www.blogger.com/video-play.mp4?contentId=949c39b4b9c82513</String>
+                </Pair>
+            </Table>
+            <Table key="David Guetta Feat Kelly Rowland   When Love Takes Over">
+                <Pair key="icon">
+                    <String>/dev_hdd0/game/HANTOOLBX/USRDIR/tv.png</String>
+                </Pair>
+                <Pair key="title">
+                    <String>David Guetta Feat Kelly Rowland When Love Takes Over</String>
+                </Pair>
+                <Pair key="module_name">
+                    <String>webbrowser_plugin</String>
+                </Pair>
+                <Pair key="module_action">
+                    <String>http://www.blogger.com/video-play.mp4?contentId=a1fd7baad5257fe</String>
+                </Pair>
+            </Table>
+            <Table key="Major Lazer  DJ Snake   Lean On (feat MØ) ">
+                <Pair key="icon">
+                    <String>/dev_hdd0/game/HANTOOLBX/USRDIR/tv.png</String>
+                </Pair>
+                <Pair key="title">
+                    <String>Major Lazer DJ Snake Lean On (feat MØ) </String>
+                </Pair>
+                <Pair key="module_name">
+                    <String>webbrowser_plugin</String>
+                </Pair>
+                <Pair key="module_action">
+                    <String>http://www.blogger.com/video-play.mp4?contentId=1dbe4aac18c8473b</String>
+                </Pair>
+            </Table>
+            <Table key="First Of The Year (Equinox)   Skrillex">
+                <Pair key="icon">
+                    <String>/dev_hdd0/game/HANTOOLBX/USRDIR/tv.png</String>
+                </Pair>
+                <Pair key="title">
+                    <String>First Of The Year (Equinox) Skrillex</String>
+                </Pair>
+                <Pair key="module_name">
+                    <String>webbrowser_plugin</String>
+                </Pair>
+                <Pair key="module_action">
+                    <String>http://www.blogger.com/video-play.mp4?contentId=1ebcfc8c861e8313</String>
+                </Pair>
+            </Table>
+            <Table key="Lilly Wood  The Prick and Robin Schulz">
+                <Pair key="icon">
+                    <String>/dev_hdd0/game/HANTOOLBX/USRDIR/tv.png</String>
+                </Pair>
+                <Pair key="title">
+                    <String>Lilly Wood The Prick and Robin Schulz</String>
+                </Pair>
+                <Pair key="module_name">
+                    <String>webbrowser_plugin</String>
+                </Pair>
+                <Pair key="module_action">
+                    <String>http://www.blogger.com/video-play.mp4?contentId=16a8963b49a2854</String>
+                </Pair>
+            </Table>
+            <Table key="DJ Sava feat Irina Rimes I Loved You ">
+                <Pair key="icon">
+                    <String>/dev_hdd0/game/HANTOOLBX/USRDIR/tv.png</String>
+                </Pair>
+                <Pair key="title">
+                    <String>DJ Sava feat Irina Rimes I Loved You </String>
+                </Pair>
+                <Pair key="module_name">
+                    <String>webbrowser_plugin</String>
+                </Pair>
+                <Pair key="module_action">
+                    <String>http://www.blogger.com/video-play.mp4?contentId=17a7a63ca00d82a0</String>
+                </Pair>
+            </Table>
+            <Table key="MIRA Bella ">
+                <Pair key="icon">
+                    <String>/dev_hdd0/game/HANTOOLBX/USRDIR/tv.png</String>
+                </Pair>
+                <Pair key="title">
+                    <String>MIRA Bella </String>
+                </Pair>
+                <Pair key="module_name">
+                    <String>webbrowser_plugin</String>
+                </Pair>
+                <Pair key="module_action">
+                    <String>http://www.blogger.com/video-play.mp4?contentId=8b208af49bd74a54</String>
+                </Pair>
+            </Table>
+            <Table key="Parra for Cuva ft Anna Naklab   Wicked Games ">
+                <Pair key="icon">
+                    <String>/dev_hdd0/game/HANTOOLBX/USRDIR/tv.png</String>
+                </Pair>
+                <Pair key="title">
+                    <String>Parra for Cuva ft Anna Naklab Wicked Games </String>
+                </Pair>
+                <Pair key="module_name">
+                    <String>webbrowser_plugin</String>
+                </Pair>
+                <Pair key="module_action">
+                    <String>http://www.blogger.com/video-play.mp4?contentId=95d5503ccb746c3c</String>
+                </Pair>
+            </Table>
+            <Table key="Michel Gondry   Music sounds better with you   Stardust ">
+                <Pair key="icon">
+                    <String>/dev_hdd0/game/HANTOOLBX/USRDIR/tv.png</String>
+                </Pair>
+                <Pair key="title">
+                    <String>Michel Gondry Music sounds better with you Stardust </String>
+                </Pair>
+                <Pair key="module_name">
+                    <String>webbrowser_plugin</String>
+                </Pair>
+                <Pair key="module_action">
+                    <String>http://www.blogger.com/video-play.mp4?contentId=f8052965abb2e9ef</String>
+                </Pair>
+            </Table>
+            <Table key="Mike Posner   I Took A Pill In Ibiza">
+                <Pair key="icon">
+                    <String>/dev_hdd0/game/HANTOOLBX/USRDIR/tv.png</String>
+                </Pair>
+                <Pair key="title">
+                    <String>Mike Posner I Took A Pill In Ibiza</String>
+                </Pair>
+                <Pair key="module_name">
+                    <String>webbrowser_plugin</String>
+                </Pair>
+                <Pair key="module_action">
+                    <String>http://www.blogger.com/video-play.mp4?contentId=8c1d9c62ff5a35b5</String>
+                </Pair>
+            </Table>
+            <Table key="Carmin van Buuren feat Trevor Guthrie   This Is What It Feels Like ">
+                <Pair key="icon">
+                    <String>/dev_hdd0/game/HANTOOLBX/USRDIR/tv.png</String>
+                </Pair>
+                <Pair key="title">
+                    <String>Carmin van Buuren feat Trevor Guthrie This Is What It Feels Like </String>
+                </Pair>
+                <Pair key="module_name">
+                    <String>webbrowser_plugin</String>
+                </Pair>
+                <Pair key="module_action">
+                    <String>http://www.blogger.com/video-play.mp4?contentId=cd1669ff5c8d57f8</String>
+                </Pair>
+            </Table>
+            <Table key="Coldplay   A Sky Full Of Stars">
+                <Pair key="icon">
+                    <String>/dev_hdd0/game/HANTOOLBX/USRDIR/tv.png</String>
+                </Pair>
+                <Pair key="title">
+                    <String>Coldplay A Sky Full Of Stars</String>
+                </Pair>
+                <Pair key="module_name">
+                    <String>webbrowser_plugin</String>
+                </Pair>
+                <Pair key="module_action">
+                    <String>http://www.blogger.com/video-play.mp4?contentId=5319b7fe857b5451</String>
+                </Pair>
+            </Table>
+            <Table key="Calvin Harris  Sweet Nothing ft Florence Welch">
+                <Pair key="icon">
+                    <String>/dev_hdd0/game/HANTOOLBX/USRDIR/tv.png</String>
+                </Pair>
+                <Pair key="title">
+                    <String>Calvin Harris Sweet Nothing ft Florence Welch</String>
+                </Pair>
+                <Pair key="module_name">
+                    <String>webbrowser_plugin</String>
+                </Pair>
+                <Pair key="module_action">
+                    <String>http://www.blogger.com/video-play.mp4?contentId=829a385a9bf3369e</String>
+                </Pair>
+            </Table>
+            <Table key="Madonna Sorry">
+                <Pair key="icon">
+                    <String>/dev_hdd0/game/HANTOOLBX/USRDIR/tv.png</String>
+                </Pair>
+                <Pair key="title">
+                    <String>Madonna Sorry</String>
+                </Pair>
+                <Pair key="module_name">
+                    <String>webbrowser_plugin</String>
+                </Pair>
+                <Pair key="module_action">
+                    <String>http://www.blogger.com/video-play.mp4?contentId=2a74e37fa9e3db5d</String>
+                </Pair>
+            </Table>
+            <Table key="Solteirões & Taty Girl - No Meu Coração Só dá Você Amor">
+                <Pair key="icon">
+                    <String>/dev_hdd0/game/HANTOOLBX/USRDIR/tv.png</String>
+                </Pair>
+                <Pair key="title">
+                    <String>Solteirões & Taty Girl - No Meu Coração Só dá Você Amor</String>
+                </Pair>
+                <Pair key="module_name">
+                    <String>webbrowser_plugin</String>
+                </Pair>
+                <Pair key="module_action">
+                    <String>http://www.blogger.com/video-play.mp4?contentId=ec71d96fcb394773</String>
+                </Pair>
+            </Table>
+            <Table key="Aviões  Naquele Mesmo Bar ">
+                <Pair key="icon">
+                    <String>/dev_hdd0/game/HANTOOLBX/USRDIR/tv.png</String>
+                </Pair>
+                <Pair key="title">
+                    <String>Aviões Naquele Mesmo Bar </String>
+                </Pair>
+                <Pair key="module_name">
+                    <String>webbrowser_plugin</String>
+                </Pair>
+                <Pair key="module_action">
+                    <String>http://www.blogger.com/video-play.mp4?contentId=e6737f9384b913a2</String>
+                </Pair>
+            </Table>
+            <Table key="Anitta e Ludmilla-Bom ">
+                <Pair key="icon">
+                    <String>/dev_hdd0/game/HANTOOLBX/USRDIR/tv.png</String>
+                </Pair>
+                <Pair key="title">
+                    <String>Anitta e Ludmilla-Bom </String>
+                </Pair>
+                <Pair key="module_name">
+                    <String>webbrowser_plugin</String>
+                </Pair>
+                <Pair key="module_action">
+                    <String>http://www.blogger.com/video-play.mp4?contentId=464998bf6230f4b9</String>
+                </Pair>
+            </Table>
+            <Table key="Anitta - Na batida">
+                <Pair key="icon">
+                    <String>/dev_hdd0/game/HANTOOLBX/USRDIR/tv.png</String>
+                </Pair>
+                <Pair key="title">
+                    <String>Anitta - Na batida</String>
+                </Pair>
+                <Pair key="module_name">
+                    <String>webbrowser_plugin</String>
+                </Pair>
+                <Pair key="module_action">
+                    <String>http://www.blogger.com/video-play.mp4?contentId=48899b3e060ea0ac</String>
+                </Pair>
+            </Table>
+            <Table key="Avine Vinny In Jeri Então Vai">
+                <Pair key="icon">
+                    <String>/dev_hdd0/game/HANTOOLBX/USRDIR/tv.png</String>
+                </Pair>
+                <Pair key="title">
+                    <String>Avine Vinny In Jeri Então Vai</String>
+                </Pair>
+                <Pair key="module_name">
+                    <String>webbrowser_plugin</String>
+                </Pair>
+                <Pair key="module_action">
+                    <String>http://www.blogger.com/video-play.mp4?contentId=ec1bf4390989e12d</String>
+                </Pair>
+            </Table>
+            <Table key="Elba Ramalho Chão de Giz">
+                <Pair key="icon">
+                    <String>/dev_hdd0/game/HANTOOLBX/USRDIR/tv.png</String>
+                </Pair>
+                <Pair key="title">
+                    <String>Elba Ramalho Chão de Giz</String>
+                </Pair>
+                <Pair key="module_name">
+                    <String>webbrowser_plugin</String>
+                </Pair>
+                <Pair key="module_action">
+                    <String>http://www.blogger.com/video-play.mp4?contentId=11380a0591581b5e</String>
+                </Pair>
+            </Table>
+            <Table key="Marília Mendonça Amante Não Tem Lar">
+                <Pair key="icon">
+                    <String>/dev_hdd0/game/HANTOOLBX/USRDIR/tv.png</String>
+                </Pair>
+                <Pair key="title">
+                    <String>Marília Mendonça Amante Não Tem Lar</String>
+                </Pair>
+                <Pair key="module_name">
+                    <String>webbrowser_plugin</String>
+                </Pair>
+                <Pair key="module_action">
+                    <String>http://www.blogger.com/video-play.mp4?contentId=5e9f1607267ba49c</String>
+                </Pair>
+            </Table>
+            <Table key="Skema 10 -Fala pro papai">
+                <Pair key="icon">
+                    <String>/dev_hdd0/game/HANTOOLBX/USRDIR/tv.png</String>
+                </Pair>
+                <Pair key="title">
+                    <String>Skema 10 -Fala pro papai</String>
+                </Pair>
+                <Pair key="module_name">
+                    <String>webbrowser_plugin</String>
+                </Pair>
+                <Pair key="module_action">
+                    <String>http://www.blogger.com/video-play.mp4?contentId=58a0ca1146bc285b</String>
+                </Pair>
+            </Table>
+            <Table key="Ivete Sangalo & Vanessa da mata Carnaval de Salvador">
+                <Pair key="icon">
+                    <String>/dev_hdd0/game/HANTOOLBX/USRDIR/tv.png</String>
+                </Pair>
+                <Pair key="title">
+                    <String>Ivete Sangalo & Vanessa da mata Carnaval de Salvador</String>
+                </Pair>
+                <Pair key="module_name">
+                    <String>webbrowser_plugin</String>
+                </Pair>
+                <Pair key="module_action">
+                    <String>http://www.blogger.com/video-play.mp4?contentId=f637233c7c63c9a3</String>
+                </Pair>
+            </Table>
+            <Table key="Patchanka, Genival Lacerda e preta Gil Carnaval de Salvador">
+                <Pair key="icon">
+                    <String>/dev_hdd0/game/HANTOOLBX/USRDIR/tv.png</String>
+                </Pair>
+                <Pair key="title">
+                    <String>Patchanka, Genival Lacerda e preta Gil Carnaval de Salvador</String>
+                </Pair>
+                <Pair key="module_name">
+                    <String>webbrowser_plugin</String>
+                </Pair>
+                <Pair key="module_action">
+                    <String>http://www.blogger.com/video-play.mp4?contentId=9bf30b931555fc70</String>
+                </Pair>
+            </Table>
+            <Table key="Chicabana - Flores da Favela Carnaval de salvador">
+                <Pair key="icon">
+                    <String>/dev_hdd0/game/HANTOOLBX/USRDIR/tv.png</String>
+                </Pair>
+                <Pair key="title">
+                    <String>Chicabana - Flores da Favela Carnaval de salvador</String>
+                </Pair>
+                <Pair key="module_name">
+                    <String>webbrowser_plugin</String>
+                </Pair>
+                <Pair key="module_action">
+                    <String>http://www.blogger.com/video-play.mp4?contentId=de4485829a3816f1</String>
+                </Pair>
+            </Table>
+            <Table key="Chicabana - Você Não Sabe o Que É Amor Carnaval de salvador">
+                <Pair key="icon">
+                    <String>/dev_hdd0/game/HANTOOLBX/USRDIR/tv.png</String>
+                </Pair>
+                <Pair key="title">
+                    <String>Chicabana - Você Não Sabe o Que É Amor Carnaval de salvador</String>
+                </Pair>
+                <Pair key="module_name">
+                    <String>webbrowser_plugin</String>
+                </Pair>
+                <Pair key="module_action">
+                    <String>http://www.blogger.com/video-play.mp4?contentId=a780d9fb563c5a27</String>
+                </Pair>
+            </Table>
+            <Table key="Chiclete Com Banana - Mugege´ + Dandalunda">
+                <Pair key="icon">
+                    <String>/dev_hdd0/game/HANTOOLBX/USRDIR/tv.png</String>
+                </Pair>
+                <Pair key="title">
+                    <String>Chiclete Com Banana - Mugege´ + Dandalunda</String>
+                </Pair>
+                <Pair key="module_name">
+                    <String>webbrowser_plugin</String>
+                </Pair>
+                <Pair key="module_action">
+                    <String>http://www.blogger.com/video-play.mp4?contentId=d80994b0d6485f3f</String>
+                </Pair>
+            </Table>
+            <Table key="Chiclete com banana- Ele Não Monta na Lambreta ">
+                <Pair key="icon">
+                    <String>/dev_hdd0/game/HANTOOLBX/USRDIR/tv.png</String>
+                </Pair>
+                <Pair key="title">
+                    <String>Chiclete com banana- Ele Não Monta na Lambreta </String>
+                </Pair>
+                <Pair key="module_name">
+                    <String>webbrowser_plugin</String>
+                </Pair>
+                <Pair key="module_action">
+                    <String>http://www.blogger.com/video-play.mp4?contentId=cf64801d2a7f2950</String>
+                </Pair>
+            </Table>
+            <Table key="Bell Marques - Foi por esse Amor">
+                <Pair key="icon">
+                    <String>/dev_hdd0/game/HANTOOLBX/USRDIR/tv.png</String>
+                </Pair>
+                <Pair key="title">
+                    <String>Bell Marques - Foi por esse Amor</String>
+                </Pair>
+                <Pair key="module_name">
+                    <String>webbrowser_plugin</String>
+                </Pair>
+                <Pair key="module_action">
+                    <String>http://www.blogger.com/video-play.mp4?contentId=c509fc0ce5448cfb</String>
+                </Pair>
+            </Table>
+            <Table key="Legião urbana Meninos e Meninas">
+                <Pair key="icon">
+                    <String>/dev_hdd0/game/HANTOOLBX/USRDIR/tv.png</String>
+                </Pair>
+                <Pair key="title">
+                    <String>Legião urbana Meninos e Meninas</String>
+                </Pair>
+                <Pair key="module_name">
+                    <String>webbrowser_plugin</String>
+                </Pair>
+                <Pair key="module_action">
+                    <String>http://www.blogger.com/video-play.mp4?contentId=de429b5e4c98311a</String>
+                </Pair>
+            </Table>
+            <Table key="Legião urbana GIZ">
+                <Pair key="icon">
+                    <String>/dev_hdd0/game/HANTOOLBX/USRDIR/tv.png</String>
+                </Pair>
+                <Pair key="title">
+                    <String>Legião urbana GIZ</String>
+                </Pair>
+                <Pair key="module_name">
+                    <String>webbrowser_plugin</String>
+                </Pair>
+                <Pair key="module_action">
+                    <String>http://www.blogger.com/video-play.mp4?contentId=ed0db30229440d21</String>
+                </Pair>
+            </Table>
+            <Table key="Cássia Eller Smells Like Teen Spirit">
+                <Pair key="icon">
+                    <String>/dev_hdd0/game/HANTOOLBX/USRDIR/tv.png</String>
+                </Pair>
+                <Pair key="title">
+                    <String>Cássia Eller Smells Like Teen Spirit</String>
+                </Pair>
+                <Pair key="module_name">
+                    <String>webbrowser_plugin</String>
+                </Pair>
+                <Pair key="module_action">
+                    <String>http://www.blogger.com/video-play.mp4?contentId=cf866813a89e945b</String>
+                </Pair>
+            </Table>
+            <Table key="Capital inicial  primeiros erros Rock in Rio">
+                <Pair key="icon">
+                    <String>/dev_hdd0/game/HANTOOLBX/USRDIR/tv.png</String>
+                </Pair>
+                <Pair key="title">
+                    <String>Capital inicial primeiros erros Rock in Rio</String>
+                </Pair>
+                <Pair key="module_name">
+                    <String>webbrowser_plugin</String>
+                </Pair>
+                <Pair key="module_action">
+                    <String>http://www.blogger.com/video-play.mp4?contentId=449b6a07ea0473f2</String>
+                </Pair>
+            </Table>
+            <Table key="MC Fioti   Bum Bum Tam Tam">
+                <Pair key="icon">
+                    <String>/dev_hdd0/game/HANTOOLBX/USRDIR/tv.png</String>
+                </Pair>
+                <Pair key="title">
+                    <String>MC Fioti Bum Bum Tam Tam</String>
+                </Pair>
+                <Pair key="module_name">
+                    <String>webbrowser_plugin</String>
+                </Pair>
+                <Pair key="module_action">
+                    <String>http://www.blogger.com/video-play.mp4?contentId=bfb4fdfb21308ddd</String>
+                </Pair>
+            </Table>
+            <Table key="Oasis   Don't Look Back in Anger ">
+                <Pair key="icon">
+                    <String>/dev_hdd0/game/HANTOOLBX/USRDIR/tv.png</String>
+                </Pair>
+                <Pair key="title">
+                    <String>Oasis Don't Look Back in Anger </String>
+                </Pair>
+                <Pair key="module_name">
+                    <String>webbrowser_plugin</String>
+                </Pair>
+                <Pair key="module_action">
+                    <String>http://www.blogger.com/video-play.mp4?contentId=141e00a3b7b9947c</String>
+                </Pair>
+            </Table>
+            <Table key="Oasis   Wonderwall">
+                <Pair key="icon">
+                    <String>/dev_hdd0/game/HANTOOLBX/USRDIR/tv.png</String>
+                </Pair>
+                <Pair key="title">
+                    <String>Oasis Wonderwall</String>
+                </Pair>
+                <Pair key="module_name">
+                    <String>webbrowser_plugin</String>
+                </Pair>
+                <Pair key="module_action">
+                    <String>http://www.blogger.com/video-play.mp4?contentId=4e475b89ff564da0</String>
+                </Pair>
+            </Table>
+            <Table key="Elton John  Sacrifice live 1990">
+                <Pair key="icon">
+                    <String>/dev_hdd0/game/HANTOOLBX/USRDIR/tv.png</String>
+                </Pair>
+                <Pair key="title">
+                    <String>Elton John Sacrifice live 1990</String>
+                </Pair>
+                <Pair key="module_name">
+                    <String>webbrowser_plugin</String>
+                </Pair>
+                <Pair key="module_action">
+                    <String>http://www.blogger.com/video-play.mp4?contentId=9993e13e3523a0fb</String>
+                </Pair>
+            </Table>
+            <Table key="Dire Straits - Money For Nothing (Live At Knebworth)">
+                <Pair key="icon">
+                    <String>/dev_hdd0/game/HANTOOLBX/USRDIR/tv.png</String>
+                </Pair>
+                <Pair key="title">
+                    <String>Dire Straits - Money For Nothing (Live At Knebworth)</String>
+                </Pair>
+                <Pair key="module_name">
+                    <String>webbrowser_plugin</String>
+                </Pair>
+                <Pair key="module_action">
+                    <String>http://www.blogger.com/video-play.mp4?contentId=c6a552a60d4a56a3</String>
+                </Pair>
+            </Table>
+            <Table key="Dire Straits - Sultans Of Swing">
+                <Pair key="icon">
+                    <String>/dev_hdd0/game/HANTOOLBX/USRDIR/tv.png</String>
+                </Pair>
+                <Pair key="title">
+                    <String>Dire Straits - Sultans Of Swing</String>
+                </Pair>
+                <Pair key="module_name">
+                    <String>webbrowser_plugin</String>
+                </Pair>
+                <Pair key="module_action">
+                    <String>http://www.blogger.com/video-play.mp4?contentId=86f52f95a81fa6d7</String>
+                </Pair>
+            </Table>
+            <Table key="Sultans Of Swing (drum cover by Sina) ">
+                <Pair key="icon">
+                    <String>/dev_hdd0/game/HANTOOLBX/USRDIR/tv.png</String>
+                </Pair>
+                <Pair key="title">
+                    <String>Sultans Of Swing (drum cover by Sina) </String>
+                </Pair>
+                <Pair key="module_name">
+                    <String>webbrowser_plugin</String>
+                </Pair>
+                <Pair key="module_action">
+                    <String>http://www.blogger.com/video-play.mp4?contentId=f3e187644dc8d9bb</String>
+                </Pair>
+            </Table>
+            <Table key="Bob Marley   Get up, stand up 1980">
+                <Pair key="icon">
+                    <String>/dev_hdd0/game/HANTOOLBX/USRDIR/tv.png</String>
+                </Pair>
+                <Pair key="title">
+                    <String>Bob Marley Get up, stand up 1980</String>
+                </Pair>
+                <Pair key="module_name">
+                    <String>webbrowser_plugin</String>
+                </Pair>
+                <Pair key="module_action">
+                    <String>http://www.blogger.com/video-play.mp4?contentId=450044b3cd06a151</String>
+                </Pair>
+            </Table>
+            <Table key="BOB MARLEY   JAMMING (Live)">
+                <Pair key="icon">
+                    <String>/dev_hdd0/game/HANTOOLBX/USRDIR/tv.png</String>
+                </Pair>
+                <Pair key="title">
+                    <String>BOB MARLEY JAMMING (Live)</String>
+                </Pair>
+                <Pair key="module_name">
+                    <String>webbrowser_plugin</String>
+                </Pair>
+                <Pair key="module_action">
+                    <String>http://www.blogger.com/video-play.mp4?contentId=c605b1b91a289646</String>
+                </Pair>
+            </Table>
+            <Table key="O Rappa lado B lado A">
+                <Pair key="icon">
+                    <String>/dev_hdd0/game/HANTOOLBX/USRDIR/tv.png</String>
+                </Pair>
+                <Pair key="title">
+                    <String>O Rappa lado B lado A</String>
+                </Pair>
+                <Pair key="module_name">
+                    <String>webbrowser_plugin</String>
+                </Pair>
+                <Pair key="module_action">
+                    <String>http://www.blogger.com/video-play.mp4?contentId=5082122f0261d231</String>
+                </Pair>
+            </Table>
+            <Table key="Charlie Brown Jr Ela Vai Voltar ">
+                <Pair key="icon">
+                    <String>/dev_hdd0/game/HANTOOLBX/USRDIR/tv.png</String>
+                </Pair>
+                <Pair key="title">
+                    <String>Charlie Brown Jr Ela Vai Voltar </String>
+                </Pair>
+                <Pair key="module_name">
+                    <String>webbrowser_plugin</String>
+                </Pair>
+                <Pair key="module_action">
+                    <String>http://www.blogger.com/video-play.mp4?contentId=3f8035b782f92558</String>
+                </Pair>
+            </Table>
+            <Table key="Racionais MC's - Diário De Um Detento">
+                <Pair key="icon">
+                    <String>/dev_hdd0/game/HANTOOLBX/USRDIR/tv.png</String>
+                </Pair>
+                <Pair key="title">
+                    <String>Racionais MC's - Diário De Um Detento</String>
+                </Pair>
+                <Pair key="module_name">
+                    <String>webbrowser_plugin</String>
+                </Pair>
+                <Pair key="module_action">
+                    <String>http://www.blogger.com/video-play.mp4?contentId=219642dff81b5fb3</String>
+                </Pair>
+            </Table>
+            <Table key="Racionais MCs   Capítulo 4 Versículo 3   ">
+                <Pair key="icon">
+                    <String>/dev_hdd0/game/HANTOOLBX/USRDIR/tv.png</String>
+                </Pair>
+                <Pair key="title">
+                    <String>Racionais MCs Capítulo 4 Versículo 3 </String>
+                </Pair>
+                <Pair key="module_name">
+                    <String>webbrowser_plugin</String>
+                </Pair>
+                <Pair key="module_action">
+                    <String>http://www.blogger.com/video-play.mp4?contentId=755e9d48e988af9d</String>
+                </Pair>
+            </Table>
+            <Table key="Planet Hemp  Mantenha o Respeito ">
+                <Pair key="icon">
+                    <String>/dev_hdd0/game/HANTOOLBX/USRDIR/tv.png</String>
+                </Pair>
+                <Pair key="title">
+                    <String>Planet Hemp Mantenha o Respeito </String>
+                </Pair>
+                <Pair key="module_name">
+                    <String>webbrowser_plugin</String>
+                </Pair>
+                <Pair key="module_action">
+                    <String>http://www.blogger.com/video-play.mp4?contentId=8217c1cb0f2f858e</String>
+                </Pair>
+            </Table>
+            <Table key="Planet Hemp  Queimando Tudo ">
+                <Pair key="icon">
+                    <String>/dev_hdd0/game/HANTOOLBX/USRDIR/tv.png</String>
+                </Pair>
+                <Pair key="title">
+                    <String>Planet Hemp Queimando Tudo </String>
+                </Pair>
+                <Pair key="module_name">
+                    <String>webbrowser_plugin</String>
+                </Pair>
+                <Pair key="module_action">
+                    <String>http://www.blogger.com/video-play.mp4?contentId=30feec2fbbacc2e9</String>
+                </Pair>
+            </Table>
+            <Table key="Silvinho -Ursinho Blau Blau ao vivo">
+                <Pair key="icon">
+                    <String>/dev_hdd0/game/HANTOOLBX/USRDIR/tv.png</String>
+                </Pair>
+                <Pair key="title">
+                    <String>Silvinho -Ursinho Blau Blau ao vivo</String>
+                </Pair>
+                <Pair key="module_name">
+                    <String>webbrowser_plugin</String>
+                </Pair>
+                <Pair key="module_action">
+                    <String>http://www.blogger.com/video-play.mp4?contentId=9e0b87be7b2b6411</String>
+                </Pair>
+            </Table>
+            <Table key="Cazuza -Bete Balanço ao vivo no Rock in Rio 1985">
+                <Pair key="icon">
+                    <String>/dev_hdd0/game/HANTOOLBX/USRDIR/tv.png</String>
+                </Pair>
+                <Pair key="title">
+                    <String>Cazuza -Bete Balanço ao vivo no Rock in Rio 1985</String>
+                </Pair>
+                <Pair key="module_name">
+                    <String>webbrowser_plugin</String>
+                </Pair>
+                <Pair key="module_action">
+                    <String>http://www.blogger.com/video-play.mp4?contentId=d703c91053103edf</String>
+                </Pair>
+            </Table>
+        </Attributes>
+        <Items>
+            <Item class="type:x-xmb/module-action" key="Música eletrônica" attr="Música eletrônica" />
+            <Item class="type:x-xmb/module-action" key="CD Marília Mendonça" attr="CD Marília Mendonça" />
+            <Item class="type:x-xmb/module-action" key="Tirulipa Ele não morreu, Paródia/We are the World | Michael Jackson" attr="Tirulipa Ele não morreu, Paródia/We are the World | Michael Jackson" />
+            <Item class="type:x-xmb/module-action" key="Tirulipa ELA JÁ VEM NO STREET FIGHTER" attr="Tirulipa ELA JÁ VEM NO STREET FIGHTER" />
+            <Item class="type:x-xmb/module-action" key="Tirulipa Cabaço Bobo Paródia  Maiara  Maraisa" attr="Tirulipa Cabaço Bobo Paródia  Maiara  Maraisa" />
+            <Item class="type:x-xmb/module-action" key="Tirullipa EIKE mais um pro Lava jato  Paródia  de Marilia Mendonça  Eu sei de Cor" attr="Tirullipa EIKE mais um pro Lava jato  Paródia  de Marilia Mendonça  Eu sei de Cor" />
+            <Item class="type:x-xmb/module-action" key="Tirullipa Me Deu Onda -Deu Mona  Paródia " attr="Tirullipa Me Deu Onda -Deu Mona  Paródia " />
+            <Item class="type:x-xmb/module-action" key="Rihanna   Work (Explicit) ft Drake" attr="Rihanna   Work (Explicit) ft Drake" />
+            <Item class="type:x-xmb/module-action" key="Tirullipa Paródia Égua ft Gayke Rihanna - Work ft Drake" attr="Tirullipa Paródia Égua ft Gayke Rihanna - Work ft Drake" />
+            <Item class="type:x-xmb/module-action" key="The Weeknd   Starboy ft Daft Punk" attr="The Weeknd   Starboy ft Daft Punk" />
+            <Item class="type:x-xmb/module-action" key="Whindersson LARGA MEU BOY  PARÓDIA The Weeknd   Starboy ft Daft Punk" attr="Whindersson LARGA MEU BOY  PARÓDIA The Weeknd   Starboy ft Daft Punk" />
+            <Item class="type:x-xmb/module-action" key="Whindersson QUAL É A SENHA DO WIFI   Paródia Adele   Hello" attr="Whindersson QUAL É A SENHA DO WIFI   Paródia Adele   Hello" />
+            <Item class="type:x-xmb/module-action" key="Whindersson Nunes & Tirulipa -Só os Cambitos PARÓDIA Luis Fonsi, Daddy Yankee - Despacito " attr="Whindersson Nunes & Tirulipa -Só os Cambitos PARÓDIA Luis Fonsi, Daddy Yankee - Despacito " />
+            <Item class="type:x-xmb/module-action" key="Whinderssonnunes eu Cansei de ser Pobre " attr="Whinderssonnunes eu Cansei de ser Pobre " />
+            <Item class="type:x-xmb/module-action" key="Tirullipa GORDA paródia de Tirullipa  LOKA Simone, Simaria e Anitta" attr="Tirullipa GORDA paródia de Tirullipa  LOKA Simone, Simaria e Anitta" />
+            <Item class="type:x-xmb/module-action" key="Whindersson EU VIREI GAY  PARÓDIA Jorge & Mateus - Sosseguei" attr="Whindersson EU VIREI GAY  PARÓDIA Jorge & Mateus - Sosseguei" />
+            <Item class="type:x-xmb/module-action" key="Tirullipa FREEBODE Carne boa e de procedência é a de bode Paródia Ed Sheeran" attr="Tirullipa FREEBODE Carne boa e de procedência é a de bode Paródia Ed Sheeran" />
+            <Item class="type:x-xmb/module-action" key="Tirulipa VOCÊ VEM ME COBRAR PENSÃO" attr="Tirulipa VOCÊ VEM ME COBRAR PENSÃO" />
+            <Item class="type:x-xmb/module-action" key="Tirullipa Paródia Wesley Garotão" attr="Tirullipa Paródia Wesley Garotão" />
+            <Item class="type:x-xmb/module-action" key="Tirullipa Politiquinha Paródia" attr="Tirullipa Politiquinha Paródia" />
+            <Item class="type:x-xmb/module-action" key="Ed Sheeran   Shape" attr="Ed Sheeran   Shape" />
+            <Item class="type:x-xmb/module-action" key=" Bruno Martini feat Zeeba Hear Me Now " attr=" Bruno Martini feat Zeeba Hear Me Now " />
+            <Item class="type:x-xmb/module-action" key=" Hear Me Now DJ Alok  Planeta Atlântida 2017  " attr=" Hear Me Now DJ Alok  Planeta Atlântida 2017  " />
+            <Item class="type:x-xmb/module-action" key="Beth   Don't You Worry Child (Charming Horses Remix) " attr="Beth   Don't You Worry Child (Charming Horses Remix) " />
+            <Item class="type:x-xmb/module-action" key="Felix Jaehn   Book Of Love (Official Video) ft Polina" attr="Felix Jaehn   Book Of Love (Official Video) ft Polina" />
+            <Item class="type:x-xmb/module-action" key="Robin Schulz   Sugar (feat Francesco Yates)" attr="Robin Schulz   Sugar (feat Francesco Yates)" />
+            <Item class="type:x-xmb/module-action" key="Tove Lo Habits (Stay High)   Hippie Sabotage Remix" attr="Tove Lo Habits (Stay High)   Hippie Sabotage Remix" />
+            <Item class="type:x-xmb/module-action" key="Dj Snake   Let Me Love You ft Justin Bieber" attr="Dj Snake   Let Me Love You ft Justin Bieber" />
+            <Item class="type:x-xmb/module-action" key="Calvin Harris  Disciples   How Deep Is Your Love" attr="Calvin Harris  Disciples   How Deep Is Your Love" />
+            <Item class="type:x-xmb/module-action" key="David Guetta Feat Kelly Rowland   When Love Takes Over" attr="David Guetta Feat Kelly Rowland   When Love Takes Over" />
+            <Item class="type:x-xmb/module-action" key="Major Lazer  DJ Snake   Lean On (feat MØ) " attr="Major Lazer  DJ Snake   Lean On (feat MØ) " />
+            <Item class="type:x-xmb/module-action" key="First Of The Year (Equinox)   Skrillex" attr="First Of The Year (Equinox)   Skrillex" />
+            <Item class="type:x-xmb/module-action" key="Lilly Wood  The Prick and Robin Schulz" attr="Lilly Wood  The Prick and Robin Schulz" />
+            <Item class="type:x-xmb/module-action" key="DJ Sava feat Irina Rimes I Loved You " attr="DJ Sava feat Irina Rimes I Loved You " />
+            <Item class="type:x-xmb/module-action" key="MIRA Bella " attr="MIRA Bella " />
+            <Item class="type:x-xmb/module-action" key="Parra for Cuva ft Anna Naklab   Wicked Games " attr="Parra for Cuva ft Anna Naklab   Wicked Games " />
+            <Item class="type:x-xmb/module-action" key="Michel Gondry   Music sounds better with you   Stardust " attr="Michel Gondry   Music sounds better with you   Stardust " />
+            <Item class="type:x-xmb/module-action" key="Mike Posner   I Took A Pill In Ibiza" attr="Mike Posner   I Took A Pill In Ibiza" />
+            <Item class="type:x-xmb/module-action" key="Carmin van Buuren feat Trevor Guthrie   This Is What It Feels Like " attr="Carmin van Buuren feat Trevor Guthrie   This Is What It Feels Like " />
+            <Item class="type:x-xmb/module-action" key="Coldplay   A Sky Full Of Stars" attr="Coldplay   A Sky Full Of Stars" />
+            <Item class="type:x-xmb/module-action" key="Calvin Harris  Sweet Nothing ft Florence Welch" attr="Calvin Harris  Sweet Nothing ft Florence Welch" />
+            <Item class="type:x-xmb/module-action" key="Madonna Sorry" attr="Madonna Sorry" />
+            <Item class="type:x-xmb/module-action" key="Solteirões & Taty Girl - No Meu Coração Só dá Você Amor" attr="Solteirões & Taty Girl - No Meu Coração Só dá Você Amor" />
+            <Item class="type:x-xmb/module-action" key="Aviões  Naquele Mesmo Bar " attr="Aviões  Naquele Mesmo Bar " />
+            <Item class="type:x-xmb/module-action" key="Anitta e Ludmilla-Bom " attr="Anitta e Ludmilla-Bom " />
+            <Item class="type:x-xmb/module-action" key="Anitta - Na batida" attr="Anitta - Na batida" />
+            <Item class="type:x-xmb/module-action" key="Avine Vinny In Jeri Então Vai" attr="Avine Vinny In Jeri Então Vai" />
+            <Item class="type:x-xmb/module-action" key="Elba Ramalho Chão de Giz" attr="Elba Ramalho Chão de Giz" />
+            <Item class="type:x-xmb/module-action" key="Marília Mendonça Amante Não Tem Lar" attr="Marília Mendonça Amante Não Tem Lar" />
+            <Item class="type:x-xmb/module-action" key="Skema 10 -Fala pro papai" attr="Skema 10 -Fala pro papai" />
+            <Item class="type:x-xmb/module-action" key="Ivete Sangalo & Vanessa da mata Carnaval de Salvador" attr="Ivete Sangalo & Vanessa da mata Carnaval de Salvador" />
+            <Item class="type:x-xmb/module-action" key="Patchanka, Genival Lacerda e preta Gil Carnaval de Salvador" attr="Patchanka, Genival Lacerda e preta Gil Carnaval de Salvador" />
+            <Item class="type:x-xmb/module-action" key="Chicabana - Flores da Favela Carnaval de salvador" attr="Chicabana - Flores da Favela Carnaval de salvador" />
+            <Item class="type:x-xmb/module-action" key="Chicabana - Você Não Sabe o Que É Amor Carnaval de salvador" attr="Chicabana - Você Não Sabe o Que É Amor Carnaval de salvador" />
+            <Item class="type:x-xmb/module-action" key="Chiclete Com Banana - Mugege´ + Dandalunda" attr="Chiclete Com Banana - Mugege´ + Dandalunda" />
+            <Item class="type:x-xmb/module-action" key="Chiclete com banana- Ele Não Monta na Lambreta " attr="Chiclete com banana- Ele Não Monta na Lambreta " />
+            <Item class="type:x-xmb/module-action" key="Bell Marques - Foi por esse Amor" attr="Bell Marques - Foi por esse Amor" />
+            <Item class="type:x-xmb/module-action" key="Legião urbana Meninos e Meninas" attr="Legião urbana Meninos e Meninas" />
+            <Item class="type:x-xmb/module-action" key="Legião urbana GIZ" attr="Legião urbana GIZ" />
+            <Item class="type:x-xmb/module-action" key="Cássia Eller Smells Like Teen Spirit" attr="Cássia Eller Smells Like Teen Spirit" />
+            <Item class="type:x-xmb/module-action" key="Capital inicial  primeiros erros Rock in Rio" attr="Capital inicial  primeiros erros Rock in Rio" />
+            <Item class="type:x-xmb/module-action" key="MC Fioti   Bum Bum Tam Tam" attr="MC Fioti   Bum Bum Tam Tam" />
+            <Item class="type:x-xmb/module-action" key="Oasis   Don't Look Back in Anger " attr="Oasis   Don't Look Back in Anger " />
+            <Item class="type:x-xmb/module-action" key="Oasis   Wonderwall" attr="Oasis   Wonderwall" />
+            <Item class="type:x-xmb/module-action" key="Elton John  Sacrifice live 1990" attr="Elton John  Sacrifice live 1990" />
+            <Item class="type:x-xmb/module-action" key="Dire Straits - Money For Nothing (Live At Knebworth)" attr="Dire Straits - Money For Nothing (Live At Knebworth)" />
+            <Item class="type:x-xmb/module-action" key="Dire Straits - Sultans Of Swing" attr="Dire Straits - Sultans Of Swing" />
+            <Item class="type:x-xmb/module-action" key="Sultans Of Swing (drum cover by Sina) " attr="Sultans Of Swing (drum cover by Sina) " />
+            <Item class="type:x-xmb/module-action" key="Bob Marley   Get up, stand up 1980" attr="Bob Marley   Get up, stand up 1980" />
+            <Item class="type:x-xmb/module-action" key="BOB MARLEY   JAMMING (Live)" attr="BOB MARLEY   JAMMING (Live)" />
+            <Item class="type:x-xmb/module-action" key="O Rappa lado B lado A" attr="O Rappa lado B lado A" />
+            <Item class="type:x-xmb/module-action" key="Charlie Brown Jr Ela Vai Voltar " attr="Charlie Brown Jr Ela Vai Voltar " />
+            <Item class="type:x-xmb/module-action" key="Racionais MC's - Diário De Um Detento" attr="Racionais MC's - Diário De Um Detento" />
+            <Item class="type:x-xmb/module-action" key="Racionais MCs   Capítulo 4 Versículo 3   " attr="Racionais MCs   Capítulo 4 Versículo 3   " />
+            <Item class="type:x-xmb/module-action" key="Planet Hemp  Mantenha o Respeito " attr="Planet Hemp  Mantenha o Respeito " />
+            <Item class="type:x-xmb/module-action" key="Planet Hemp  Queimando Tudo " attr="Planet Hemp  Queimando Tudo " />
+            <Item class="type:x-xmb/module-action" key="Silvinho -Ursinho Blau Blau ao vivo" attr="Silvinho -Ursinho Blau Blau ao vivo" />
+            <Item class="type:x-xmb/module-action" key="Cazuza -Bete Balanço ao vivo no Rock in Rio 1985" attr="Cazuza -Bete Balanço ao vivo no Rock in Rio 1985" />
+        </Items>
+    </View>
+
+</XMBML>

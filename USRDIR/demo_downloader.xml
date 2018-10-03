@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<XMBML version="1.0">
+	<!-- No Demos -->
+		<View id="demo_downloader_items">
+		<Attributes>
+			<Table key="no_demo">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/about.png</String></Pair>
+				<Pair key="title"><String>No Demo List Found</String></Pair>
+				<Pair key="info"><String>To use this feature, Go to HAN Toolbox Settings to get the latest demo list, then reboot.</String></Pair>
+ 			</Table>
+		</Attributes>
+			<Items>
+			<Item class="type:x-xmb/module-action" key="no_demo" attr="no_demo"/>
+		</Items>
+		</View>
+		
+</XMBML>

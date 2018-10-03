@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<XMBML version="1.0">
+	
+	<!-- Main  > zeTVmod > Submenu -->
+	<View id="seg_tv_items">
+		<Attributes>
+<Table key="Shazzan Episodio 1"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/DESENHOS/SHAZZAN.jpg</String></Pair><Pair key="title"><String>Shazzan Episodio 1</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=37bf0d16e39fe7cd</String></Pair></Table>
+<Table key="Shazzan Episodio 2"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/DESENHOS/SHAZZAN.jpg</String></Pair><Pair key="title"><String>Shazzan Episodio 2</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=b4e64d93dd90efed</String></Pair></Table>
+<Table key="Shazzan Episodio 3"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/DESENHOS/SHAZZAN.jpg</String></Pair><Pair key="title"><String>Shazzan Episodio 3</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=1e279f8ea698ae25</String></Pair></Table>
+<Table key="Shazzan Episodio 4"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/DESENHOS/SHAZZAN.jpg</String></Pair><Pair key="title"><String>Shazzan Episodio 4</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=ccf5f3e8efb8f606</String></Pair></Table>
+<Table key="Shazzan Episodio 5"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/DESENHOS/SHAZZAN.jpg</String></Pair><Pair key="title"><String>Shazzan Episodio 5</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=caaed80a5651b52d</String></Pair></Table>
+<Table key="Shazzan Episodio 6"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/DESENHOS/SHAZZAN.jpg</String></Pair><Pair key="title"><String>Shazzan Episodio 6</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=4ea9f86be6f6a786</String></Pair></Table>
+<Table key="Shazzan Episodio 7"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/DESENHOS/SHAZZAN.jpg</String></Pair><Pair key="title"><String>Shazzan Episodio 7</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=43c713f2e2075cad</String></Pair></Table>
+<Table key="Shazzan Episodio 8"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/DESENHOS/SHAZZAN.jpg</String></Pair><Pair key="title"><String>Shazzan Episodio 8</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=ebefd9f7762874c5</String></Pair></Table>
+<Table key="Shazzan Episodio 9"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/DESENHOS/SHAZZAN.jpg</String></Pair><Pair key="title"><String>Shazzan Episodio 9</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=89753467d2d6b157</String></Pair></Table>
+<Table key="Shazzan Episodio 10"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/DESENHOS/SHAZZAN.jpg</String></Pair><Pair key="title"><String>Shazzan Episodio 10</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=daa0e4bd9bdf9ebc</String></Pair></Table>
+<Table key="Shazzan Episodio 11"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/DESENHOS/SHAZZAN.jpg</String></Pair><Pair key="title"><String>Shazzan Episodio 11</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=8840ba7c83c31504</String></Pair></Table>
+<Table key="Shazzan Episodio 12"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/DESENHOS/SHAZZAN.jpg</String></Pair><Pair key="title"><String>Shazzan Episodio 12</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=ff7ec28e07517c01</String></Pair></Table>
+</Attributes>
+		<Items>
+<Item class="type:x-xmb/module-action" key="Shazzan Episodio 1" attr="Shazzan Episodio 1"/>
+<Item class="type:x-xmb/module-action" key="Shazzan Episodio 2" attr="Shazzan Episodio 2"/>
+<Item class="type:x-xmb/module-action" key="Shazzan Episodio 3" attr="Shazzan Episodio 3"/>
+<Item class="type:x-xmb/module-action" key="Shazzan Episodio 4" attr="Shazzan Episodio 4"/>
+<Item class="type:x-xmb/module-action" key="Shazzan Episodio 5" attr="Shazzan Episodio 5"/>
+<Item class="type:x-xmb/module-action" key="Shazzan Episodio 6" attr="Shazzan Episodio 6"/>
+<Item class="type:x-xmb/module-action" key="Shazzan Episodio 7" attr="Shazzan Episodio 7"/>
+<Item class="type:x-xmb/module-action" key="Shazzan Episodio 8" attr="Shazzan Episodio 8"/>
+<Item class="type:x-xmb/module-action" key="Shazzan Episodio 9" attr="Shazzan Episodio 9"/>
+<Item class="type:x-xmb/module-action" key="Shazzan Episodio 10" attr="Shazzan Episodio 10"/>
+<Item class="type:x-xmb/module-action" key="Shazzan Episodio 11" attr="Shazzan Episodio 11"/>
+<Item class="type:x-xmb/module-action" key="Shazzan Episodio 12" attr="Shazzan Episodio 12"/>
+</Items>
+	</View>
+
+</XMBML>

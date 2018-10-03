@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<XMBML version="1.0">
+	
+	<!-- Main  > zeTVmod > Submenu -->
+	<View id="seg_tv_items">
+		<Attributes>
+<Table key="The Blacklist  Redemption 1X01"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/BLACKLIST.jpg</String></Pair><Pair key="title"><String>The Blacklist  Redemption 1X01</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=9dad9e05eeaafdcd</String></Pair></Table>
+<Table key="The Blacklist  Redemption 1X02"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/BLACKLIST.jpg</String></Pair><Pair key="title"><String>The Blacklist  Redemption 1X02</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=e74056ede962b2a7</String></Pair></Table>
+<Table key="The Blacklist  Redemption 1X03"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/BLACKLIST.jpg</String></Pair><Pair key="title"><String>The Blacklist  Redemption 1X03</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=e13c19336494b94</String></Pair></Table>
+<Table key="The Blacklist  Redemption 1X04"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/BLACKLIST.jpg</String></Pair><Pair key="title"><String>The Blacklist  Redemption 1X04</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=af6bf07fc39f312f</String></Pair></Table>
+<Table key="The Blacklist  Redemption 1X05"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/BLACKLIST.jpg</String></Pair><Pair key="title"><String>The Blacklist  Redemption 1X05</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=c2cfde771bed6df2</String></Pair></Table>
+<Table key="The Blacklist  Redemption 1X06"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/BLACKLIST.jpg</String></Pair><Pair key="title"><String>The Blacklist  Redemption 1X06</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=8f3f6144b2033ea8</String></Pair></Table>
+<Table key="The Blacklist  Redemption 1X07"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/BLACKLIST.jpg</String></Pair><Pair key="title"><String>The Blacklist  Redemption 1X07</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=4717c260f82e0f05</String></Pair></Table>
+<Table key="The Blacklist  Redemption 1X08"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/BLACKLIST.jpg</String></Pair><Pair key="title"><String>The Blacklist  Redemption 1X08</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=380bb63dfc9c9996</String></Pair></Table>
+</Attributes>
+		<Items>
+<Item class="type:x-xmb/module-action" key="The Blacklist  Redemption 1X01" attr="The Blacklist  Redemption 1X01"/>
+<Item class="type:x-xmb/module-action" key="The Blacklist  Redemption 1X02" attr="The Blacklist  Redemption 1X02"/>
+<Item class="type:x-xmb/module-action" key="The Blacklist  Redemption 1X03" attr="The Blacklist  Redemption 1X03"/>
+<Item class="type:x-xmb/module-action" key="The Blacklist  Redemption 1X04" attr="The Blacklist  Redemption 1X04"/>
+<Item class="type:x-xmb/module-action" key="The Blacklist  Redemption 1X05" attr="The Blacklist  Redemption 1X05"/>
+<Item class="type:x-xmb/module-action" key="The Blacklist  Redemption 1X06" attr="The Blacklist  Redemption 1X06"/>
+<Item class="type:x-xmb/module-action" key="The Blacklist  Redemption 1X07" attr="The Blacklist  Redemption 1X07"/>
+<Item class="type:x-xmb/module-action" key="The Blacklist  Redemption 1X08" attr="The Blacklist  Redemption 1X08"/>
+</Items>
+	</View>
+
+</XMBML>		

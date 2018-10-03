@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<XMBML version="1.0">
+	
+	<!-- Main  > zeTVmod > Submenu -->
+	<View id="seg_tv_items">
+		<Attributes>
+<Table key="T01EP1"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/RAVEN_IS_HOME.jpg</String></Pair><Pair key="title"><String>T01EP1</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>https://www.blogger.com/video-play.mp4?contentId=5fa08292f7761821</String></Pair></Table>
+<Table key="T01EP2"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/RAVEN_IS_HOME.jpg</String></Pair><Pair key="title"><String>T01EP2</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>https://www.blogger.com/video-play.mp4?contentId=52a35f2b0d7e7937</String></Pair></Table>
+<Table key="T01EP3"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/RAVEN_IS_HOME.jpg</String></Pair><Pair key="title"><String>T01EP3</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>https://www.blogger.com/video-play.mp4?contentId=61b5b4007b0ebaa5</String></Pair></Table>
+<Table key="T01EP4"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/RAVEN_IS_HOME.jpg</String></Pair><Pair key="title"><String>T01EP4</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>https://www.blogger.com/video-play.mp4?contentId=9bc1393fec43ba9d</String></Pair></Table>
+<Table key="T01EP5"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/RAVEN_IS_HOME.jpg</String></Pair><Pair key="title"><String>T01EP5</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>https://www.blogger.com/video-play.mp4?contentId=dafbee661b6230d5</String></Pair></Table>
+<Table key="T01EP6"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/RAVEN_IS_HOME.jpg</String></Pair><Pair key="title"><String>T01EP6</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>https://www.blogger.com/video-play.mp4?contentId=36e468bf91f625e1</String></Pair></Table>
+<Table key="T01EP7"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/RAVEN_IS_HOME.jpg</String></Pair><Pair key="title"><String>T01EP7</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>https://www.blogger.com/video-play.mp4?contentId=cf80b05277861b51</String></Pair></Table>
+<Table key="T01EP8"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/RAVEN_IS_HOME.jpg</String></Pair><Pair key="title"><String>T01EP8</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>https://www.blogger.com/video-play.mp4?contentId=6d01cbacfd4e7ce0</String></Pair></Table>
+<Table key="T01EP9"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/RAVEN_IS_HOME.jpg</String></Pair><Pair key="title"><String>T01EP9</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>https://www.blogger.com/video-play.mp4?contentId=238e2a1fff9be24d</String></Pair></Table>
+<Table key="T01EP10"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/RAVEN_IS_HOME.jpg</String></Pair><Pair key="title"><String>T01EP10</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>https://www.blogger.com/video-play.mp4?contentId=e1a9ca6b42ca8fe7</String></Pair></Table>
+<Table key="T01EP11"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/RAVEN_IS_HOME.jpg</String></Pair><Pair key="title"><String>T01EP11</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>https://www.blogger.com/video-play.mp4?contentId=47c25fc8507d4c35</String></Pair></Table>
+<Table key="T01EP12"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/RAVEN_IS_HOME.jpg</String></Pair><Pair key="title"><String>T01EP12</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>https://www.blogger.com/video-play.mp4?contentId=15f594378e22cde6</String></Pair></Table>
+<Table key="T01EP13"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/RAVEN_IS_HOME.jpg</String></Pair><Pair key="title"><String>T01EP13</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>https://www.blogger.com/video-play.mp4?contentId=5f43ceff9cff6660</String></Pair></Table>
+</Attributes>
+		<Items>
+<Item class="type:x-xmb/module-action" key="T01EP1" attr="T01EP1"/>
+<Item class="type:x-xmb/module-action" key="T01EP2" attr="T01EP2"/>
+<Item class="type:x-xmb/module-action" key="T01EP3" attr="T01EP3"/>
+<Item class="type:x-xmb/module-action" key="T01EP4" attr="T01EP4"/>
+<Item class="type:x-xmb/module-action" key="T01EP5" attr="T01EP5"/>
+<Item class="type:x-xmb/module-action" key="T01EP6" attr="T01EP6"/>
+<Item class="type:x-xmb/module-action" key="T01EP7" attr="T01EP7"/>
+<Item class="type:x-xmb/module-action" key="T01EP8" attr="T01EP8"/>
+<Item class="type:x-xmb/module-action" key="T01EP9" attr="T01EP9"/>
+<Item class="type:x-xmb/module-action" key="T01EP10" attr="T01EP10"/>
+<Item class="type:x-xmb/module-action" key="T01EP11" attr="T01EP11"/>
+<Item class="type:x-xmb/module-action" key="T01EP12" attr="T01EP12"/>
+<Item class="type:x-xmb/module-action" key="T01EP13" attr="T01EP13"/>
+</Items>
+	</View>
+
+</XMBML>		

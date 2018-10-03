@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<XMBML version="1.0">
+	
+	<!-- Main  > zeTVmod > Submenu -->
+	<View id="seg_tv_items">
+		<Attributes>
+<Table key="V.RAVEN T01EP01"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/VISOES_DA_RAVEN.jpg</String></Pair><Pair key="title"><String>V.RAVEN T01EP01</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=35c3fc40421a749e</String></Pair></Table>
+<Table key="V.RAVEN T01EP02"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/VISOES_DA_RAVEN.jpg</String></Pair><Pair key="title"><String>V.RAVEN T01EP02</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=8bb42cb806ee5dc</String></Pair></Table>
+<Table key="V.RAVEN T01EP03"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/VISOES_DA_RAVEN.jpg</String></Pair><Pair key="title"><String>V.RAVEN T01EP03</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=66f3f82e74d97dbb</String></Pair></Table>
+<Table key="V.RAVEN T01EP04"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/VISOES_DA_RAVEN.jpg</String></Pair><Pair key="title"><String>V.RAVEN T01EP04</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=10693402e6bab9ff</String></Pair></Table>
+<Table key="V.RAVEN T01EP05"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/VISOES_DA_RAVEN.jpg</String></Pair><Pair key="title"><String>V.RAVEN T01EP05</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=4ab2aed81474ffe0</String></Pair></Table>
+<Table key="V.RAVEN T01EP06"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/VISOES_DA_RAVEN.jpg</String></Pair><Pair key="title"><String>V.RAVEN T01EP06</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=3d3f600e69e050d7</String></Pair></Table>
+<Table key="V.RAVEN T01EP07"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/VISOES_DA_RAVEN.jpg</String></Pair><Pair key="title"><String>V.RAVEN T01EP07</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=c4a577bdbbe7908a</String></Pair></Table>
+<Table key="V.RAVEN T01EP08"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/VISOES_DA_RAVEN.jpg</String></Pair><Pair key="title"><String>V.RAVEN T01EP08</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=6a0373c5dbd20f8c</String></Pair></Table>
+<Table key="V.RAVEN T01EP09"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/VISOES_DA_RAVEN.jpg</String></Pair><Pair key="title"><String>V.RAVEN T01EP09</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=1075e84105c957d0</String></Pair></Table>
+<Table key="V.RAVEN T01EP10"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/VISOES_DA_RAVEN.jpg</String></Pair><Pair key="title"><String>V.RAVEN T01EP10</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=d4eac8de44883fce</String></Pair></Table>
+<Table key="V.RAVEN T01EP11"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/VISOES_DA_RAVEN.jpg</String></Pair><Pair key="title"><String>V.RAVEN T01EP11</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=c576d5922b6d0e0f</String></Pair></Table>
+<Table key="V.RAVEN T01EP12"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/VISOES_DA_RAVEN.jpg</String></Pair><Pair key="title"><String>V.RAVEN T01EP12</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=68c392d8c6add2e</String></Pair></Table>
+<Table key="V.RAVEN T01EP13"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/VISOES_DA_RAVEN.jpg</String></Pair><Pair key="title"><String>V.RAVEN T01EP13</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=fec84447b2642443</String></Pair></Table>
+<Table key="V.RAVEN T01EP14"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/VISOES_DA_RAVEN.jpg</String></Pair><Pair key="title"><String>V.RAVEN T01EP14</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=a2c9525eccdb61a6</String></Pair></Table>
+<Table key="V.RAVEN T01EP15"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/VISOES_DA_RAVEN.jpg</String></Pair><Pair key="title"><String>V.RAVEN T01EP15</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=b137aadf916aac03</String></Pair></Table>
+<Table key="V.RAVEN T01EP16"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/VISOES_DA_RAVEN.jpg</String></Pair><Pair key="title"><String>V.RAVEN T01EP16</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=d72a631477a4a31f</String></Pair></Table>
+<Table key="V.RAVEN T01EP17"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/VISOES_DA_RAVEN.jpg</String></Pair><Pair key="title"><String>V.RAVEN T01EP17</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=3b17403092fd299b</String></Pair></Table>
+<Table key="V.RAVEN T01EP18"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/VISOES_DA_RAVEN.jpg</String></Pair><Pair key="title"><String>V.RAVEN T01EP18</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=6e1f86fe5a3003e6</String></Pair></Table>
+<Table key="V.RAVEN T01EP19"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/VISOES_DA_RAVEN.jpg</String></Pair><Pair key="title"><String>V.RAVEN T01EP19</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=31c827b6c8c98b35</String></Pair></Table>
+<Table key="V.RAVEN T01EP20"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/VISOES_DA_RAVEN.jpg</String></Pair><Pair key="title"><String>V.RAVEN T01EP20</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=16b5eebeff36f663</String></Pair></Table>
+<Table key="V.RAVEN T01EP21"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/VISOES_DA_RAVEN.jpg</String></Pair><Pair key="title"><String>V.RAVEN T01EP21</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=ac49d56d75b98452</String></Pair></Table>
+</Attributes>
+		<Items>
+<Item class="type:x-xmb/module-action" key="V.RAVEN T01EP01" attr="V.RAVEN T01EP01"/>
+<Item class="type:x-xmb/module-action" key="V.RAVEN T01EP02" attr="V.RAVEN T01EP02"/>
+<Item class="type:x-xmb/module-action" key="V.RAVEN T01EP03" attr="V.RAVEN T01EP03"/>
+<Item class="type:x-xmb/module-action" key="V.RAVEN T01EP04" attr="V.RAVEN T01EP04"/>
+<Item class="type:x-xmb/module-action" key="V.RAVEN T01EP05" attr="V.RAVEN T01EP05"/>
+<Item class="type:x-xmb/module-action" key="V.RAVEN T01EP06" attr="V.RAVEN T01EP06"/>
+<Item class="type:x-xmb/module-action" key="V.RAVEN T01EP07" attr="V.RAVEN T01EP07"/>
+<Item class="type:x-xmb/module-action" key="V.RAVEN T01EP08" attr="V.RAVEN T01EP08"/>
+<Item class="type:x-xmb/module-action" key="V.RAVEN T01EP09" attr="V.RAVEN T01EP09"/>
+<Item class="type:x-xmb/module-action" key="V.RAVEN T01EP10" attr="V.RAVEN T01EP10"/>
+<Item class="type:x-xmb/module-action" key="V.RAVEN T01EP11" attr="V.RAVEN T01EP11"/>
+<Item class="type:x-xmb/module-action" key="V.RAVEN T01EP12" attr="V.RAVEN T01EP12"/>
+<Item class="type:x-xmb/module-action" key="V.RAVEN T01EP13" attr="V.RAVEN T01EP13"/>
+<Item class="type:x-xmb/module-action" key="V.RAVEN T01EP14" attr="V.RAVEN T01EP14"/>
+<Item class="type:x-xmb/module-action" key="V.RAVEN T01EP15" attr="V.RAVEN T01EP15"/>
+<Item class="type:x-xmb/module-action" key="V.RAVEN T01EP16" attr="V.RAVEN T01EP16"/>
+<Item class="type:x-xmb/module-action" key="V.RAVEN T01EP17" attr="V.RAVEN T01EP17"/>
+<Item class="type:x-xmb/module-action" key="V.RAVEN T01EP18" attr="V.RAVEN T01EP18"/>
+<Item class="type:x-xmb/module-action" key="V.RAVEN T01EP19" attr="V.RAVEN T01EP19"/>
+<Item class="type:x-xmb/module-action" key="V.RAVEN T01EP20" attr="V.RAVEN T01EP20"/>
+<Item class="type:x-xmb/module-action" key="V.RAVEN T01EP21" attr="V.RAVEN T01EP21"/>
+</Items>
+	</View>
+
+</XMBML>		

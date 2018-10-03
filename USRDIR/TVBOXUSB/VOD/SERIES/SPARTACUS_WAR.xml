@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<XMBML version="1.0">
+	
+	<!-- Main  > zeTVmod > Submenu -->
+	<View id="seg_tv_items">
+		<Attributes>
+<Table key="SPARTACUS WAR OF THE DAMNED 4x01"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/SPARTACUS_WAR.jpg</String></Pair><Pair key="title"><String>SPARTACUS WAR OF THE DAMNED 4x01</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=923b6695ee8d70d2</String></Pair></Table>
+<Table key="SPARTACUS WAR OF THE DAMNED 4x02"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/SPARTACUS_WAR.jpg</String></Pair><Pair key="title"><String>SPARTACUS WAR OF THE DAMNED 4x02</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=49ae762864d5975</String></Pair></Table>
+<Table key="SPARTACUS WAR OF THE DAMNED 4x03"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/SPARTACUS_WAR.jpg</String></Pair><Pair key="title"><String>SPARTACUS WAR OF THE DAMNED 4x03</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=15b325f397dae6c9</String></Pair></Table>
+<Table key="SPARTACUS WAR OF THE DAMNED 4x04"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/SPARTACUS_WAR.jpg</String></Pair><Pair key="title"><String>SPARTACUS WAR OF THE DAMNED 4x04</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=e54029e2f2bbff95</String></Pair></Table>
+<Table key="SPARTACUS WAR OF THE DAMNED 4x05"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/SPARTACUS_WAR.jpg</String></Pair><Pair key="title"><String>SPARTACUS WAR OF THE DAMNED 4x05</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=24172eb72cd9a43</String></Pair></Table>
+<Table key="SPARTACUS WAR OF THE DAMNED 4x06"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/SPARTACUS_WAR.jpg</String></Pair><Pair key="title"><String>SPARTACUS WAR OF THE DAMNED 4x06</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=fd1629826b3ecb2a</String></Pair></Table>
+<Table key="SPARTACUS WAR OF THE DAMNED 4x07"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/SPARTACUS_WAR.jpg</String></Pair><Pair key="title"><String>SPARTACUS WAR OF THE DAMNED 4x07</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=865dd7b182c5f6d5</String></Pair></Table>
+<Table key="SPARTACUS WAR OF THE DAMNED 4x08"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/SPARTACUS_WAR.jpg</String></Pair><Pair key="title"><String>SPARTACUS WAR OF THE DAMNED 4x08</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=94663f8d2becb856</String></Pair></Table>
+<Table key="SPARTACUS WAR OF THE DAMNED 4x09"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/SPARTACUS_WAR.jpg</String></Pair><Pair key="title"><String>SPARTACUS WAR OF THE DAMNED 4x09</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=8014738370b046e4</String></Pair></Table>
+<Table key="SPARTACUS WAR OF THE DAMNED 4x10"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/SPARTACUS_WAR.jpg</String></Pair><Pair key="title"><String>SPARTACUS WAR OF THE DAMNED 4x10</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=80f19ecb13a00658</String></Pair></Table>
+</Attributes>
+		<Items>
+<Item class="type:x-xmb/module-action" key="SPARTACUS WAR OF THE DAMNED 4x01" attr="SPARTACUS WAR OF THE DAMNED 4x01"/>
+<Item class="type:x-xmb/module-action" key="SPARTACUS WAR OF THE DAMNED 4x02" attr="SPARTACUS WAR OF THE DAMNED 4x02"/>
+<Item class="type:x-xmb/module-action" key="SPARTACUS WAR OF THE DAMNED 4x03" attr="SPARTACUS WAR OF THE DAMNED 4x03"/>
+<Item class="type:x-xmb/module-action" key="SPARTACUS WAR OF THE DAMNED 4x04" attr="SPARTACUS WAR OF THE DAMNED 4x04"/>
+<Item class="type:x-xmb/module-action" key="SPARTACUS WAR OF THE DAMNED 4x05" attr="SPARTACUS WAR OF THE DAMNED 4x05"/>
+<Item class="type:x-xmb/module-action" key="SPARTACUS WAR OF THE DAMNED 4x06" attr="SPARTACUS WAR OF THE DAMNED 4x06"/>
+<Item class="type:x-xmb/module-action" key="SPARTACUS WAR OF THE DAMNED 4x07" attr="SPARTACUS WAR OF THE DAMNED 4x07"/>
+<Item class="type:x-xmb/module-action" key="SPARTACUS WAR OF THE DAMNED 4x08" attr="SPARTACUS WAR OF THE DAMNED 4x08"/>
+<Item class="type:x-xmb/module-action" key="SPARTACUS WAR OF THE DAMNED 4x09" attr="SPARTACUS WAR OF THE DAMNED 4x09"/>
+<Item class="type:x-xmb/module-action" key="SPARTACUS WAR OF THE DAMNED 4x10" attr="SPARTACUS WAR OF THE DAMNED 4x10"/>
+</Items>
+	</View>
+
+</XMBML>		

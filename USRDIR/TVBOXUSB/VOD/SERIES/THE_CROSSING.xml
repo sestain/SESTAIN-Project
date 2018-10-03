@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<XMBML version="1.0">
+	
+	<!-- Main  > zeTVmod > Submenu -->
+	<View id="seg_tv_items">
+		<Attributes>
+<Table key="The Crossing T01E01 Leg"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/THE_CROSSING.jpg</String></Pair><Pair key="title"><String>The Crossing T01E01 Leg</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=51bb061cc7ee44f0</String></Pair></Table>
+<Table key="The Crossing T01E02 Leg"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/THE_CROSSING.jpg</String></Pair><Pair key="title"><String>The Crossing T01E02 Leg</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=add3d636d4923f56</String></Pair></Table>
+<Table key="The Crossing T01E03 Leg"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/THE_CROSSING.jpg</String></Pair><Pair key="title"><String>The Crossing T01E03 Leg</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=6f15f2c04971222b</String></Pair></Table>
+<Table key="The Crossing T01E04 Leg"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/THE_CROSSING.jpg</String></Pair><Pair key="title"><String>The Crossing T01E04 Leg</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=7005911771101a4f</String></Pair></Table>
+<Table key="The Crossing T01E05 Leg"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/THE_CROSSING.jpg</String></Pair><Pair key="title"><String>The Crossing T01E05 Leg</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=a7765b702eb115f</String></Pair></Table>
+<Table key="The Crossing T01E06 Leg"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/THE_CROSSING.jpg</String></Pair><Pair key="title"><String>The Crossing T01E06 Leg</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=a5a6ef946309bc21</String></Pair></Table>
+<Table key="The Crossing T01E07 Leg"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/THE_CROSSING.jpg</String></Pair><Pair key="title"><String>The Crossing T01E07 Leg</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=5f5190384566ef2d</String></Pair></Table>
+<Table key="The Crossing T01E08 Leg"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/THE_CROSSING.jpg</String></Pair><Pair key="title"><String>The Crossing T01E08 Leg</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=d9358feb0d737f30</String></Pair></Table>
+</Attributes>
+		<Items>
+<Item class="type:x-xmb/module-action" key="The Crossing T01E01 Leg" attr="The Crossing T01E01 Leg"/>
+<Item class="type:x-xmb/module-action" key="The Crossing T01E02 Leg" attr="The Crossing T01E02 Leg"/>
+<Item class="type:x-xmb/module-action" key="The Crossing T01E03 Leg" attr="The Crossing T01E03 Leg"/>
+<Item class="type:x-xmb/module-action" key="The Crossing T01E04 Leg" attr="The Crossing T01E04 Leg"/>
+<Item class="type:x-xmb/module-action" key="The Crossing T01E05 Leg" attr="The Crossing T01E05 Leg"/>
+<Item class="type:x-xmb/module-action" key="The Crossing T01E06 Leg" attr="The Crossing T01E06 Leg"/>
+<Item class="type:x-xmb/module-action" key="The Crossing T01E07 Leg" attr="The Crossing T01E07 Leg"/>
+<Item class="type:x-xmb/module-action" key="The Crossing T01E08 Leg" attr="The Crossing T01E08 Leg"/>
+</Items>
+	</View>
+
+</XMBML>		

@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<XMBML version="1.0">
+	
+	<!-- Main  > zeTVmod > Submenu -->
+	<View id="seg_tv_items">
+		<Attributes>
+<Table key="Fatal Fury1 parte 1"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/VOD/ANIMES/Fatal_Fury/Fatal_Fury.jpg</String></Pair><Pair key="title"><String>Fatal Fury1 parte 1</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=85d5836e5033ab9c</String></Pair></Table>
+<Table key="Fatal Fury1 parte 2"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/VOD/ANIMES/Fatal_Fury/Fatal_Fury.jpg</String></Pair><Pair key="title"><String>Fatal Fury1 parte 2</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=46f1afe68b9a5077</String></Pair></Table>
+<Table key="Fatal Fury2 parte 1"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/VOD/ANIMES/Fatal_Fury/Fatal_Fury.jpg</String></Pair><Pair key="title"><String>Fatal Fury2 parte 1</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=a1bdf15cef37eab</String></Pair></Table>
+<Table key="Fatal Fury2 parte 2"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/VOD/ANIMES/Fatal_Fury/Fatal_Fury.jpg</String></Pair><Pair key="title"><String>Fatal Fury2 parte 2</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=8fadb5f0468f2af</String></Pair></Table>
+<Table key="Fatal Fury3 parte 1"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/VOD/ANIMES/Fatal_Fury/Fatal_Fury.jpg</String></Pair><Pair key="title"><String>Fatal Fury3 parte 1</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=f21ba9a4e93457b</String></Pair></Table>
+<Table key="Fatal Fury3 parte 2"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/VOD/ANIMES/Fatal_Fury/Fatal_Fury.jpg</String></Pair><Pair key="title"><String>Fatal Fury3 parte 2</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=c7f8491a1ac367c9</String></Pair></Table>
+</Attributes>
+		<Items>
+<Item class="type:x-xmb/module-action" key="Fatal Fury1 parte 1" attr="Fatal Fury1 parte 1"/>
+<Item class="type:x-xmb/module-action" key="Fatal Fury1 parte 2" attr="Fatal Fury1 parte 2"/>
+<Item class="type:x-xmb/module-action" key="Fatal Fury2 parte 1" attr="Fatal Fury2 parte 1"/>
+<Item class="type:x-xmb/module-action" key="Fatal Fury2 parte 2" attr="Fatal Fury2 parte 2"/>
+<Item class="type:x-xmb/module-action" key="Fatal Fury3 parte 1" attr="Fatal Fury3 parte 1"/>
+<Item class="type:x-xmb/module-action" key="Fatal Fury3 parte 2" attr="Fatal Fury3 parte 2"/>
+</Items>
+	</View>
+
+</XMBML>

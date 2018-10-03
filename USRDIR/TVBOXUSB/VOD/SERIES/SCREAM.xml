@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<XMBML version="1.0">
+	
+	<!-- Main  > zeTVmod > Submenu -->
+	<View id="seg_tv_items">
+		<Attributes>
+<Table key="Scream 1x01"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/SCREAM.jpg</String></Pair><Pair key="title"><String>Scream 1x01</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=5affc7f0329a370d</String></Pair></Table>
+<Table key="Scream 1x02"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/SCREAM.jpg</String></Pair><Pair key="title"><String>Scream 1x02</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=d2f1ede739702531</String></Pair></Table>
+<Table key="Scream 1x03"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/SCREAM.jpg</String></Pair><Pair key="title"><String>Scream 1x03</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=5ebb3f7a78f43248</String></Pair></Table>
+<Table key="Scream 1x04"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/SCREAM.jpg</String></Pair><Pair key="title"><String>Scream 1x04</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=8e1ff649bcaa28b9</String></Pair></Table>
+<Table key="Scream 1x05"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/SCREAM.jpg</String></Pair><Pair key="title"><String>Scream 1x05</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=4ea064f7a4eb4cac</String></Pair></Table>
+<Table key="Scream 1x06"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/SCREAM.jpg</String></Pair><Pair key="title"><String>Scream 1x06</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=e93dbb9e0d062838</String></Pair></Table>
+<Table key="Scream 1x07"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/SCREAM.jpg</String></Pair><Pair key="title"><String>Scream 1x07</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=6b2a96bc44194b1b</String></Pair></Table>
+<Table key="Scream 1x08"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/SCREAM.jpg</String></Pair><Pair key="title"><String>Scream 1x08</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=711db099eb891d33</String></Pair></Table>
+<Table key="Scream 1x09"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/SCREAM.jpg</String></Pair><Pair key="title"><String>Scream 1x09</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=4a31c1bee2bd85e6</String></Pair></Table>
+<Table key="Scream 1x10"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/SCREAM.jpg</String></Pair><Pair key="title"><String>Scream 1x10</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=238ef44378ca6b49</String></Pair></Table>
+<Table key="Scream 2x01"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/SCREAM.jpg</String></Pair><Pair key="title"><String>Scream 2x01</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=ed147214b0fce346</String></Pair></Table>
+<Table key="Scream 2x02"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/SCREAM.jpg</String></Pair><Pair key="title"><String>Scream 2x02</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=f2bcc1a49971d9ee</String></Pair></Table>
+<Table key="Scream 2x03"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/SCREAM.jpg</String></Pair><Pair key="title"><String>Scream 2x03</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=77e75eade77576c6</String></Pair></Table>
+<Table key="Scream 2x04"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/SCREAM.jpg</String></Pair><Pair key="title"><String>Scream 2x04</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=6f435dd9bb088ab7</String></Pair></Table>
+<Table key="Scream 2x05"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/SCREAM.jpg</String></Pair><Pair key="title"><String>Scream 2x05</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=6d793a6437670fb9</String></Pair></Table>
+<Table key="Scream 2x06"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/SCREAM.jpg</String></Pair><Pair key="title"><String>Scream 2x06</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=cc0d7062badc5f3a</String></Pair></Table>
+<Table key="Scream 2x07"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/SCREAM.jpg</String></Pair><Pair key="title"><String>Scream 2x07</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=a568f4142b29448d1f7e95d30cc8ee07</String></Pair></Table>
+<Table key="Scream 2x08"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/SCREAM.jpg</String></Pair><Pair key="title"><String>Scream 2x08</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=a568f4142b29448d45aa6d10b527c0cd</String></Pair></Table>
+<Table key="Scream 2x09"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/SCREAM.jpg</String></Pair><Pair key="title"><String>Scream 2x09</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=a568f4142b29448de4a6f0b8af4795ac</String></Pair></Table>
+<Table key="Scream 2x10"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/SCREAM.jpg</String></Pair><Pair key="title"><String>Scream 2x10</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=a568f4142b29448d3b2d0f9534fc02d5</String></Pair></Table>
+<Table key="Scream 2x11"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/SCREAM.jpg</String></Pair><Pair key="title"><String>Scream 2x11</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=a568f4142b29448dd19338c5fe178b42</String></Pair></Table>
+<Table key="Scream 2x12"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/SCREAM.jpg</String></Pair><Pair key="title"><String>Scream 2x12</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=a568f4142b29448dd9afe74f56d46f47</String></Pair></Table>
+<Table key="Scream 2x13/1"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/SCREAM.jpg</String></Pair><Pair key="title"><String>Scream 2x13/1</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=b54a8940d7bba575</String></Pair></Table>
+<Table key="Scream 2x13/2"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/IMAGENS/SERIES/SCREAM.jpg</String></Pair><Pair key="title"><String>Scream 2x13/2</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=e8ef1af783bd2ffb</String></Pair></Table>
+</Attributes>
+		<Items>
+<Item class="type:x-xmb/module-action" key="Scream 1x01" attr="Scream 1x01"/>
+<Item class="type:x-xmb/module-action" key="Scream 1x02" attr="Scream 1x02"/>
+<Item class="type:x-xmb/module-action" key="Scream 1x03" attr="Scream 1x03"/>
+<Item class="type:x-xmb/module-action" key="Scream 1x04" attr="Scream 1x04"/>
+<Item class="type:x-xmb/module-action" key="Scream 1x05" attr="Scream 1x05"/>
+<Item class="type:x-xmb/module-action" key="Scream 1x06" attr="Scream 1x06"/>
+<Item class="type:x-xmb/module-action" key="Scream 1x07" attr="Scream 1x07"/>
+<Item class="type:x-xmb/module-action" key="Scream 1x08" attr="Scream 1x08"/>
+<Item class="type:x-xmb/module-action" key="Scream 1x09" attr="Scream 1x09"/>
+<Item class="type:x-xmb/module-action" key="Scream 1x10" attr="Scream 1x10"/>
+<Item class="type:x-xmb/module-action" key="Scream 2x01" attr="Scream 2x01"/>
+<Item class="type:x-xmb/module-action" key="Scream 2x02" attr="Scream 2x02"/>
+<Item class="type:x-xmb/module-action" key="Scream 2x03" attr="Scream 2x03"/>
+<Item class="type:x-xmb/module-action" key="Scream 2x04" attr="Scream 2x04"/>
+<Item class="type:x-xmb/module-action" key="Scream 2x05" attr="Scream 2x05"/>
+<Item class="type:x-xmb/module-action" key="Scream 2x06" attr="Scream 2x06"/>
+<Item class="type:x-xmb/module-action" key="Scream 2x07" attr="Scream 2x07"/>
+<Item class="type:x-xmb/module-action" key="Scream 2x08" attr="Scream 2x08"/>
+<Item class="type:x-xmb/module-action" key="Scream 2x09" attr="Scream 2x09"/>
+<Item class="type:x-xmb/module-action" key="Scream 2x10" attr="Scream 2x10"/>
+<Item class="type:x-xmb/module-action" key="Scream 2x11" attr="Scream 2x11"/>
+<Item class="type:x-xmb/module-action" key="Scream 2x12" attr="Scream 2x12"/>
+<Item class="type:x-xmb/module-action" key="Scream 2x13/1" attr="Scream 2x13/1"/>
+<Item class="type:x-xmb/module-action" key="Scream 2x13/2" attr="Scream 2x13/2"/>
+</Items>
+	</View>
+
+</XMBML>		

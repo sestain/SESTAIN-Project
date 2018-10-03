@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<XMBML version="1.0">
+	
+	<!-- Main  > zeTVmod > Submenu -->
+	<View id="seg_tv_items">
+		<Attributes>
+<Table key=" KAIJUDO 01"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/VOD/ANIMES/KAIJUDO/KAIJUDO.jpg</String></Pair><Pair key="title"><String> KAIJUDO 01</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=760486ea6f84ed1d</String></Pair></Table>
+<Table key=" KAIJUDO 02"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/VOD/ANIMES/KAIJUDO/KAIJUDO.jpg</String></Pair><Pair key="title"><String> KAIJUDO 02</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=f1d34d8eac2d09b0</String></Pair></Table>
+<Table key=" KAIJUDO 03"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/VOD/ANIMES/KAIJUDO/KAIJUDO.jpg</String></Pair><Pair key="title"><String> KAIJUDO 03</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=d29a95fb233fc830</String></Pair></Table>
+<Table key=" KAIJUDO 04"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/VOD/ANIMES/KAIJUDO/KAIJUDO.jpg</String></Pair><Pair key="title"><String> KAIJUDO 04</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=4d38a5b396a34dc7</String></Pair></Table>
+<Table key=" KAIJUDO 05"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/VOD/ANIMES/KAIJUDO/KAIJUDO.jpg</String></Pair><Pair key="title"><String> KAIJUDO 05</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=8c033133c4ee7a6f</String></Pair></Table>
+<Table key=" KAIJUDO 06"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/VOD/ANIMES/KAIJUDO/KAIJUDO.jpg</String></Pair><Pair key="title"><String> KAIJUDO 06</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=82d9a0c477198d82</String></Pair></Table>
+<Table key=" KAIJUDO 07"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/VOD/ANIMES/KAIJUDO/KAIJUDO.jpg</String></Pair><Pair key="title"><String> KAIJUDO 07</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=c1c471270829beea</String></Pair></Table>
+<Table key=" KAIJUDO 08"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/VOD/ANIMES/KAIJUDO/KAIJUDO.jpg</String></Pair><Pair key="title"><String> KAIJUDO 08</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=6d6e516da01b06fe</String></Pair></Table>
+<Table key=" KAIJUDO 09"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/VOD/ANIMES/KAIJUDO/KAIJUDO.jpg</String></Pair><Pair key="title"><String> KAIJUDO 09</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=f31c7600f76727f2</String></Pair></Table>
+<Table key=" KAIJUDO 10"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/VOD/ANIMES/KAIJUDO/KAIJUDO.jpg</String></Pair><Pair key="title"><String> KAIJUDO 10</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>https://www.blogger.com/video-play.mp4?contentId=c98cfa211d7e4931</String></Pair></Table>
+<Table key=" KAIJUDO 11"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/VOD/ANIMES/KAIJUDO/KAIJUDO.jpg</String></Pair><Pair key="title"><String> KAIJUDO 11</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=7d23bc03b654bc81</String></Pair></Table>
+<Table key=" KAIJUDO 12"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/VOD/ANIMES/KAIJUDO/KAIJUDO.jpg</String></Pair><Pair key="title"><String> KAIJUDO 12</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=5f4bca794a8d0c88</String></Pair></Table>
+<Table key=" KAIJUDO 13"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/VOD/ANIMES/KAIJUDO/KAIJUDO.jpg</String></Pair><Pair key="title"><String> KAIJUDO 13</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=5671b269678ab7d2</String></Pair></Table>
+<Table key=" KAIJUDO 14"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/VOD/ANIMES/KAIJUDO/KAIJUDO.jpg</String></Pair><Pair key="title"><String> KAIJUDO 14</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=46ce702ad06b51c6</String></Pair></Table>
+<Table key=" KAIJUDO 15"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/VOD/ANIMES/KAIJUDO/KAIJUDO.jpg</String></Pair><Pair key="title"><String> KAIJUDO 15</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=29bc2fd2d32a00b7</String></Pair></Table>
+<Table key=" KAIJUDO 16"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/VOD/ANIMES/KAIJUDO/KAIJUDO.jpg</String></Pair><Pair key="title"><String> KAIJUDO 16</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=a3e85e957faa4666</String></Pair></Table>
+<Table key=" KAIJUDO 17"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/VOD/ANIMES/KAIJUDO/KAIJUDO.jpg</String></Pair><Pair key="title"><String> KAIJUDO 17</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=e7bce3b7dd27a325</String></Pair></Table>
+<Table key=" KAIJUDO 18"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/VOD/ANIMES/KAIJUDO/KAIJUDO.jpg</String></Pair><Pair key="title"><String> KAIJUDO 18</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=472fa295f47d08b6</String></Pair></Table>
+<Table key=" KAIJUDO 19"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/VOD/ANIMES/KAIJUDO/KAIJUDO.jpg</String></Pair><Pair key="title"><String> KAIJUDO 19</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=2f9e0f198454c269</String></Pair></Table>
+<Table key=" KAIJUDO 20"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/VOD/ANIMES/KAIJUDO/KAIJUDO.jpg</String></Pair><Pair key="title"><String> KAIJUDO 20</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=76672ee234d87a4e</String></Pair></Table>
+<Table key=" KAIJUDO 21"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/VOD/ANIMES/KAIJUDO/KAIJUDO.jpg</String></Pair><Pair key="title"><String> KAIJUDO 21</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=9b8e7b37f6e94854</String></Pair></Table>
+<Table key=" KAIJUDO 22"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/VOD/ANIMES/KAIJUDO/KAIJUDO.jpg</String></Pair><Pair key="title"><String> KAIJUDO 22</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=2256ff8e4b11acc4</String></Pair></Table>
+<Table key=" KAIJUDO 23"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/VOD/ANIMES/KAIJUDO/KAIJUDO.jpg</String></Pair><Pair key="title"><String> KAIJUDO 23</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=5bbff972bed51148</String></Pair></Table>
+<Table key=" KAIJUDO 24"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/VOD/ANIMES/KAIJUDO/KAIJUDO.jpg</String></Pair><Pair key="title"><String> KAIJUDO 24</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=2db0efa790acf00a</String></Pair></Table>
+<Table key=" KAIJUDO 25"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/VOD/ANIMES/KAIJUDO/KAIJUDO.jpg</String></Pair><Pair key="title"><String> KAIJUDO 25</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=703e3a7f273a027e</String></Pair></Table>
+<Table key=" KAIJUDO 26"><Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/TVBOXUSB/VOD/ANIMES/KAIJUDO/KAIJUDO.jpg</String></Pair><Pair key="title"><String> KAIJUDO 26</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>http://www.blogger.com/video-play.mp4?contentId=1c0c5f3409964b88</String></Pair></Table>
+</Attributes>
+		<Items>
+<Item class="type:x-xmb/module-action" key=" KAIJUDO 01" attr=" KAIJUDO 01"/>
+<Item class="type:x-xmb/module-action" key=" KAIJUDO 02" attr=" KAIJUDO 02"/>
+<Item class="type:x-xmb/module-action" key=" KAIJUDO 03" attr=" KAIJUDO 03"/>
+<Item class="type:x-xmb/module-action" key=" KAIJUDO 04" attr=" KAIJUDO 04"/>
+<Item class="type:x-xmb/module-action" key=" KAIJUDO 05" attr=" KAIJUDO 05"/>
+<Item class="type:x-xmb/module-action" key=" KAIJUDO 06" attr=" KAIJUDO 06"/>
+<Item class="type:x-xmb/module-action" key=" KAIJUDO 07" attr=" KAIJUDO 07"/>
+<Item class="type:x-xmb/module-action" key=" KAIJUDO 08" attr=" KAIJUDO 08"/>
+<Item class="type:x-xmb/module-action" key=" KAIJUDO 09" attr=" KAIJUDO 09"/>
+<Item class="type:x-xmb/module-action" key=" KAIJUDO 10" attr=" KAIJUDO 10"/>
+<Item class="type:x-xmb/module-action" key=" KAIJUDO 11" attr=" KAIJUDO 11"/>
+<Item class="type:x-xmb/module-action" key=" KAIJUDO 12" attr=" KAIJUDO 12"/>
+<Item class="type:x-xmb/module-action" key=" KAIJUDO 13" attr=" KAIJUDO 13"/>
+<Item class="type:x-xmb/module-action" key=" KAIJUDO 14" attr=" KAIJUDO 14"/>
+<Item class="type:x-xmb/module-action" key=" KAIJUDO 15" attr=" KAIJUDO 15"/>
+<Item class="type:x-xmb/module-action" key=" KAIJUDO 16" attr=" KAIJUDO 16"/>
+<Item class="type:x-xmb/module-action" key=" KAIJUDO 17" attr=" KAIJUDO 17"/>
+<Item class="type:x-xmb/module-action" key=" KAIJUDO 18" attr=" KAIJUDO 18"/>
+<Item class="type:x-xmb/module-action" key=" KAIJUDO 19" attr=" KAIJUDO 19"/>
+<Item class="type:x-xmb/module-action" key=" KAIJUDO 20" attr=" KAIJUDO 20"/>
+<Item class="type:x-xmb/module-action" key=" KAIJUDO 21" attr=" KAIJUDO 21"/>
+<Item class="type:x-xmb/module-action" key=" KAIJUDO 22" attr=" KAIJUDO 22"/>
+<Item class="type:x-xmb/module-action" key=" KAIJUDO 23" attr=" KAIJUDO 23"/>
+<Item class="type:x-xmb/module-action" key=" KAIJUDO 24" attr=" KAIJUDO 24"/>
+<Item class="type:x-xmb/module-action" key=" KAIJUDO 25" attr=" KAIJUDO 25"/>
+<Item class="type:x-xmb/module-action" key=" KAIJUDO 26" attr=" KAIJUDO 26"/>
+</Items>
+	</View>
+
+</XMBML>
